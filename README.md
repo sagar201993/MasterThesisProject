@@ -1,5 +1,7 @@
 # 📊 Meta Scraper – Visualizing Blog Metadata for Better Insights
 
+🚀 **Live Demo**: [https://web-scraping-data-visualization-react.netlify.app/login](https://web-scraping-data-visualization-react.netlify.app/login)
+
 Meta Scraper is a full-stack web application developed as part of a Master's Thesis in Applied Computer Science at Schmalkalden University of Applied Sciences. The application is designed to automate the extraction, structuring, and visualization of metadata from blog websites. It enables users to convert raw, unstructured content into clear, interactive visual dashboards—empowering researchers, strategists, and data analysts to gain meaningful insights.
 
 ---
@@ -164,5 +166,3 @@ npm run server
 # Open another terminal for frontend
 npm start
 ```
-
-=======
