@@ -1,0 +1,3044 @@
+[
+  {
+    "title": "Solidigm Lays Off Employees Due to Industry Downturn",
+    "comment": "18",
+    "author": "by Ant Shilov",
+    "date": "10/25/2023"
+  },
+  {
+    "title": "Micron and SK hynix Ship LPDDR5-9600 Memory for Next-Gen Smartphones",
+    "comment": "23",
+    "author": "by Ant Shilov",
+    "date": "10/25/2023"
+  },
+  {
+    "title": "Samsung Announces 'Shinebolt' HBM3E Memory: HBM Hits 36GB Stacks at 9.8 Gbps",
+    "comment": "10",
+    "author": "by Ryan Smith",
+    "date": "10/20/2023"
+  },
+  {
+    "title": "HBM4 in Development, Organizers Eyeing Even Wider 2048-Bit Interface",
+    "comment": "11",
+    "author": "by Ant Shilov",
+    "date": "10/12/2023"
+  },
+  {
+    "title": "Micron to Ship HBM3E Memory to NVIDIA in Early 2024",
+    "comment": "7",
+    "author": "by Ant Shilov",
+    "date": "9/28/2023"
+  },
+  {
+    "title": "Micron Samples 128 GB Modules Based on 32 Gb DDR5 ICs",
+    "comment": "9",
+    "author": "by Ant Shilov",
+    "date": "9/28/2023"
+  },
+  {
+    "title": "Corsair's Dominator Titanium Memory Now Available, Unveils Plans for Beyond 8000 MT/s",
+    "comment": "1",
+    "author": "by Ant Shilov",
+    "date": "9/26/2023"
+  },
+  {
+    "title": "Modular LPDDR Memory Becomes A Reality: Samsung Introduces LPCAMM Memory Modules",
+    "comment": "30",
+    "author": "by Ryan Smith",
+    "date": "9/25/2023"
+  },
+  {
+    "title": "Samsung Unveils Industry's First 32Gbit DDR5 Memory Die: 1TB Modules Incoming",
+    "comment": "6",
+    "author": "by Ant Shilov",
+    "date": "9/1/2023"
+  },
+  {
+    "title": "SK hynix Begins Sampling HBM3e, Volume Production Planned For H1 2024",
+    "comment": "4",
+    "author": "by Ant Shilov",
+    "date": "8/21/2023"
+  },
+  {
+    "title": "Samsung, MemVerge, and H3 Build 2TB CXL Memory Pool",
+    "comment": "4",
+    "author": "by Ant Shilov",
+    "date": "8/14/2023"
+  },
+  {
+    "title": "SK Hynix Launches 24GB LPDDR5X-8500 Stacks for Smartphones, PCs, and HPC",
+    "comment": "10",
+    "author": "by Ant Shilov",
+    "date": "8/11/2023"
+  },
+  {
+    "title": "Memory Makers on Track to Double HBM Output in 2023",
+    "comment": "9",
+    "author": "by Ant Shilov",
+    "date": "8/9/2023"
+  },
+  {
+    "title": "SK Hynix Shows Off 321-Layer 3D TLC NAND Device",
+    "comment": "11",
+    "author": "by Ant Shilov",
+    "date": "8/9/2023"
+  },
+  {
+    "title": "Micron's CZ120 CXL Memory Expansion Modules Unveiled: 128GB and 256GB",
+    "comment": "7",
+    "author": "by Ant Shilov",
+    "date": "8/9/2023"
+  },
+  {
+    "title": "TeamGroup Unveils JEDEC-Spec DDR5-6400 Memory Kits: Faster 1.1V DDR5 On The Way For Future CPUs",
+    "comment": "5",
+    "author": "by Ant Shilov",
+    "date": "7/31/2023"
+  },
+  {
+    "title": "Samsung Begins to Produce Third 3nm Chip Amid Massive Losses On DRAM & NAND",
+    "comment": "14",
+    "author": "by Ant Shilov",
+    "date": "7/28/2023"
+  },
+  {
+    "title": "Micron Publishes Updated DRAM Roadmap: 32 Gb DDR5 DRAMs, GDDR7, HBMNext",
+    "comment": "4",
+    "author": "by Ant Shilov",
+    "date": "7/27/2023"
+  },
+  {
+    "title": "Micron Unveils HBM3 Gen2 Memory: 1.2 TB/sec Memory Stacks For HPC and AI Processors",
+    "comment": "7",
+    "author": "by Ant Shilov",
+    "date": "7/26/2023"
+  },
+  {
+    "title": "Solidigm Lays Off Employees Due to Industry Downturn",
+    "comment": "18",
+    "author": "by Ant Shilov",
+    "date": "10/25/2023"
+  },
+  {
+    "title": "Micron and SK hynix Ship LPDDR5-9600 Memory for Next-Gen Smartphones",
+    "comment": "23",
+    "author": "by Ant Shilov",
+    "date": "10/25/2023"
+  },
+  {
+    "title": "Samsung Announces 'Shinebolt' HBM3E Memory: HBM Hits 36GB Stacks at 9.8 Gbps",
+    "comment": "10",
+    "author": "by Ryan Smith",
+    "date": "10/20/2023"
+  },
+  {
+    "title": "HBM4 in Development, Organizers Eyeing Even Wider 2048-Bit Interface",
+    "comment": "11",
+    "author": "by Ant Shilov",
+    "date": "10/12/2023"
+  },
+  {
+    "title": "Micron to Ship HBM3E Memory to NVIDIA in Early 2024",
+    "comment": "7",
+    "author": "by Ant Shilov",
+    "date": "9/28/2023"
+  },
+  {
+    "title": "Micron Samples 128 GB Modules Based on 32 Gb DDR5 ICs",
+    "comment": "9",
+    "author": "by Ant Shilov",
+    "date": "9/28/2023"
+  },
+  {
+    "title": "Corsair's Dominator Titanium Memory Now Available, Unveils Plans for Beyond 8000 MT/s",
+    "comment": "1",
+    "author": "by Ant Shilov",
+    "date": "9/26/2023"
+  },
+  {
+    "title": "Modular LPDDR Memory Becomes A Reality: Samsung Introduces LPCAMM Memory Modules",
+    "comment": "30",
+    "author": "by Ryan Smith",
+    "date": "9/25/2023"
+  },
+  {
+    "title": "Samsung Unveils Industry's First 32Gbit DDR5 Memory Die: 1TB Modules Incoming",
+    "comment": "6",
+    "author": "by Ant Shilov",
+    "date": "9/1/2023"
+  },
+  {
+    "title": "SK hynix Begins Sampling HBM3e, Volume Production Planned For H1 2024",
+    "comment": "4",
+    "author": "by Ant Shilov",
+    "date": "8/21/2023"
+  },
+  {
+    "title": "Samsung, MemVerge, and H3 Build 2TB CXL Memory Pool",
+    "comment": "4",
+    "author": "by Ant Shilov",
+    "date": "8/14/2023"
+  },
+  {
+    "title": "SK Hynix Launches 24GB LPDDR5X-8500 Stacks for Smartphones, PCs, and HPC",
+    "comment": "10",
+    "author": "by Ant Shilov",
+    "date": "8/11/2023"
+  },
+  {
+    "title": "Memory Makers on Track to Double HBM Output in 2023",
+    "comment": "9",
+    "author": "by Ant Shilov",
+    "date": "8/9/2023"
+  },
+  {
+    "title": "SK Hynix Shows Off 321-Layer 3D TLC NAND Device",
+    "comment": "11",
+    "author": "by Ant Shilov",
+    "date": "8/9/2023"
+  },
+  {
+    "title": "Micron's CZ120 CXL Memory Expansion Modules Unveiled: 128GB and 256GB",
+    "comment": "7",
+    "author": "by Ant Shilov",
+    "date": "8/9/2023"
+  },
+  {
+    "title": "TeamGroup Unveils JEDEC-Spec DDR5-6400 Memory Kits: Faster 1.1V DDR5 On The Way For Future CPUs",
+    "comment": "5",
+    "author": "by Ant Shilov",
+    "date": "7/31/2023"
+  },
+  {
+    "title": "Samsung Begins to Produce Third 3nm Chip Amid Massive Losses On DRAM & NAND",
+    "comment": "14",
+    "author": "by Ant Shilov",
+    "date": "7/28/2023"
+  },
+  {
+    "title": "Micron Publishes Updated DRAM Roadmap: 32 Gb DDR5 DRAMs, GDDR7, HBMNext",
+    "comment": "4",
+    "author": "by Ant Shilov",
+    "date": "7/27/2023"
+  },
+  {
+    "title": "Micron Unveils HBM3 Gen2 Memory: 1.2 TB/sec Memory Stacks For HPC and AI Processors",
+    "comment": "7",
+    "author": "by Ant Shilov",
+    "date": "7/26/2023"
+  },
+  {
+    "title": "Cadence Buys Memory and SerDes PHY Assets from Rambus",
+    "comment": "5",
+    "author": "by Ant Shilov",
+    "date": "7/24/2023"
+  },
+  {
+    "title": "Samsung Completes Initial GDDR7 Development: First Parts to Reach Up to 32Gbps/pin",
+    "comment": "11",
+    "author": "by Ryan Smith",
+    "date": "7/18/2023"
+  },
+  {
+    "title": "Micron Expects to Debut GDDR7 Memory in 2024",
+    "comment": "12",
+    "author": "by Ant Shilov",
+    "date": "6/29/2023"
+  },
+  {
+    "title": "G.Skill's 24GB DDR5-6000 Modules with AMD EXPO Profiles Released",
+    "comment": "4",
+    "author": "by Ant Shilov",
+    "date": "6/28/2023"
+  },
+  {
+    "title": "SK Hynix Starts Production of 238-Layer 3D NAND: 34% Denser with 2.4 GT/s Interface",
+    "comment": "5",
+    "author": "by Ant Shilov",
+    "date": "6/8/2023"
+  },
+  {
+    "title": "TeamGroup Announces T-Force Xtreem ARGB DDR5 Memory: Up to DDR5-8266",
+    "comment": "5",
+    "author": "by Gavin Bshor",
+    "date": "6/2/2023"
+  },
+  {
+    "title": "Next-Generation CAMM, MR-DIMM Memory Modules Show Up at Computex",
+    "comment": "4",
+    "author": "by Ant Shilov",
+    "date": "6/2/2023"
+  },
+  {
+    "title": "Corsair Unveils Dominator Titanium DDR5 Kits: Reaching For DDR5-8000",
+    "comment": "5",
+    "author": "by Ant Shilov",
+    "date": "5/30/2023"
+  },
+  {
+    "title": "SK Hynix Publishes First Info on HBM3E Memory: Ultra-wide HPC Memory to Reach 8 GT/s",
+    "comment": "5",
+    "author": "by Ant Shilov",
+    "date": "5/30/2023"
+  },
+  {
+    "title": "Micron Expects Impact as China Bans Its Products from 'Critical' Industries",
+    "comment": "12",
+    "author": "by Ant Shilov",
+    "date": "5/23/2023"
+  },
+  {
+    "title": "Micron to Bring EUV to Japan: 1\u03b3 Process DRAM to Be Made in Hiroshima in 2025",
+    "comment": "10",
+    "author": "by Ant Shilov",
+    "date": "5/19/2023"
+  },
+  {
+    "title": "Samsung Kicks Off DDR5 DRAM Production on 12nm Process Tech, DDR5-7200 in the Works",
+    "comment": "18",
+    "author": "by Ant Shilov",
+    "date": "5/18/2023"
+  },
+  {
+    "title": "Report: DDR5 RDIMM Production Impacted by PMIC Compatibility Issues",
+    "comment": "4",
+    "author": "by Ant Shilov",
+    "date": "4/26/2023"
+  },
+  {
+    "title": "ASUS Issues Statement on Ryzen 7000X3D Processor Issues, Possible Voltage Issues with AMD EXPO",
+    "comment": "8",
+    "author": "by Gavin Bshor",
+    "date": "4/25/2023"
+  },
+  {
+    "title": "SK hynix Now Sampling 24GB HBM3 Stacks, Preparing for Mass Production",
+    "comment": "1",
+    "author": "by Ant Shilov",
+    "date": "4/21/2023"
+  },
+  {
+    "title": "As The Demand for HBM Explodes, SK Hynix is Expected to Benefit",
+    "comment": "9",
+    "author": "by Ant Shilov",
+    "date": "4/18/2023"
+  },
+  {
+    "title": "Samsung Becomes Latest Memory Fab to Cut Production Amidst Post-Pandemic Slump",
+    "comment": "11",
+    "author": "by Ant Shilov",
+    "date": "4/7/2023"
+  },
+  {
+    "title": "Kingston Launches Fury Beast And Fury Renegade DDR5 Memory in White",
+    "comment": "17",
+    "author": "by Zhiye Liu",
+    "date": "3/28/2023"
+  },
+  {
+    "title": "G.Skill Launches DDR5-8000 CL38 48GB Memory Kit For Raptor Lake CPUs",
+    "comment": "8",
+    "author": "by Zhiye Liu",
+    "date": "3/13/2023"
+  },
+  {
+    "title": "Cadence Delivers Technical Details on GDDR7: 36 Gbps with PAM3 Encoding",
+    "comment": "29",
+    "author": "by Ant Shilov",
+    "date": "3/8/2023"
+  },
+  {
+    "title": "G.Skill Zeta R5 DDR5 RDIMMs: Up to DDR5-6800 for Intel Xeon W-3400X and W-2400X",
+    "comment": "7",
+    "author": "by Gavin Bshor",
+    "date": "3/2/2023"
+  },
+  {
+    "title": "SK hynix Intros LPDDR5T Memory: Low Power RAM at up to 9.6Gbps",
+    "comment": "10",
+    "author": "by Ryan Smith",
+    "date": "1/25/2023"
+  },
+  {
+    "title": "SK hynix Reveals DDR5 MCR DIMM, Up to DDR5-8000 Speeds for HPC",
+    "comment": "20",
+    "author": "by Gavin Bshor",
+    "date": "12/8/2022"
+  },
+  {
+    "title": "Micron Breaks Ground on Its $15 Billion EUV DRAM Fab in the U.S.",
+    "comment": "23",
+    "author": "by Ant Shilov",
+    "date": "9/14/2022"
+  },
+  {
+    "title": "AMD EXPO Memory Technology: One Click Overclocking Profiles For Ryzen 7000",
+    "comment": "34",
+    "author": "by Gavin Bshor",
+    "date": "8/30/2022"
+  },
+  {
+    "title": "Compute Express Link (CXL) 3.0 Announced: Doubled Speeds and Flexible Fabrics",
+    "comment": "4",
+    "author": "by Ryan Smith",
+    "date": "8/2/2022"
+  },
+  {
+    "title": "OpenCAPI to Fold into CXL - CXL Set to Become Dominant CPU Interconnect Standard",
+    "comment": "8",
+    "author": "by Ryan Smith",
+    "date": "8/1/2022"
+  },
+  {
+    "title": "Computex 2022: TeamGroup Announces T-Force Delta RGB DDR5-6600 CL34 and DDR5-6000 CL30 Memory",
+    "comment": "5",
+    "author": "by Gavin Bshor",
+    "date": "5/26/2022"
+  },
+  {
+    "title": "DDR5 Demystified - Feat. Samsung DDR5-4800: A Look at Ranks, DPCs, and Do Manufacturers Matter?",
+    "comment": "68",
+    "author": "by Gavin Bshor",
+    "date": "4/7/2022"
+  },
+  {
+    "title": "Crucial Ballistix Memory Goes End-of-Life, Micron Realigns its DRAM Strategy",
+    "comment": "13",
+    "author": "by Gavin Bshor",
+    "date": "2/17/2022"
+  },
+  {
+    "title": "G.Skill Blitzes DDR5 World Record With Trident Z5 at DDR5-8888",
+    "comment": "15",
+    "author": "by Gavin Bshor",
+    "date": "1/25/2022"
+  },
+  {
+    "title": "ASUS Demonstrates DDR5 to DDR4 Converter Card",
+    "comment": "31",
+    "author": "by Dr. Ian Cutress",
+    "date": "12/30/2021"
+  },
+  {
+    "title": "Intel Alder Lake DDR5 Memory Scaling Analysis With G.Skill Trident Z5",
+    "comment": "82",
+    "author": "by Gavin Bshor",
+    "date": "12/23/2021"
+  },
+  {
+    "title": "SK Hynix Announces Its First HBM3 Memory: 24GB Stacks, Clocked at up to 6.4Gbps",
+    "comment": "19",
+    "author": "by Ryan Smith",
+    "date": "10/20/2021"
+  },
+  {
+    "title": "G.Skill Unveils Premium Trident Z5 and Z5 RGB DDR5 Memory, Up To DDR5-6400 CL36",
+    "comment": "24",
+    "author": "by Gavin Bshor",
+    "date": "10/15/2021"
+  },
+  {
+    "title": "Samsung Teases 512 GB DDR5-7200 Modules",
+    "comment": "27",
+    "author": "by Dr. Ian Cutress",
+    "date": "8/22/2021"
+  },
+  {
+    "title": "Micron Sells Lehi 3D XPoint Fab to Texas Instruments for $900M",
+    "comment": "29",
+    "author": "by Ryan Smith",
+    "date": "7/1/2021"
+  },
+  {
+    "title": "Computex 2021: G.Skill Trident Z Royal Elite With DDR4-4000 CL14, Tight Latencies",
+    "comment": "29",
+    "author": "by Gavin Bshor",
+    "date": "6/8/2021"
+  },
+  {
+    "title": "Computex 2021: TeamGroup Announces its First DDR5-4800 Memory Module",
+    "comment": "12",
+    "author": "by Gavin Bshor",
+    "date": "6/7/2021"
+  },
+  {
+    "title": "Computex 2021: TeamGroup Goes BIG, the Xtreem DDR4-3600 256 GB Memory Kit",
+    "comment": "5",
+    "author": "by Gavin Bshor",
+    "date": "6/7/2021"
+  },
+  {
+    "title": "After Selling HyperX to HP, Kingston Resurrects FURY Brand for DRAM and SSDs",
+    "comment": "9",
+    "author": "by Gavin Bshor",
+    "date": "6/7/2021"
+  },
+  {
+    "title": "G.Skill Announces DDR4-5333 Memory Kits for Intel Rocket Lake",
+    "comment": "19",
+    "author": "by Gavin Bshor",
+    "date": "4/5/2021"
+  },
+  {
+    "title": "SK Hynix to Build $106 Billion Fab Cluster: 800,000 Wafer Starts a Month",
+    "comment": "41",
+    "author": "by Ant Shilov",
+    "date": "4/2/2021"
+  },
+  {
+    "title": "CES 2021: ADATA Claims to have DDR5 Module, But Sends Us Renders",
+    "comment": "12",
+    "author": "by Gavin Bshor",
+    "date": "1/13/2021"
+  },
+  {
+    "title": "TeamGroup Announces Intentions for DDR5, ELITE DDR5-5200 in 2021",
+    "comment": "19",
+    "author": "by Gavin Bshor",
+    "date": "12/1/2020"
+  },
+  {
+    "title": "Microchip Announces PCIe 5.0 And CXL Retimers",
+    "comment": "8",
+    "author": "by Billy Tallis",
+    "date": "11/11/2020"
+  },
+  {
+    "title": "Compute eXpress Link 2.0 (CXL 2.0) Finalized: Switching, PMEM, Security",
+    "comment": "5",
+    "author": "by Dr. Ian Cutress",
+    "date": "11/10/2020"
+  },
+  {
+    "title": "Insights into DDR5 Sub-timings and Latencies",
+    "comment": "87",
+    "author": "by Dr. Ian Cutress",
+    "date": "10/6/2020"
+  },
+  {
+    "title": "DDR5 is Coming: First 64GB DDR5-4800 Modules from SK Hynix",
+    "comment": "46",
+    "author": "by Dr. Ian Cutress",
+    "date": "10/6/2020"
+  },
+  {
+    "title": "Micron Spills on GDDR6X: PAM4 Signaling For Higher Rates, Coming to NVIDIA\u2019s RTX 3090",
+    "comment": "68",
+    "author": "by Ryan Smith",
+    "date": "8/20/2020"
+  },
+  {
+    "title": "DDR5 Memory Specification Released: Setting the Stage for DDR5-6400 And Beyond",
+    "comment": "89",
+    "author": "by Ryan Smith",
+    "date": "7/14/2020"
+  },
+  {
+    "title": "PNY Unveils XLR8 Gaming Epic-X RGB DDR4-3200 Memory",
+    "comment": "27",
+    "author": "by Gavin Bshor",
+    "date": "7/14/2020"
+  },
+  {
+    "title": "SK Hynix: HBM2E Memory Now in Mass Production",
+    "comment": "38",
+    "author": "by Ryan Smith",
+    "date": "7/2/2020"
+  },
+  {
+    "title": "GeIL Unveils Orion Series Memory, Up to DDR4-4000 with 32 GB Memory Modules",
+    "comment": "7",
+    "author": "by Gavin Bshor",
+    "date": "6/11/2020"
+  },
+  {
+    "title": "Patriot's New 32GB Modules Available: UDIMM up to DDR4-3600, SODIMM up to DDR4-3000",
+    "comment": "11",
+    "author": "by Andrei Frumusanu",
+    "date": "6/9/2020"
+  },
+  {
+    "title": "New ZADAK Twist DDR4 Memory, Up to DDR4-4133 and 256 GB",
+    "comment": "7",
+    "author": "by Gavin Bshor",
+    "date": "5/6/2020"
+  },
+  {
+    "title": "GeiL Unveils 64 GB DDR4-3200 SO-DIMM Kit, 2 x 32 GB",
+    "comment": "21",
+    "author": "by Gavin Bshor",
+    "date": "5/5/2020"
+  },
+  {
+    "title": "XPG Spectrix D50 Memory: A More Subtle RGB DDR4",
+    "comment": "22",
+    "author": "by Gavin Bshor",
+    "date": "4/15/2020"
+  },
+  {
+    "title": "ADATA's New 32 GB DDR4-3200 SO-DIMM, Ideal for Ryzen Mobile",
+    "comment": "41",
+    "author": "by Gavin Bshor",
+    "date": "4/15/2020"
+  },
+  {
+    "title": "China Develops High Capacity QLC 3D NAND: YMTC at 1.33 Tb",
+    "comment": "64",
+    "author": "by Gavin Bshor",
+    "date": "4/13/2020"
+  },
+  {
+    "title": "SK Hynix: We're Planning for DDR5-8400 at 1.1 Volts",
+    "comment": "86",
+    "author": "by Gavin Bshor",
+    "date": "4/3/2020"
+  },
+  {
+    "title": "Micron to Start Volume Production of 128-Layer 3D NAND with RG Architecture This Quarter",
+    "comment": "10",
+    "author": "by Ant Shilov",
+    "date": "4/1/2020"
+  },
+  {
+    "title": "Cadence DDR5 Update: Launching at 4800 MT/s, Over 12 DDR5 SoCs in Development",
+    "comment": "20",
+    "author": "by Ant Shilov",
+    "date": "3/27/2020"
+  },
+  {
+    "title": "TeamGroup Announces 32GB T-Force Vulcan Z and Dark Z DDR4 Modules",
+    "comment": "7",
+    "author": "by Gavin Bshor",
+    "date": "3/27/2020"
+  },
+  {
+    "title": "Samsung to Produce DDR5 in 2021 (with EUV)",
+    "comment": "20",
+    "author": "by Ant Shilov",
+    "date": "3/25/2020"
+  },
+  {
+    "title": "GlobalFoundries & Everspin Extend MRAM Pact to 12nm",
+    "comment": "4",
+    "author": "by Ant Shilov",
+    "date": "3/13/2020"
+  },
+  {
+    "title": "Rambus Develops HBM2E Controller & PHY: 3.2 Gbps, 1024-Bit Bus",
+    "comment": "42",
+    "author": "by Ant Shilov",
+    "date": "3/6/2020"
+  },
+  {
+    "title": "ATP\u2019s DDR4-3200 Industrial DIMMs: Up to 128GB @ 1.2V for AMD & Intel",
+    "comment": "7",
+    "author": "by Ant Shilov",
+    "date": "3/5/2020"
+  },
+  {
+    "title": "Samsung Starts Production of 16 GB LPDDR5-5500 for Smartphones",
+    "comment": "33",
+    "author": "by Ant Shilov",
+    "date": "2/25/2020"
+  },
+  {
+    "title": "SMART Modular Reveals 32 GB DDR4-3200 Low Profile Mini-DIMMs for Extreme Environments",
+    "comment": "7",
+    "author": "by Ant Shilov",
+    "date": "2/14/2020"
+  },
+  {
+    "title": "G.Skill Launches 256 GB DDR4-3600 CL16 Memory Kit",
+    "comment": "8",
+    "author": "by Ant Shilov",
+    "date": "2/12/2020"
+  },
+  {
+    "title": "SK Hynix Licenses DBI Ultra Interconnect for Next-Gen 3DS and HBM DRAM",
+    "comment": "9",
+    "author": "by Ant Shilov",
+    "date": "2/11/2020"
+  },
+  {
+    "title": "GIGABYTE Launches Designare DDR4-3200 Memory, a 64 GB Kit",
+    "comment": "23",
+    "author": "by Ant Shilov",
+    "date": "2/6/2020"
+  },
+  {
+    "title": "Micron Shipping LPDDR5 DRAM",
+    "comment": "33",
+    "author": "by Billy Tallis",
+    "date": "2/6/2020"
+  },
+  {
+    "title": "JEDEC Updates HBM2 Memory Standard To 3.2 Gbps; Samsung's Flashbolt Memory Nears Production",
+    "comment": "24",
+    "author": "by Ryan Smith",
+    "date": "2/3/2020"
+  },
+  {
+    "title": "SK Hynix to Cut CapEx, Accelerate Transitions, 1z nm DRAM & 128L 4D NAND in 2020",
+    "comment": "6",
+    "author": "by Ant Shilov",
+    "date": "2/3/2020"
+  },
+  {
+    "title": "Crucial\u2019s 32 GB UDIMMs and SODIMMs Available: DDR4-2666 & DDR4-3200",
+    "comment": "12",
+    "author": "by Ant Shilov",
+    "date": "1/29/2020"
+  },
+  {
+    "title": "The Corsair DDR4-5000 Vengeance LPX Review: Super-Binned, Super Exclusive",
+    "comment": "56",
+    "author": "by Gavin Bshor",
+    "date": "1/27/2020"
+  },
+  {
+    "title": "Here's Some DDR5-4800: Hands-On First Look at Next Gen DRAM",
+    "comment": "39",
+    "author": "by Ant Shilov",
+    "date": "1/13/2020"
+  },
+  {
+    "title": "CES 2020: Kingston\u2019s HyperX Adds 32 GB UDIMMs & New Fury Speed Bins to Lineup",
+    "comment": "11",
+    "author": "by Ant Shilov",
+    "date": "1/10/2020"
+  },
+  {
+    "title": "DRAMeXchange: Blackout at Samsung\u2019s Fab Will Not Affect Commodity DRAM Prices in Q1",
+    "comment": "5",
+    "author": "by Ant Shilov",
+    "date": "1/9/2020"
+  },
+  {
+    "title": "Fire At Kioxia & Western Digital NAND Fab - Impact on Supply to be Minimal",
+    "comment": "6",
+    "author": "by Ant Shilov",
+    "date": "1/8/2020"
+  },
+  {
+    "title": "CES 2020: Micron Begins to Sample DDR5 RDIMMs with Server Partners",
+    "comment": "7",
+    "author": "by Ant Shilov",
+    "date": "1/7/2020"
+  },
+  {
+    "title": "Samsung\u2019s Fab in Hwaseong Suffers Power Outage",
+    "comment": "48",
+    "author": "by Ant Shilov",
+    "date": "1/2/2020"
+  },
+  {
+    "title": "Kioxia: 3D Stacked Storage Class Memory, like 3D XPoint, Isn\u2019t the Future",
+    "comment": "23",
+    "author": "by Dr. Ian Cutress",
+    "date": "12/30/2019"
+  },
+  {
+    "title": "Micron Obtains License to Sell DRAM & NAND to Huawei",
+    "comment": "12",
+    "author": "by Ant Shilov",
+    "date": "12/19/2019"
+  },
+  {
+    "title": "ADATA Reveals XPG Hunter SO-DIMMs: Up to DDR4-3000, Up to 32 GB",
+    "comment": "6",
+    "author": "by Ant Shilov",
+    "date": "12/17/2019"
+  },
+  {
+    "title": "Samsung to Expand 3D NAND Fab in China",
+    "comment": "5",
+    "author": "by Ant Shilov",
+    "date": "12/17/2019"
+  },
+  {
+    "title": "Team Group\u2019s T-Force Xtreem ARGB Memory: Up to DDR4-4800, \u2018Mirror Design\u2019",
+    "comment": "0",
+    "author": "by Ant Shilov",
+    "date": "12/9/2019"
+  },
+  {
+    "title": "ChangXin Memory Technologies (CXMT) is Ramping up Chinese DRAM Using Qimonda IP",
+    "comment": "15",
+    "author": "by Ant Shilov",
+    "date": "12/2/2019"
+  },
+  {
+    "title": "Spotted at Supercomputing 2019: A 256 GB Gen-Z Memory Module",
+    "comment": "11",
+    "author": "by Dr. Ian Cutress",
+    "date": "11/29/2019"
+  },
+  {
+    "title": "GlobalFoundries and SiFive to Design HBM2E Implementation on 12LP/12LP+",
+    "comment": "13",
+    "author": "by Ant Shilov",
+    "date": "11/5/2019"
+  },
+  {
+    "title": "GIGABYTE Enhances Aorus RGB Memory with Aorus Memory Boost Capability",
+    "comment": "6",
+    "author": "by Ant Shilov",
+    "date": "11/1/2019"
+  },
+  {
+    "title": "GlobalFoundries Teams Up with Singapore University for ReRAM Project",
+    "comment": "6",
+    "author": "by Ant Shilov",
+    "date": "10/28/2019"
+  },
+  {
+    "title": "Samsung Launches Single-Chip uMCP Packages with LPDDR4X DRAM & UFS 3.0 Storage",
+    "comment": "30",
+    "author": "by Ant Shilov",
+    "date": "10/24/2019"
+  },
+  {
+    "title": "SK Hynix Develops 16 Gb DDR4 Chips for 32 GB Modules",
+    "comment": "8",
+    "author": "by Ant Shilov",
+    "date": "10/22/2019"
+  },
+  {
+    "title": "Team Group Quietly Launches 32 GB DDR4 Memory Modules",
+    "comment": "8",
+    "author": "by Ant Shilov",
+    "date": "10/22/2019"
+  },
+  {
+    "title": "Royal Memory: G.Skill\u2019s 32 GB DDR4-4000 CL15 Kit for AMD & Intel",
+    "comment": "14",
+    "author": "by Ant Shilov",
+    "date": "10/21/2019"
+  },
+  {
+    "title": "Corsair 16GB DDR4-5000 Vengeance LPX Memory Kit: Built for AMD Ryzen 3000 and MSI",
+    "comment": "38",
+    "author": "by Ant Shilov",
+    "date": "10/11/2019"
+  },
+  {
+    "title": "G.Skill Launches 32 GB DDR4 Modules, 256 GB Kits: Up to DDR4-4000",
+    "comment": "27",
+    "author": "by Ant Shilov",
+    "date": "10/9/2019"
+  },
+  {
+    "title": "Samsung Develops 12-Layer 3D TSV DRAM: Up to 24 GB HBM2",
+    "comment": "11",
+    "author": "by Ant Shilov",
+    "date": "10/7/2019"
+  },
+  {
+    "title": "Gen-Z PHY Specification 1.1 Published: Adds PCIe 5.0, Gen-Z 50G Fabric",
+    "comment": "8",
+    "author": "by Ant Shilov",
+    "date": "10/4/2019"
+  },
+  {
+    "title": "Micron: 128-Layer 4th 3D NAND with RG Architecture Coming Soon",
+    "comment": "10",
+    "author": "by Ant Shilov",
+    "date": "10/4/2019"
+  },
+  {
+    "title": "Corsair Reveals Vengeance LPX DDR4-4866 Memory Kit",
+    "comment": "12",
+    "author": "by Ant Shilov",
+    "date": "9/13/2019"
+  },
+  {
+    "title": "YMTC Starts Volume Production of 64-Layer 3D NAND",
+    "comment": "4",
+    "author": "by Ant Shilov",
+    "date": "9/5/2019"
+  },
+  {
+    "title": "Hot Chips 31 Analysis: In-Memory Processing by UPMEM",
+    "comment": "38",
+    "author": "by Dr. Ian Cutress",
+    "date": "8/19/2019"
+  },
+  {
+    "title": "Micron\u2019s Fab 10 Expansion Completed: 96-Layer 3D NAND Production Starts in 2019",
+    "comment": "21",
+    "author": "by Ant Shilov",
+    "date": "8/16/2019"
+  },
+  {
+    "title": "Micron: Mass Production of 16 Gb DDR4 & LPDDR4X Chips Using 1z nm Technology",
+    "comment": "25",
+    "author": "by Ant Shilov",
+    "date": "8/16/2019"
+  },
+  {
+    "title": "SMART Modular Shows Off 256 GB Gen-Z Memory Module",
+    "comment": "15",
+    "author": "by Ant Shilov",
+    "date": "8/15/2019"
+  },
+  {
+    "title": "SK Hynix Announces 3.6 Gbps HBM2E Memory For 2020: 1.8 TB/sec For Next-Gen Accelerators",
+    "comment": "23",
+    "author": "by Ryan Smith",
+    "date": "8/12/2019"
+  },
+  {
+    "title": "Japan\u2019s Ministry Approves Shipments of Industrial Chemicals to South Korea",
+    "comment": "16",
+    "author": "by Ant Shilov",
+    "date": "8/9/2019"
+  },
+  {
+    "title": "Microchip Announces DRAM Controller For OpenCAPI Memory Interface",
+    "comment": "17",
+    "author": "by Billy Tallis",
+    "date": "8/5/2019"
+  },
+  {
+    "title": "Western Digital: Nearly All NAND Capacities Resumed Normal Operations",
+    "comment": "31",
+    "author": "by Ant Shilov",
+    "date": "8/1/2019"
+  },
+  {
+    "title": "G.Skill Reveals Trident Z Neo DDR4-3800 CL14 Kit for AMD Ryzen 3000",
+    "comment": "10",
+    "author": "by Ant Shilov",
+    "date": "8/1/2019"
+  },
+  {
+    "title": "Thermaltake\u2019s Launches Liquid-Cooled WaterRam RGB DDR4-3600 Kits",
+    "comment": "18",
+    "author": "by Ant Shilov",
+    "date": "8/1/2019"
+  },
+  {
+    "title": "32 GB Unbuffered DIMMs Listed from Ten Brands: DDR4-2400 to DDR4-4000",
+    "comment": "12",
+    "author": "by Ant Shilov",
+    "date": "7/31/2019"
+  },
+  {
+    "title": "SK Hynix NAND Update: 3D NAND Output Cut, Slowdown Capacity Expansions",
+    "comment": "14",
+    "author": "by Ant Shilov",
+    "date": "7/26/2019"
+  },
+  {
+    "title": "LG Display & SK Hynix Looking to Diversify Industrial Suppliers as Row with Japan Intensifies",
+    "comment": "8",
+    "author": "by Ant Shilov",
+    "date": "7/26/2019"
+  },
+  {
+    "title": "Corsair Unveils 32 GB Vengeance LPX DDR4 DIMMs, 64 GB & 128 GB Dual-Channel Kits",
+    "comment": "19",
+    "author": "by Ant Shilov",
+    "date": "7/19/2019"
+  },
+  {
+    "title": "Samsung Starts Production of LPDDR5-5500 Devices: 12 GB of DRAM in a Smartphone",
+    "comment": "15",
+    "author": "by Ant Shilov",
+    "date": "7/18/2019"
+  },
+  {
+    "title": "Patriot Unveils Viper 4 Blackout: Compatible with Ryzen 3000, Up to DDR4-4000",
+    "comment": "15",
+    "author": "by Ant Shilov",
+    "date": "7/11/2019"
+  },
+  {
+    "title": "G.Skill Launches Trident Neo Memory Modules for AMD Ryzen 3000 CPUs",
+    "comment": "23",
+    "author": "by Ant Shilov",
+    "date": "7/10/2019"
+  },
+  {
+    "title": "Supply of DRAM, NAND & Displays Could Be Disrupted by Japan & South Korea Dispute",
+    "comment": "39",
+    "author": "by Ant Shilov",
+    "date": "7/5/2019"
+  },
+  {
+    "title": "Fourth Chinese DRAM Company Established by Tsinghua Unigroup",
+    "comment": "35",
+    "author": "by Ant Shilov",
+    "date": "7/2/2019"
+  },
+  {
+    "title": "Toshiba & WD NAND Production Hit By Power Outage: 6 Exabytes Lost",
+    "comment": "150",
+    "author": "by Ant Shilov",
+    "date": "6/28/2019"
+  },
+  {
+    "title": "Micron\u2019s DRAM Update: More Capacity, Four More 10nm-Class Nodes, EUV, 64 GB DIMMs",
+    "comment": "23",
+    "author": "by Ant Shilov",
+    "date": "6/28/2019"
+  },
+  {
+    "title": "SK Hynix Starts Production of 128-Layer 4D NAND, 176-Layer Being Developed",
+    "comment": "28",
+    "author": "by Ant Shilov",
+    "date": "6/26/2019"
+  },
+  {
+    "title": "Silicon Power Goes Gaming: Unleashing XPower Turbine RGB Memory & SSDs",
+    "comment": "17",
+    "author": "by Ant Shilov",
+    "date": "6/24/2019"
+  },
+  {
+    "title": "TeamGroup T-Force Xcalibur ARGB DDR4-4000 at Computex",
+    "comment": "3",
+    "author": "by Gavin Bshor",
+    "date": "6/12/2019"
+  },
+  {
+    "title": "Samsung 32GB DDR4-2666 Non-ECC Memory at Retail: $168",
+    "comment": "13",
+    "author": "by Gavin Bshor",
+    "date": "6/11/2019"
+  },
+  {
+    "title": "Spotted at Computex: HP\u2019s own DDR4 Modules? V2, V6 and V8 RGB Families",
+    "comment": "15",
+    "author": "by Ant Shilov",
+    "date": "6/7/2019"
+  },
+  {
+    "title": "GeIL Demonstrates DDR4-5000 Memory Modules: Not for Sale",
+    "comment": "4",
+    "author": "by Ant Shilov",
+    "date": "6/5/2019"
+  },
+  {
+    "title": "ADATA Demonstrates 32 GB DDR4 Modules, Built on Micron 16 Gb",
+    "comment": "3",
+    "author": "by Ant Shilov",
+    "date": "6/4/2019"
+  },
+  {
+    "title": "Crucial 32 GB DDR4 Modules Found in an ASRock System",
+    "comment": "10",
+    "author": "by Ant Shilov",
+    "date": "6/3/2019"
+  },
+  {
+    "title": "Antec Unsheathes Katana: A New DDR4 Memory Series for Enthusiasts",
+    "comment": "10",
+    "author": "by Ant Shilov",
+    "date": "5/29/2019"
+  },
+  {
+    "title": "Toshiba Memory & Western Digital Finalize Fab K1 Investment Agreement",
+    "comment": "1",
+    "author": "by Ant Shilov",
+    "date": "5/20/2019"
+  },
+  {
+    "title": "GeIL Launches Evo Spear Phantom Gaming Edition Memory, Designed For SFF Systems",
+    "comment": "7",
+    "author": "by Gavin Bshor",
+    "date": "5/17/2019"
+  },
+  {
+    "title": "KLEVV Cras X RGB: Up to DDR4-4266, Coming at Computex",
+    "comment": "8",
+    "author": "by Ant Shilov",
+    "date": "5/15/2019"
+  },
+  {
+    "title": "Samsung Samples 32 Gb DDR4 Memory Chips",
+    "comment": "8",
+    "author": "by Ant Shilov",
+    "date": "5/15/2019"
+  },
+  {
+    "title": "Samsung to End B-Die DDR4: The Overclockers' Favorite",
+    "comment": "16",
+    "author": "by Ant Shilov",
+    "date": "5/14/2019"
+  },
+  {
+    "title": "SMART Modular Announces 32 GB SO-DIMMs for Extreme Environments",
+    "comment": "2",
+    "author": "by Ant Shilov",
+    "date": "5/9/2019"
+  },
+  {
+    "title": "Micron to Pay Intel $1.3B to $1.5B for IM Flash Stake",
+    "comment": "26",
+    "author": "by Ant Shilov",
+    "date": "5/8/2019"
+  },
+  {
+    "title": "SK Hynix to Start Using 2nd Gen 10nm-class DRAM Process Technology in 2H 2019",
+    "comment": "4",
+    "author": "by Ant Shilov",
+    "date": "4/25/2019"
+  },
+  {
+    "title": "HyperX Releases Two New Predator 16 GB Memory Kits: DDR4-4266 and DDR4-4600",
+    "comment": "10",
+    "author": "by Gavin Bshor",
+    "date": "4/25/2019"
+  },
+  {
+    "title": "The G.Skill Royal Storage Box, Now On Sale: For All Your Royal Memories",
+    "comment": "16",
+    "author": "by Gavin Bshor",
+    "date": "4/12/2019"
+  },
+  {
+    "title": "Intel To Align 3rd Generation Optane DCPMM with DDR5: R&D in New Mexico",
+    "comment": "25",
+    "author": "by Ian Cutress",
+    "date": "4/10/2019"
+  },
+  {
+    "title": "Pricing of Intel\u2019s Optane DC Persistent Memory Modules Leaks: From $6.57 Per GB",
+    "comment": "59",
+    "author": "by Ant Shilov",
+    "date": "4/5/2019"
+  },
+  {
+    "title": "Kingston Reveals DDR4-2933 Registered DIMMs for Cascade Lake-SP",
+    "comment": "1",
+    "author": "by Ant Shilov",
+    "date": "4/2/2019"
+  },
+  {
+    "title": "Samsung Develops Smaller DDR4 Dies Using 3rd Gen 10nm-Class Process Tech",
+    "comment": "28",
+    "author": "by Ant Shilov",
+    "date": "3/21/2019"
+  },
+  {
+    "title": "Samsung HBM2E \u2018Flashbolt\u2019 Memory for GPUs: 16 GB Per Stack, 3.2 Gbps",
+    "comment": "25",
+    "author": "by Ant Shilov",
+    "date": "3/20/2019"
+  },
+  {
+    "title": "Samsung Begins Mass Production of 12 GB LPDDR4X for Smartphones",
+    "comment": "19",
+    "author": "by Ant Shilov",
+    "date": "3/14/2019"
+  },
+  {
+    "title": "SK Hynix Details DDR5-6400",
+    "comment": "10",
+    "author": "by Ant Shilov",
+    "date": "2/26/2019"
+  },
+  {
+    "title": "Advantech Unveils 32 GB SQRAM DDR4 DIMMs for HPC",
+    "comment": "7",
+    "author": "by Ant Shilov",
+    "date": "2/13/2019"
+  },
+  {
+    "title": "Corsair 192 GB DDR4 kits for W-3175X Listed Online: Up to $3000",
+    "comment": "9",
+    "author": "by Gavin Bshor",
+    "date": "2/12/2019"
+  },
+  {
+    "title": "Keysight Reveals DDR5 Testing & Validation System",
+    "comment": "23",
+    "author": "by Ant Shilov",
+    "date": "2/6/2019"
+  },
+  {
+    "title": "G.Skill Unveils Trident Z Royal Hexa-Channel 192 GB DDR4-4000 Kit for Xeon W-3175X",
+    "comment": "15",
+    "author": "by Ant Shilov",
+    "date": "1/30/2019"
+  },
+  {
+    "title": "GIGABYTE Adds Support for 128 GB of Memory to Z390 & C246 Motherboards",
+    "comment": "28",
+    "author": "by Ant Shilov",
+    "date": "1/24/2019"
+  },
+  {
+    "title": "Double Height DDR4: 32GB Modules from G.Skill and ZADAK Reviewed",
+    "comment": "52",
+    "author": "by Ian Cutress & Gavin Bshor",
+    "date": "1/23/2019"
+  },
+  {
+    "title": "ASUS Z390 Platforms Now Support 128 GB of Memory",
+    "comment": "8",
+    "author": "by Ant Shilov",
+    "date": "1/22/2019"
+  },
+  {
+    "title": "CES 2019: GIGABYTE Aorus RGB Memory Hits DDR4-4000 with SK Hynix ICs",
+    "comment": "3",
+    "author": "by Ant Shilov",
+    "date": "1/14/2019"
+  },
+  {
+    "title": "CES 2019: ADATA Spectrix Memory & SSDs Get More RGB",
+    "comment": "4",
+    "author": "by Ant Shilov",
+    "date": "1/14/2019"
+  },
+  {
+    "title": "CES 2019: TeamGroup And ASRock Release Phantom Gaming Branded Memory and SSD",
+    "comment": "5",
+    "author": "by Gavin Bshor",
+    "date": "1/10/2019"
+  },
+  {
+    "title": "CES 2019: Thermaltake Unveils Its WaterRAM RGB Liquid Cooled DDR4-3200 Memory",
+    "comment": "13",
+    "author": "by Gavin Bshor",
+    "date": "1/9/2019"
+  },
+  {
+    "title": "JEDEC Updates HBM Spec to Boost Capacity & Performance: 24 GB, 307 GB/s Per Stack",
+    "comment": "15",
+    "author": "by Ant Shilov",
+    "date": "12/19/2018"
+  },
+  {
+    "title": "Intel's Architecture Day 2018: The Future of Core, Intel GPUs, 10nm, and Hybrid x86",
+    "comment": "149",
+    "author": "by Dr. Ian Cutress",
+    "date": "12/12/2018"
+  },
+  {
+    "title": "Apacer Launches 32-Bit SODIMM for Arm & RISC-V Systems",
+    "comment": "5",
+    "author": "by Ant Shilov",
+    "date": "11/26/2018"
+  },
+  {
+    "title": "Cadence Tapes Out GDDR6 IP on Samsung 7LPP Using EUV",
+    "comment": "11",
+    "author": "by Ant Shilov",
+    "date": "11/26/2018"
+  },
+  {
+    "title": "Your Highness: G.Skill Trident Z Royal, Bling Factor 11",
+    "comment": "4",
+    "author": "by Ant Shilov",
+    "date": "11/20/2018"
+  },
+  {
+    "title": "SK Hynix Reveals DDR4-3200 Memory Chips with 4 Phase Clocking",
+    "comment": "4",
+    "author": "by Ant Shilov",
+    "date": "11/16/2018"
+  },
+  {
+    "title": "SK Hynix Develops First 16 Gb DDR5-5200 Memory Chip, Demos DDR5 RDIMM",
+    "comment": "29",
+    "author": "by Ant Shilov",
+    "date": "11/15/2018"
+  },
+  {
+    "title": "G.Skill Unveils 64 GB DDR4-4266 and 128 GB DDR4-4000 Kits for HEDTs",
+    "comment": "1",
+    "author": "by Ant Shilov",
+    "date": "11/13/2018"
+  },
+  {
+    "title": "In The Lab: Double Capacity 2x32GB DDR4 from G.Skill and ZADAK",
+    "comment": "19",
+    "author": "by Ian Cutress",
+    "date": "11/9/2018"
+  },
+  {
+    "title": "SK Hynix Launches 96-Layer 3D NAND and Discloses QLC Plans",
+    "comment": "4",
+    "author": "by Ant Shilov",
+    "date": "11/8/2018"
+  },
+  {
+    "title": "Micron Kicks Off Mass Production of 12 Gb LPDDR4X DRAM Chips",
+    "comment": "10",
+    "author": "by Ant Shilov",
+    "date": "11/8/2018"
+  },
+  {
+    "title": "U.S. Government Indicts Chinese DRAM Maker JHICC on Industrial Espionage; Bans Exports To Firm",
+    "comment": "58",
+    "author": "by Ant Shilov",
+    "date": "11/1/2018"
+  },
+  {
+    "title": "Silicon Power Enters Market of Enthusiast-Class DRAM with DDR4-4133",
+    "comment": "9",
+    "author": "by Ant Shilov",
+    "date": "10/23/2018"
+  },
+  {
+    "title": "Intel's Response: Micron\u2019s Control of 3D XPoint Fab Will Not Disrupt Optane Roadmap",
+    "comment": "26",
+    "author": "by Ant Shilov",
+    "date": "10/22/2018"
+  },
+  {
+    "title": "Samsung Shows Off 256 GB DDR4 RDIMM: Coming to Servers Soon",
+    "comment": "18",
+    "author": "by Ant Shilov",
+    "date": "10/19/2018"
+  },
+  {
+    "title": "What Next for 3D XPoint? Micron to Buy Intel's Share in 3D XPoint Fab",
+    "comment": "34",
+    "author": "by Ant Shilov",
+    "date": "10/18/2018"
+  },
+  {
+    "title": "Cadence & Micron DDR5 Update: 16 Gb Chips on Track for 2019",
+    "comment": "18",
+    "author": "by Ant Shilov",
+    "date": "10/17/2018"
+  },
+  {
+    "title": "Intel to Support 128GB of DDR4 on Core 9th Gen Desktop Processors",
+    "comment": "24",
+    "author": "by Ian Cutress",
+    "date": "10/15/2018"
+  },
+  {
+    "title": "G.Skill Announces DDR4-4800 and DDR4-4500 Kits for Z390 Boards",
+    "comment": "30",
+    "author": "by Ant Shilov",
+    "date": "10/12/2018"
+  },
+  {
+    "title": "Intel Veteran Becomes Chairman of Toshiba Memory",
+    "comment": "3",
+    "author": "by Ant Shilov",
+    "date": "10/11/2018"
+  },
+  {
+    "title": "G.Skill Unveils 32 GB Trident Z RGB DC DDR4: Double Height, Double Capacity Memory",
+    "comment": "7",
+    "author": "by Ant Shilov",
+    "date": "10/11/2018"
+  },
+  {
+    "title": "Colorful Enters DRAM Module Business: Generic Colorfire & Custom iGame DIMMs",
+    "comment": "4",
+    "author": "by Ant Shilov",
+    "date": "10/1/2018"
+  },
+  {
+    "title": "Double Height, Double Capacity DDR4? ZADAK's New 32 GB UDIMMs",
+    "comment": "22",
+    "author": "by Ant Shilov",
+    "date": "9/28/2018"
+  },
+  {
+    "title": "Team Group's Quick Memory: T-Force Xtreem DDR4-4300 / DDR4-4500 CL18",
+    "comment": "13",
+    "author": "by Ant Shilov",
+    "date": "9/20/2018"
+  },
+  {
+    "title": "Toshiba Memory and Western Digital Open Fab 6 and New Memory R&D Center",
+    "comment": "6",
+    "author": "by Ant Shilov",
+    "date": "9/20/2018"
+  },
+  {
+    "title": "Samsung Adds 32 GB UDIMMs to Memory Lineup",
+    "comment": "19",
+    "author": "by Ant Shilov",
+    "date": "9/5/2018"
+  },
+  {
+    "title": "Micron to Expand Its Fab 6 in Virginia, Build New R&D Center",
+    "comment": "11",
+    "author": "by Ant Shilov",
+    "date": "8/31/2018"
+  },
+  {
+    "title": "Hot Chips 2018: Nanotubes as DRAM from Nantero, a Live Blog",
+    "comment": "19",
+    "author": "by Ian Cutress",
+    "date": "8/21/2018"
+  },
+  {
+    "title": "Inno3D Releases iChill Memory Modules with RGB LEDs, Up to DDR4-4000",
+    "comment": "2",
+    "author": "by Ant Shilov",
+    "date": "8/14/2018"
+  },
+  {
+    "title": "Flash Memory Summit, Western Digital Keynote Live Blog",
+    "comment": "0",
+    "author": "by Ian Cutress & Billy Tallis",
+    "date": "8/7/2018"
+  },
+  {
+    "title": "MRAM Developer Day, IBM Keynote Live Blog",
+    "comment": "0",
+    "author": "by Ian Cutress",
+    "date": "8/6/2018"
+  },
+  {
+    "title": "MRAM Developer Day, GlobalFoundries Keynote Live Blog",
+    "comment": "1",
+    "author": "by Ian Cutress",
+    "date": "8/6/2018"
+  },
+  {
+    "title": "MRAM Developer Day, Everspin Keynote: The MRAM Revolution (9:15am PT, 4:15pm UTC)",
+    "comment": "3",
+    "author": "by Ian Cutress & Billy Tallis",
+    "date": "8/6/2018"
+  },
+  {
+    "title": "Yangtze Memory Unveils Xtacking Architecture for 3D NAND: Up to 3 Gbps I/O",
+    "comment": "7",
+    "author": "by Ant Shilov",
+    "date": "8/6/2018"
+  },
+  {
+    "title": "SK Hynix Set to Build a New Memory Fab",
+    "comment": "16",
+    "author": "by Ant Shilov",
+    "date": "7/30/2018"
+  },
+  {
+    "title": "Samsung Starts Production of 16 Gb LPDDR4X Chips Using 2nd Gen 10nm Tech",
+    "comment": "12",
+    "author": "by Ant Shilov",
+    "date": "7/27/2018"
+  },
+  {
+    "title": "Toshiba Begins to Construct New BiCS 3D NAND Fab in Iwate Prefecture",
+    "comment": "7",
+    "author": "by Ant Shilov",
+    "date": "7/25/2018"
+  },
+  {
+    "title": "Western Digital Begins to Sample QLC BiCS4: 1.33 Tbit 96-Layer 3D NAND",
+    "comment": "40",
+    "author": "by Ant Shilov",
+    "date": "7/20/2018"
+  },
+  {
+    "title": "Samsung Announces First LPDDR5 DRAM Chip, Targets 6.4Gbps Data Rates & 30% Reduced Power",
+    "comment": "13",
+    "author": "by Ryan Smith",
+    "date": "7/16/2018"
+  },
+  {
+    "title": "Intel and Micron To Dissolve 3D XPoint Partnership After 2019",
+    "comment": "19",
+    "author": "by Ian Cutress",
+    "date": "7/16/2018"
+  },
+  {
+    "title": "Zen and Vega DDR4 Memory Scaling on AMD's APUs",
+    "comment": "74",
+    "author": "by Gavin Bshor",
+    "date": "6/28/2018"
+  },
+  {
+    "title": "Micron Begins Mass Production of GDDR6",
+    "comment": "29",
+    "author": "by Ryan Smith",
+    "date": "6/25/2018"
+  },
+  {
+    "title": "Colorful to Branch Out to Memory Modules",
+    "comment": "5",
+    "author": "by Ant Shilov",
+    "date": "6/22/2018"
+  },
+  {
+    "title": "G.Skill Trident Royal Crystalline DRAM: Premium Gemstone Glamour",
+    "comment": "32",
+    "author": "by Ian Cutress",
+    "date": "6/14/2018"
+  },
+  {
+    "title": "Building for Apache Pass: Why Some Skylake Servers Already have 8 DIMMs Per Socket",
+    "comment": "16",
+    "author": "by Ian Cutress",
+    "date": "6/13/2018"
+  },
+  {
+    "title": "Antec Announces Its First Memory Modules",
+    "comment": "10",
+    "author": "by Ant Shilov",
+    "date": "6/12/2018"
+  },
+  {
+    "title": "Samsung Kicks Off Mass Production of 64GB RDIMMs Using 16Gbit Chips",
+    "comment": "7",
+    "author": "by Ryan Smith",
+    "date": "6/11/2018"
+  },
+  {
+    "title": "G.Skill\u2019s DRAM Extremes: DDR4-4000 on AMD Ryzen, DDR4-5066 on Intel Core i7",
+    "comment": "18",
+    "author": "by Ant Shilov",
+    "date": "6/11/2018"
+  },
+  {
+    "title": "Klevv Adds Kolors: RGB-Lit Enthusiast-Class Cras DIMMs & SSD Incoming",
+    "comment": "13",
+    "author": "by Ant Shilov",
+    "date": "6/7/2018"
+  },
+  {
+    "title": "Geil Announces Super Luce RGB SYNC Series TUF Gaming Alliance Memory",
+    "comment": "9",
+    "author": "by Joe Shields",
+    "date": "6/5/2018"
+  },
+  {
+    "title": "Gigabyte Enters Memory Market with AORUS RGB LED RAM",
+    "comment": "6",
+    "author": "by Joe Shields",
+    "date": "6/4/2018"
+  },
+  {
+    "title": "Corsair Announces Vengeance RGB Pro Memory: Up to DDR-4000, 10 RGB LEDs",
+    "comment": "4",
+    "author": "by Ant Shilov",
+    "date": "6/4/2018"
+  },
+  {
+    "title": "The AnandTech Podcast, Episode 47: Intel Goes Super Premium Optane",
+    "comment": "36",
+    "author": "by Ian Cutress",
+    "date": "6/4/2018"
+  },
+  {
+    "title": "Team Group Joins \u2018Extreme SO-DIMM Club\u2019 with T-Force Vulcan",
+    "comment": "2",
+    "author": "by Ant Shilov",
+    "date": "5/31/2018"
+  },
+  {
+    "title": "Intel Persistent Memory Event: Live Blog",
+    "comment": "28",
+    "author": "by Ian Cutress",
+    "date": "5/30/2018"
+  },
+  {
+    "title": "Samsung Unveils 32 GB DDR4-2666 SO-DIMMs",
+    "comment": "19",
+    "author": "by Ant Shilov",
+    "date": "5/30/2018"
+  },
+  {
+    "title": "Toshiba Memory to Build New Fab to Produce BiCS 3D NAND",
+    "comment": "7",
+    "author": "by Ant Shilov",
+    "date": "5/29/2018"
+  },
+  {
+    "title": "New Patriot Viper RGB Memory: Up to DDR4-4133",
+    "comment": "17",
+    "author": "by Ant Shilov",
+    "date": "5/28/2018"
+  },
+  {
+    "title": "Leading DRAM Makers Release Modules Validated with AMD Ryzen 2000 CPUs",
+    "comment": "9",
+    "author": "by Ant Shilov",
+    "date": "5/25/2018"
+  },
+  {
+    "title": "Cadence and Micron Demo DDR5-4400 IMC and Memory, Due in 2019",
+    "comment": "31",
+    "author": "by Ant Shilov",
+    "date": "5/3/2018"
+  },
+  {
+    "title": "Mini-Jellyfish: ADATA Launches XPG Spectrix D80 DDR4 RGB Memory",
+    "comment": "28",
+    "author": "by Ant Shilov",
+    "date": "5/2/2018"
+  },
+  {
+    "title": "HyperX Now Shipping Predator DDR4 RGB with IR Sync",
+    "comment": "3",
+    "author": "by Joe Shields",
+    "date": "4/30/2018"
+  },
+  {
+    "title": "Chinese DRAM Industry Spreading Its Wings: Two More DRAM Fabs Ready",
+    "comment": "22",
+    "author": "by Ant Shilov",
+    "date": "4/25/2018"
+  },
+  {
+    "title": "Corsair Unveils \"Pearlescent White\" Dominator Platinum Special Edition Contrast DIMMs",
+    "comment": "11",
+    "author": "by Ant Shilov",
+    "date": "4/13/2018"
+  },
+  {
+    "title": "Micron Starts Construction of Its Third NAND Fab in Singapore",
+    "comment": "14",
+    "author": "by Ant Shilov",
+    "date": "4/6/2018"
+  },
+  {
+    "title": "Samsung Demos 64 GB RDIMM Based on 16 Gb Chips, Promises 256 GB LRDIMMs",
+    "comment": "11",
+    "author": "by Ant Shilov",
+    "date": "3/22/2018"
+  },
+  {
+    "title": "Power Outage at Samsung\u2019s Fab Destroys 3.5% of Global NAND Flash Output For March",
+    "comment": "62",
+    "author": "by Ant Shilov",
+    "date": "3/16/2018"
+  },
+  {
+    "title": "Samsung Preps to Build Another Multi-Billion Dollar Memory Fab Near Pyeongtaek",
+    "comment": "16",
+    "author": "by Ant Shilov",
+    "date": "3/1/2018"
+  },
+  {
+    "title": "Apacer Adds DDR4-3600 CL17 and DDR4 3466 CL16 Memory to Commando Series",
+    "comment": "13",
+    "author": "by Joe Shields",
+    "date": "2/26/2018"
+  },
+  {
+    "title": "Chinese Xi\u2019an UniIC Semiconductors Starts to Sell DDR4 Chips and Modules",
+    "comment": "30",
+    "author": "by Ant Shilov",
+    "date": "2/24/2018"
+  },
+  {
+    "title": "Gen-Z Interconnect Core Specification 1.0 Published",
+    "comment": "23",
+    "author": "by Billy Tallis",
+    "date": "2/13/2018"
+  },
+  {
+    "title": "G.Skill Unveils 16GB DDR4-4700 Trident Z RGB DRAM Kit: Samung B-die & RGB LED",
+    "comment": "7",
+    "author": "by Joe Shields",
+    "date": "2/6/2018"
+  },
+  {
+    "title": "SK Hynix Lists GDDR6 Memory as \u2018Available Now\u2019, Publishes Final Specs",
+    "comment": "9",
+    "author": "by Ant Shilov",
+    "date": "2/6/2018"
+  },
+  {
+    "title": "SK Hynix\u2019s Product Catalog Lists 16 Gb DDR4 Chips, Opens Doors to 256 GB DIMMs",
+    "comment": "14",
+    "author": "by Ant Shilov",
+    "date": "1/25/2018"
+  },
+  {
+    "title": "Samsung Updates on GDDR6 Portfolio: 8 Gb and 16 Gb at Multiple Speeds",
+    "comment": "19",
+    "author": "by Ant Shilov",
+    "date": "1/25/2018"
+  },
+  {
+    "title": "Micron, Rambus, & Others Team Up To Spur GDDR6 Adoption in Non-GPU Products",
+    "comment": "15",
+    "author": "by Ryan Smith",
+    "date": "1/23/2018"
+  },
+  {
+    "title": "HyperX at CES 2018: Predator DDR4 with IR Sensors for Better RGB Sync",
+    "comment": "10",
+    "author": "by Joe Shields",
+    "date": "1/19/2018"
+  },
+  {
+    "title": "Samsung Starts Mass Production of 16Gb GDDR6 Memory ICs with 18 Gbps I/O Speed",
+    "comment": "27",
+    "author": "by Ant Shilov",
+    "date": "1/18/2018"
+  },
+  {
+    "title": "ADATA at CES 2018: Jellyfish DRAM",
+    "comment": "19",
+    "author": "by Ian Cutress",
+    "date": "1/16/2018"
+  },
+  {
+    "title": "Samsung Starts Production of HBM2 \u201cAquabolt\u201d Memory: 8 GB, 2.4 Gbps",
+    "comment": "17",
+    "author": "by Ant Shilov",
+    "date": "1/11/2018"
+  },
+  {
+    "title": "ADATA Unveils New XPG RGB DDR4 Kits: Spectrix D60 4600MHz & Spectrix DS40 SO-DIMMs with LEDs",
+    "comment": "7",
+    "author": "by Nate Oh",
+    "date": "1/10/2018"
+  },
+  {
+    "title": "G.Skill Launches Sniper X Memory: Up to DDR4-3600, Three Camouflage Designs",
+    "comment": "9",
+    "author": "by Ant Shilov",
+    "date": "1/6/2018"
+  },
+  {
+    "title": "Speedy SO-DIMMs: G.Skill Launces 64 GB Kit at DDR4-3466 CL17",
+    "comment": "6",
+    "author": "by Ant Shilov",
+    "date": "1/3/2018"
+  },
+  {
+    "title": "Micron Finishes GDDR6 Internal Qualification, Eyes H1'2018 Mass Production",
+    "comment": "15",
+    "author": "by Ryan Smith",
+    "date": "12/21/2017"
+  },
+  {
+    "title": "Keeping it Quick: G.Skill Launches a 32 GB Quad-Channel DDR4-4000 SO-DIMM Kit at CL18",
+    "comment": "3",
+    "author": "by Ant Shilov",
+    "date": "12/21/2017"
+  },
+  {
+    "title": "Samsung Starts Production of 8 Gb DDR4-3600 ICs Using 2nd Gen 10nm-Class Tech",
+    "comment": "24",
+    "author": "by Ant Shilov",
+    "date": "12/20/2017"
+  },
+  {
+    "title": "Corsair Launches Vengeance 32 GB Quad-Channel DDR4-4000 SO-DIMM Kit for $595",
+    "comment": "12",
+    "author": "by Ant Shilov",
+    "date": "12/16/2017"
+  },
+  {
+    "title": "Mega Memory: Crucial Ships 128 GB DDR4-2666 Modules for Servers at $3999 per Unit",
+    "comment": "28",
+    "author": "by Ant Shilov",
+    "date": "12/2/2017"
+  },
+  {
+    "title": "G.Skill Shrinks Latencies of DDR4-4000+ Kits for Coffee Lake: DDR4-4266 CL17 Announced",
+    "comment": "15",
+    "author": "by Ant Shilov",
+    "date": "11/27/2017"
+  },
+  {
+    "title": "Corsair Builds 32 GB DDR4-4333 Kit, Only for Pre-Binned Coffee Lake CPUs",
+    "comment": "7",
+    "author": "by Ant Shilov",
+    "date": "11/16/2017"
+  },
+  {
+    "title": "Samsung Pre-Announces 16 Gbps GDDR6 Chips for Next-Gen Graphics Cards",
+    "comment": "21",
+    "author": "by Ant Shilov",
+    "date": "11/14/2017"
+  },
+  {
+    "title": "Micron Announces 32GB DDR4 NVDIMM-N Modules",
+    "comment": "48",
+    "author": "by Billy Tallis",
+    "date": "11/13/2017"
+  },
+  {
+    "title": "RGB Fan for Corsair Dominator Platinum DDR4 Launched: $70 MSRP",
+    "comment": "15",
+    "author": "by Ant Shilov",
+    "date": "11/3/2017"
+  },
+  {
+    "title": "G.Skill Announces DDR4 SO-DIMM Kits up to DDR4-3800: Ripjaws for SFF",
+    "comment": "7",
+    "author": "by Ant Shilov",
+    "date": "10/23/2017"
+  },
+  {
+    "title": "G.Skill Launches Lineup of Trident Z Kits for Coffee Lake: DDR4 at 3733 - 4600 MT/s",
+    "comment": "7",
+    "author": "by Ant Shilov",
+    "date": "10/18/2017"
+  },
+  {
+    "title": "Corsair Weds RGB Lighting and White Heat Spreaders in Vengeance RGB White DDR4 DIMMs",
+    "comment": "35",
+    "author": "by Ant Shilov",
+    "date": "9/30/2017"
+  },
+  {
+    "title": "Memory Scaling on Ryzen 7 with Team Group's Night Hawk RGB",
+    "comment": "65",
+    "author": "by Ian Cutress & Gavin Bshor",
+    "date": "9/27/2017"
+  },
+  {
+    "title": "GSkill Announces New AMD Compatible Trident Z RGB Kits",
+    "comment": "13",
+    "author": "by Joe Shields",
+    "date": "9/22/2017"
+  },
+  {
+    "title": "Corsair Announces 16GB DDR4-4600 Vengeance LPX DRAM Kits",
+    "comment": "16",
+    "author": "by Ant Shilov",
+    "date": "9/15/2017"
+  },
+  {
+    "title": "G.Skill Ups the Ante on Memory Speed and Voltage: 16 GB DDR4-4600 1.5v Kit for Kaby Lake-X",
+    "comment": "14",
+    "author": "by Ant Shilov",
+    "date": "9/8/2017"
+  },
+  {
+    "title": "Longsys Acquires Lexar Brand from Micron",
+    "comment": "5",
+    "author": "by Ant Shilov",
+    "date": "9/1/2017"
+  },
+  {
+    "title": "Samsung & SK Hynix Graphics Memory Prices Increase Over 30% In August",
+    "comment": "55",
+    "author": "by Nate Oh",
+    "date": "8/16/2017"
+  },
+  {
+    "title": "Geil Announces EVO Spear Series DRAM: Up to DDR4-3466",
+    "comment": "6",
+    "author": "by Joe Shields",
+    "date": "8/15/2017"
+  },
+  {
+    "title": "G.Skill Unwraps Flare X 32 GB and 128 GB DDR4 Kits for AMD Threadripper: Up to 3600 MT/s",
+    "comment": "24",
+    "author": "by Ant Shilov",
+    "date": "8/11/2017"
+  },
+  {
+    "title": "SK Hynix: Customers Willing to Pay 2.5 Times More for HBM2 Memory",
+    "comment": "23",
+    "author": "by Ant Shilov",
+    "date": "8/4/2017"
+  },
+  {
+    "title": "EagleTree and Partners Acquire Majority Stake in Corsair for $525 Million",
+    "comment": "7",
+    "author": "by Ant Shilov",
+    "date": "7/27/2017"
+  },
+  {
+    "title": "Samsung Increases Production Volumes of 8 GB HBM2 Chips Due to Growing Demand",
+    "comment": "34",
+    "author": "by Ant Shilov",
+    "date": "7/19/2017"
+  },
+  {
+    "title": "Toshiba Weds 3D NAND and TSV: Up to 1 TB 3D TLC Chips with 1066 MT/s I/O Incoming",
+    "comment": "6",
+    "author": "by Ant Shilov",
+    "date": "7/14/2017"
+  },
+  {
+    "title": "Patriot Publishes List of AMD Ryzen Compatible DIMMs: Up to DDR4-3400, 64 GB",
+    "comment": "3",
+    "author": "by Ant Shilov & Joe Shields",
+    "date": "7/13/2017"
+  },
+  {
+    "title": "Samsung\u2019s Multi-Billion Fab in Pyeongtaek Starts Production of 64-Layer V-NAND",
+    "comment": "17",
+    "author": "by Ant Shilov",
+    "date": "7/6/2017"
+  },
+  {
+    "title": "Toshiba's 768Gb 3D QLC NAND Flash Memory: Matching TLC at 1000 P/E Cycles?",
+    "comment": "37",
+    "author": "by Ant Shilov",
+    "date": "7/3/2017"
+  },
+  {
+    "title": "G.Skill Announces Quad-Channel DDR4-4200 Kit for Intel Skylake-X CPUs",
+    "comment": "11",
+    "author": "by Ant Shilov",
+    "date": "6/29/2017"
+  },
+  {
+    "title": "Micron Discontinues Lexar Business, Plans to Focus on Higher-Margin Products",
+    "comment": "18",
+    "author": "by Ant Shilov",
+    "date": "6/28/2017"
+  },
+  {
+    "title": "Western Digital Announce BiCS4 3D NAND: 96 Layers, TLC & QLC, Up to 1 Tb per Chip",
+    "comment": "22",
+    "author": "by Ant Shilov",
+    "date": "6/28/2017"
+  },
+  {
+    "title": "Micron Discusses GDDR: 16 Gbps GDDR5X, 16 nm GDDR6 and GDDR5",
+    "comment": "20",
+    "author": "by Ant Shilov",
+    "date": "6/18/2017"
+  },
+  {
+    "title": "DRAM and Motherboard Makers Demonstrate Quad-Channel DDR4-4000+ Operation",
+    "comment": "16",
+    "author": "by Ant Shilov",
+    "date": "6/9/2017"
+  },
+  {
+    "title": "SK Hynix Advances Graphics DRAM: GDDR6 Added to Catalogue, GDDR5 Gets Faster",
+    "comment": "17",
+    "author": "by Ant Shilov",
+    "date": "5/20/2017"
+  },
+  {
+    "title": "CORSAIR Unveils Dominator Platinum Special Edition Torque 32GB DDR4 Memory Kits",
+    "comment": "17",
+    "author": "by Patrick MacMillan",
+    "date": "5/16/2017"
+  },
+  {
+    "title": "SK Hynix to Ship GDDR6 Memory for Graphics Cards by Early 2018",
+    "comment": "28",
+    "author": "by Ant Shilov",
+    "date": "4/30/2017"
+  },
+  {
+    "title": "G.Skill Announces 16 GB DDR4-4333 Memory Kit for Intel Kaby Lake CPUs",
+    "comment": "23",
+    "author": "by Ant Shilov",
+    "date": "4/15/2017"
+  },
+  {
+    "title": "G.Skill Announces Trident Z RGB DDR4 Kits with 16 GB Modules, Up to 128 GB",
+    "comment": "11",
+    "author": "by Ant Shilov",
+    "date": "4/10/2017"
+  },
+  {
+    "title": "JEDEC: DDR5 to Double Bandwidth Over DDR4, NVDIMM-P Specification Due Next Year",
+    "comment": "38",
+    "author": "by Ant Shilov",
+    "date": "4/3/2017"
+  },
+  {
+    "title": "Corsair Vengeance RGB DDR4 Memory Modules with LEDs Now on Sale",
+    "comment": "19",
+    "author": "by Ant Shilov",
+    "date": "3/29/2017"
+  },
+  {
+    "title": "SK Hynix Lays Out Plans for 2017: 10nm-Class DRAM, 72-Layer 3D NAND",
+    "comment": "12",
+    "author": "by Ant Shilov",
+    "date": "1/28/2017"
+  },
+  {
+    "title": "Toshiba Announces Plan to Sell Minority Stake In NAND Flash Production Business",
+    "comment": "1",
+    "author": "by Ryan Smith & Ant Shilov",
+    "date": "1/27/2017"
+  },
+  {
+    "title": "Toshiba Is Studying The Possibility of Spinning Off NAND Flash Production",
+    "comment": "11",
+    "author": "by Ant Shilov",
+    "date": "1/19/2017"
+  },
+  {
+    "title": "SK Hynix Announces 8 GB LPDDR4X-4266 DRAM Packages",
+    "comment": "5",
+    "author": "by Ant Shilov",
+    "date": "1/11/2017"
+  },
+  {
+    "title": "G.Skill Announces Trident Z DDR4 DIMMs for Kaby Lake CPUs",
+    "comment": "1",
+    "author": "by Ant Shilov",
+    "date": "1/4/2017"
+  },
+  {
+    "title": "SK Hynix to Build a New NAND Fab, Upgrade Existing DRAM Fab",
+    "comment": "16",
+    "author": "by Ant Shilov",
+    "date": "12/23/2016"
+  },
+  {
+    "title": "G.Skill Announces Trident Z RGB Illumination to DDR4",
+    "comment": "11",
+    "author": "by Ant Shilov",
+    "date": "12/21/2016"
+  },
+  {
+    "title": "SK Hynix Updates Lineup: 8 GB LPDDR4 DRAM Packages for Mobile Devices",
+    "comment": "8",
+    "author": "by Ant Shilov",
+    "date": "12/20/2016"
+  },
+  {
+    "title": "Crucial Announces DDR4-2666 DIMMs for Upcoming Server Platforms",
+    "comment": "5",
+    "author": "by Ant Shilov",
+    "date": "12/16/2016"
+  },
+  {
+    "title": "Micron Completes Acquisition of Inotera Memories",
+    "comment": "1",
+    "author": "by Ant Shilov",
+    "date": "12/12/2016"
+  },
+  {
+    "title": "Transcend Introduces Extreme Temperature DDR4 SO-DIMMs",
+    "comment": "8",
+    "author": "by Ant Shilov",
+    "date": "11/28/2016"
+  },
+  {
+    "title": "Samsung Introduces 8 GB LPDDR4-4266 Package for Mobile Devices",
+    "comment": "40",
+    "author": "by Ant Shilov",
+    "date": "10/21/2016"
+  },
+  {
+    "title": "G.Skill Shows Off Trident Z 8x8 GB and 8x16 DDR4-3333 Memory Kits",
+    "comment": "0",
+    "author": "by Ant Shilov",
+    "date": "8/23/2016"
+  },
+  {
+    "title": "Hot Chips 2016: Memory Vendors Discuss Ideas for Future Memory Tech - DDR5, Cheap HBM, & More",
+    "comment": "11",
+    "author": "by Ryan Smith",
+    "date": "8/23/2016"
+  },
+  {
+    "title": "SK Hynix Adds HBM2 to Catalog: 4 GB Stacks Set to Be Available in Q3",
+    "comment": "43",
+    "author": "by Ant Shilov",
+    "date": "8/1/2016"
+  },
+  {
+    "title": "Patriot Adds Two Dual-Channel DDR4-3733 Memory Kits into Lineup",
+    "comment": "12",
+    "author": "by Ant Shilov",
+    "date": "7/29/2016"
+  },
+  {
+    "title": "Price Check Q3 2016: DRAM Prices Down Over 20% Since Early 2016",
+    "comment": "37",
+    "author": "by Ant Shilov",
+    "date": "7/25/2016"
+  },
+  {
+    "title": "Corsair Unveils Vengeance LED Modules: DDR4 Gets Lighting, 4333 MT/s Data-Rate",
+    "comment": "18",
+    "author": "by Ant Shilov",
+    "date": "6/29/2016"
+  },
+  {
+    "title": "Kingston Updates HyperX DDR4 Lineup with DDR4-3000, DDR4-3200 Modules",
+    "comment": "8",
+    "author": "by Ant Shilov",
+    "date": "6/10/2016"
+  },
+  {
+    "title": "Patriot to Release Viper DDR4-2400, DDR4-2800 SO-DIMMs for Laptops",
+    "comment": "6",
+    "author": "by Ant Shilov",
+    "date": "6/2/2016"
+  },
+  {
+    "title": "Corsair Announces Dominator Platinum Special Edition and Vengeance LED Memory Modules",
+    "comment": "16",
+    "author": "by Ant Shilov",
+    "date": "6/1/2016"
+  },
+  {
+    "title": "Corsair Launches Dominator Platinum Memory Modules for ASUS ROG Systems",
+    "comment": "29",
+    "author": "by Ant Shilov",
+    "date": "5/27/2016"
+  },
+  {
+    "title": "G.Skill Reveals 2x8GB DDR4-4266 C19 and 4x16GB DDR4-3466 C14 Kits",
+    "comment": "17",
+    "author": "by Ant Shilov",
+    "date": "5/20/2016"
+  },
+  {
+    "title": "Crucial Announces 16GB Ballistix Sport LT DDR4-2400 SO-DIMMs",
+    "comment": "11",
+    "author": "by Ant Shilov",
+    "date": "5/18/2016"
+  },
+  {
+    "title": "G.Skill Unveils New Trident Z DDR4: Five New Colors",
+    "comment": "20",
+    "author": "by Ant Shilov",
+    "date": "5/16/2016"
+  },
+  {
+    "title": "Micron Confirms Mass Production of GDDR5X Memory",
+    "comment": "59",
+    "author": "by Ant Shilov",
+    "date": "5/12/2016"
+  },
+  {
+    "title": "Samsung Begins To Produce DDR4 Memory Using '10nm Class' Process Tech",
+    "comment": "36",
+    "author": "by Ant Shilov",
+    "date": "4/7/2016"
+  },
+  {
+    "title": "Micron Begins to Sample GDDR5X Memory, Unveils Specs of Chips",
+    "comment": "37",
+    "author": "by Ant Shilov",
+    "date": "3/29/2016"
+  },
+  {
+    "title": "Price Check: Price Gap Between DDR3 and DDR4 Memory Almost Gone",
+    "comment": "16",
+    "author": "by Ant Shilov",
+    "date": "2/25/2016"
+  },
+  {
+    "title": "Micron Reports on GDDR5X Dev Progress - Volume Production This Summer",
+    "comment": "17",
+    "author": "by Ant Shilov",
+    "date": "2/9/2016"
+  },
+  {
+    "title": "Corsair and G.Skill Introduce 128 GB (8x16 GB) DDR4-3000 Memory Kits",
+    "comment": "10",
+    "author": "by Ant Shilov",
+    "date": "1/21/2016"
+  },
+  {
+    "title": "JEDEC Publishes HBM2 Specification as Samsung Begins Mass Production of Chips",
+    "comment": "42",
+    "author": "by Ant Shilov",
+    "date": "1/20/2016"
+  },
+  {
+    "title": "G.Skill Introduces 64GB DDR4-3200 Memory Kits",
+    "comment": "8",
+    "author": "by Ant Shilov",
+    "date": "12/22/2015"
+  },
+  {
+    "title": "Intel Announces Optane Storage Brand For 3D XPoint Products",
+    "comment": "50",
+    "author": "by Ryan Smith",
+    "date": "8/18/2015"
+  },
+  {
+    "title": "Rambus To Go Into Fabless Chip Production, Announces RB26 DDR4 DIMM Chipset",
+    "comment": "20",
+    "author": "by Ryan Smith",
+    "date": "8/17/2015"
+  },
+  {
+    "title": "Analyzing Intel-Micron 3D XPoint: The Next Generation Non-Volatile Memory",
+    "comment": "80",
+    "author": "by Kristian V\u00e4tt\u00f6, Ian Cutress & Ryan Smith",
+    "date": "7/31/2015"
+  },
+  {
+    "title": "G.Skill Announces DDR4-4000 and DRAM in Dual Channel Kits",
+    "comment": "25",
+    "author": "by Ian Cutress",
+    "date": "7/29/2015"
+  },
+  {
+    "title": "ASRock Rack Announces EP2C612D24 and 4L: Dual Socket Haswell-EP with 24 DDR4 Slots",
+    "comment": "48",
+    "author": "by Ian Cutress",
+    "date": "5/23/2015"
+  },
+  {
+    "title": "Corsair Now Retailing 128GB UDIMM DDR4 Kits, Starting at $1755",
+    "comment": "39",
+    "author": "by Ian Cutress",
+    "date": "5/15/2015"
+  },
+  {
+    "title": "GeIL Launches the \u2018Super Luce\u2019 DDR4 Line with Heartbeat LEDs",
+    "comment": "16",
+    "author": "by Ian Cutress",
+    "date": "4/26/2015"
+  },
+  {
+    "title": "G.Skill Announces 16GB Unbuffered Modules: 128GB Kit at DDR4-2800",
+    "comment": "33",
+    "author": "by Ian Cutress",
+    "date": "4/24/2015"
+  },
+  {
+    "title": "Corsair Releases Orange Dominator Platinum DDR4-3400 for GIGABYTE X99-SOC Champion",
+    "comment": "21",
+    "author": "by Ian Cutress",
+    "date": "3/23/2015"
+  },
+  {
+    "title": "DDR4 Haswell-E Scaling Review: 2133 to 3200 with G.Skill, Corsair, ADATA and Crucial",
+    "comment": "120",
+    "author": "by Ian Cutress",
+    "date": "2/5/2015"
+  },
+  {
+    "title": "New Challenger: KLEVV DRAM Modules, Linked to SK Hynix",
+    "comment": "30",
+    "author": "by Ian Cutress",
+    "date": "1/23/2015"
+  },
+  {
+    "title": "More DDR4-3400: G.Skill\u2019s 4x4GB CL 16 Kit Released",
+    "comment": "15",
+    "author": "by Ian Cutress",
+    "date": "1/15/2015"
+  },
+  {
+    "title": "Corsair Show DDR4-3400, also mentions 16GB UDIMMs?",
+    "comment": "31",
+    "author": "by Ian Cutress",
+    "date": "1/13/2015"
+  },
+  {
+    "title": "Mushkin Releases New Striker SSD, Displays an Upcoming M.2 PCIe 3.0 x4 NVMe SSD",
+    "comment": "15",
+    "author": "by Kristian V\u00e4tt\u00f6",
+    "date": "1/13/2015"
+  },
+  {
+    "title": "ADATA CES Suite Tour: PCIe & TLC SSDs, Power-Loss Protection Demo, 256GB SD Cards, USB 3.1 And More",
+    "comment": "9",
+    "author": "by Kristian V\u00e4tt\u00f6",
+    "date": "1/12/2015"
+  },
+  {
+    "title": "Haswell-E Comes, ASUS and G.Skill Take Overclocking Records",
+    "comment": "16",
+    "author": "by Ian Cutress",
+    "date": "9/1/2014"
+  },
+  {
+    "title": "Corsair Launches DDR4-3300, DDR4-3200 and DDR4-3000 Memory Kits",
+    "comment": "11",
+    "author": "by Ian Cutress",
+    "date": "8/29/2014"
+  },
+  {
+    "title": "G.Skill Announces Ripjaws DDR4, up to DDR4-3200",
+    "comment": "20",
+    "author": "by Ian Cutress",
+    "date": "8/22/2014"
+  },
+  {
+    "title": "Interview with ADATA's President Shalley Chen",
+    "comment": "7",
+    "author": "by Kristian V\u00e4tt\u00f6",
+    "date": "8/22/2014"
+  },
+  {
+    "title": "ADATA Officially Launches XPG Z1 DDR4 Memory",
+    "comment": "17",
+    "author": "by Ian Cutress",
+    "date": "8/7/2014"
+  },
+  {
+    "title": "Crucial DDR4 Available for Pre-Order at OverclockersUK",
+    "comment": "26",
+    "author": "by Ian Cutress",
+    "date": "8/2/2014"
+  },
+  {
+    "title": "Combo SDIMM: Apacer adds SATA M.2 Storage to DRAM Modules",
+    "comment": "19",
+    "author": "by Ian Cutress",
+    "date": "8/2/2014"
+  },
+  {
+    "title": "ADATA Formally Announces DDR4-2133 CL15 UDIMMs",
+    "comment": "28",
+    "author": "by Ian Cutress",
+    "date": "7/31/2014"
+  },
+  {
+    "title": "ADATA Launches XPG V3 DDR3 Range",
+    "comment": "18",
+    "author": "by Ian Cutress",
+    "date": "7/25/2014"
+  },
+  {
+    "title": "Computex 2014: GeIL Shows DDR4, with Suggested CAS Latencies",
+    "comment": "25",
+    "author": "by Ian Cutress",
+    "date": "6/13/2014"
+  },
+  {
+    "title": "G.Skill Overclocking World Cup at Computex 2014: $10,000 for #1",
+    "comment": "6",
+    "author": "by Ian Cutress",
+    "date": "6/11/2014"
+  },
+  {
+    "title": "Computex 2014: Transcend Shows SSD370 with Custom Firmware, SSD & RAM Upgrade Kits for Macs",
+    "comment": "5",
+    "author": "by Kristian V\u00e4tt\u00f6",
+    "date": "6/11/2014"
+  },
+  {
+    "title": "Computex 2014: Crucial Shows Ballistix Elite DDR4",
+    "comment": "25",
+    "author": "by Kristian V\u00e4tt\u00f6",
+    "date": "6/4/2014"
+  },
+  {
+    "title": "G.Skill Launches 32GB DDR3L-2133 1.35V SO-DIMM Memory Kit",
+    "comment": "12",
+    "author": "by Ian Cutress",
+    "date": "4/22/2014"
+  },
+  {
+    "title": "G.Skill takes Ripjaws SO-DIMM to DDR3-2600MHz on ASRock M8",
+    "comment": "10",
+    "author": "by Ian Cutress",
+    "date": "2/21/2014"
+  },
+  {
+    "title": "I'M Intelligent Memory to release 16GB Unregistered DDR3 Modules",
+    "comment": "61",
+    "author": "by Ian Cutress",
+    "date": "2/11/2014"
+  },
+  {
+    "title": "Crucial Showing DDR4 Modules and Sport VLP DDR3",
+    "comment": "29",
+    "author": "by Jarred Walt",
+    "date": "1/21/2014"
+  },
+  {
+    "title": "Server Buying Decisions: Memory",
+    "comment": "27",
+    "author": "by Johan De Gelas",
+    "date": "12/19/2013"
+  },
+  {
+    "title": "ADATA XPG V2 Review: 2x8 GB at DDR3-2800 12-14-14 1.65 V",
+    "comment": "19",
+    "author": "by Ian Cutress",
+    "date": "12/17/2013"
+  },
+  {
+    "title": "Corsair Vengeance Pro Review: 2x8 GB at DDR3-2400 10-12-12 1.65 V",
+    "comment": "27",
+    "author": "by Ian Cutress",
+    "date": "12/13/2013"
+  },
+  {
+    "title": "Rambus and Micron Bury the Hatchet; All Memory Players Now License Rambus Tech",
+    "comment": "32",
+    "author": "by Ryan Smith",
+    "date": "12/11/2013"
+  },
+  {
+    "title": "ADATA XPG V1.0 Low Voltage Review: 2x8 GB at DDR3L-1600 9-11-9 1.35 V",
+    "comment": "35",
+    "author": "by Ian Cutress",
+    "date": "12/6/2013"
+  },
+  {
+    "title": "Patriot Viper III Review: 2x4 GB at DDR3-2400 C10-12-12 1.65 V",
+    "comment": "48",
+    "author": "by Ian Cutress",
+    "date": "11/18/2013"
+  },
+  {
+    "title": "ADATA XPG V2 Review: 2x8 GB at DDR3-2400 C11-13-13 1.65 V",
+    "comment": "26",
+    "author": "by Ian Cutress",
+    "date": "11/11/2013"
+  },
+  {
+    "title": "Memory Scaling on Haswell CPU, IGP and dGPU: DDR3-1333 to DDR3-3000 Tested with G.Skill",
+    "comment": "91",
+    "author": "by Ian Cutress",
+    "date": "9/26/2013"
+  },
+  {
+    "title": "AMD Releases New Radeon Memory SKU: RG2133 Gamer Series",
+    "comment": "24",
+    "author": "by Ryan Smith",
+    "date": "5/8/2013"
+  },
+  {
+    "title": "Micron and TE Connectivity Offer New Ultrathin DRAM Solutions",
+    "comment": "17",
+    "author": "by Jarred Walt",
+    "date": "2/7/2013"
+  },
+  {
+    "title": "Crucial Demonstrates DDR4-2133 Modules",
+    "comment": "22",
+    "author": "by Jarred Walt",
+    "date": "1/10/2013"
+  },
+  {
+    "title": "G.Skill TridentX Review: 2x4GB at DDR3-2666 C11-13-13 1.65V",
+    "comment": "28",
+    "author": "by Ian Cutress",
+    "date": "10/28/2012"
+  },
+  {
+    "title": "GeIL Evo Veloce Review: 2x8GB at DDR3-2400 C11-12-12 1.65 V",
+    "comment": "30",
+    "author": "by Ian Cutress",
+    "date": "10/24/2012"
+  },
+  {
+    "title": "Memory Performance: 16GB DDR3-1333 to DDR3-2400 on Ivy Bridge IGP with G.Skill",
+    "comment": "114",
+    "author": "by Ian Cutress",
+    "date": "10/18/2012"
+  },
+  {
+    "title": "Additional Details on Micron\u2019s DDR3L-RS, DDR4-RS, and Other Memory",
+    "comment": "24",
+    "author": "by Jarred Walt",
+    "date": "9/22/2012"
+  },
+  {
+    "title": "Micron Announces 30nm DDR3L-RS Products",
+    "comment": "10",
+    "author": "by Jarred Walt",
+    "date": "9/20/2012"
+  },
+  {
+    "title": "Samsung Introduces 64GB UHS-I microSD and SD Cards",
+    "comment": "5",
+    "author": "by Stefan Cstantinescu",
+    "date": "8/29/2012"
+  },
+  {
+    "title": "Micron To Acquire Elpida For $2.5 Billion",
+    "comment": "7",
+    "author": "by Ryan Smith",
+    "date": "7/3/2012"
+  },
+  {
+    "title": "Rambus And NVIDIA Bury The Hatchet, Sign 5 Year Agreement",
+    "comment": "20",
+    "author": "by Ryan Smith",
+    "date": "2/9/2012"
+  },
+  {
+    "title": "Micron CEO Steve Appleton Dies in a Plane Crash",
+    "comment": "10",
+    "author": "by Kristian V\u00e4tt\u00f6",
+    "date": "2/4/2012"
+  },
+  {
+    "title": "Patriot SSDs, Flash, and Large Memory Applications",
+    "comment": "4",
+    "author": "by Jarred Walt",
+    "date": "1/10/2012"
+  },
+  {
+    "title": "Introducing AMD\u2019s Memory Brand",
+    "comment": "55",
+    "author": "by Jarred Walt",
+    "date": "11/28/2011"
+  },
+  {
+    "title": "Rambus Loses Major Antitrust Case Against Hynix & Micron",
+    "comment": "29",
+    "author": "by Ryan Smith",
+    "date": "11/16/2011"
+  },
+  {
+    "title": "Intel and Micron Develop Hybrid Memory Cube, Stacked DRAM is Coming",
+    "comment": "19",
+    "author": "by Anand Lal Shimpi",
+    "date": "9/15/2011"
+  },
+  {
+    "title": "Kingston Shows off Business SF-2281 SSD & 64GB Sandy Bridge E",
+    "comment": "11",
+    "author": "by Anand Lal Shimpi",
+    "date": "9/13/2011"
+  },
+  {
+    "title": "JEDEC Reveals Key Aspects of DDR4",
+    "comment": "34",
+    "author": "by Kristian V\u00e4tt\u00f6",
+    "date": "8/23/2011"
+  },
+  {
+    "title": "AMD to Enter RAM Market with Radeon-branded DDR3",
+    "comment": "23",
+    "author": "by Kristian V\u00e4tt\u00f6",
+    "date": "8/8/2011"
+  },
+  {
+    "title": "Sandy Bridge Memory Scaling: Choosing the Best DDR3",
+    "comment": "76",
+    "author": "by Jared Bell",
+    "date": "7/25/2011"
+  },
+  {
+    "title": "Patriot: 16GB is the new 8GB for Sandy Bridge-E",
+    "comment": "52",
+    "author": "by Anand Lal Shimpi",
+    "date": "6/1/2011"
+  },
+  {
+    "title": "Everything You Always Wanted to Know About SDRAM (Memory): But Were Afraid to Ask",
+    "comment": "47",
+    "author": "by Rajinder Gill",
+    "date": "8/15/2010"
+  },
+  {
+    "title": "Fastest Memory Race Heats Up - Corsair Announces 2533MHz DDR3",
+    "comment": "14",
+    "author": "by Ian Cutress",
+    "date": "5/7/2010"
+  },
+  {
+    "title": "This Just In: G.Skill Giveaway Goodies",
+    "comment": "37",
+    "author": "by Anand Lal Shimpi",
+    "date": "4/10/2010"
+  },
+  {
+    "title": "DDR3-2000+ Memory Kits - Fast but Flawed",
+    "comment": "16",
+    "author": "by Rajinder Gill",
+    "date": "7/8/2009"
+  },
+  {
+    "title": "Memory Scaling on Core i7 - Is DDR3-1066 Really the Best Choice?",
+    "comment": "50",
+    "author": "by Gary Key",
+    "date": "6/24/2009"
+  },
+  {
+    "title": "OCZ Blade DDR3-2133 - Is it Fast Enough?",
+    "comment": "17",
+    "author": "by Gary Key",
+    "date": "6/9/2009"
+  },
+  {
+    "title": "Lab Update - Patriot Memory Viper Series DDR3-1333",
+    "comment": "12",
+    "author": "by Gary Key",
+    "date": "3/17/2009"
+  },
+  {
+    "title": "Core i7 - Is High VDimm really a Problem?",
+    "comment": "40",
+    "author": "by Gary Key",
+    "date": "10/8/2008"
+  },
+  {
+    "title": "Corsair DDR3-2133 - How high and fast will it go?",
+    "comment": "12",
+    "author": "by Rajinder Gill",
+    "date": "8/28/2008"
+  },
+  {
+    "title": "OCZ Flex II - Life at 1200MHz",
+    "comment": "15",
+    "author": "by Gary Key",
+    "date": "5/19/2008"
+  },
+  {
+    "title": "In Memory Of The Law: The Memory Industry's Legal Problems",
+    "comment": "28",
+    "author": "by Ryan Smith",
+    "date": "10/25/2007"
+  },
+  {
+    "title": "Cell Shock, Corsair, and Kingston Introduce Ultra Speed DDR3",
+    "comment": "14",
+    "author": "by Wesley Fink",
+    "date": "10/11/2007"
+  },
+  {
+    "title": "OCZ Introduces DDR3-1800",
+    "comment": "27",
+    "author": "by Wesley Fink",
+    "date": "7/31/2007"
+  },
+  {
+    "title": "Super Talent & TEAM: DDR3-1600 Is Here!",
+    "comment": "33",
+    "author": "by Wesley Fink",
+    "date": "7/20/2007"
+  },
+  {
+    "title": "Kingston Launches Low-Latency DDR3",
+    "comment": "45",
+    "author": "by Wesley Fink",
+    "date": "5/24/2007"
+  },
+  {
+    "title": "DDR3 vs. DDR2",
+    "comment": "47",
+    "author": "by Wesley Fink",
+    "date": "5/15/2007"
+  },
+  {
+    "title": "Corsair Dominator PC2-10000: Fastest DDR2",
+    "comment": "24",
+    "author": "by Wesley Fink",
+    "date": "1/31/2007"
+  },
+  {
+    "title": "Corsair Dominator DDR2-1111: Dual-Path Cooling Pushes Performance",
+    "comment": "16",
+    "author": "by Wesley Fink",
+    "date": "1/1/2007"
+  },
+  {
+    "title": "OCZ Flex XLC: PC2-9200 Pushes the Envelope",
+    "comment": "31",
+    "author": "by Wesley Fink",
+    "date": "12/8/2006"
+  },
+  {
+    "title": "Value DDR2-800 from Super Talent: Where Can You Go?",
+    "comment": "29",
+    "author": "by Wesley Fink",
+    "date": "11/29/2006"
+  },
+  {
+    "title": "Mid-Range DDR2-800 from G.Skill",
+    "comment": "32",
+    "author": "by Wesley Fink",
+    "date": "11/3/2006"
+  },
+  {
+    "title": "Patriot Introduces DDR2-1066",
+    "comment": "11",
+    "author": "by Wesley Fink",
+    "date": "10/30/2006"
+  },
+  {
+    "title": "Intel P965: DDR2-667 Memory Performance",
+    "comment": "27",
+    "author": "by Gary Key",
+    "date": "10/26/2006"
+  },
+  {
+    "title": "Super Talent & TEAM Join the Fast DDR2 Club",
+    "comment": "17",
+    "author": "by Wesley Fink",
+    "date": "10/10/2006"
+  },
+  {
+    "title": "Corsair and OCZ: New Standards in Fast DDR2",
+    "comment": "19",
+    "author": "by Wesley Fink",
+    "date": "8/4/2006"
+  },
+  {
+    "title": "Conroe vs. AM2: Memory & Performance",
+    "comment": "119",
+    "author": "by Wesley Fink",
+    "date": "7/25/2006"
+  },
+  {
+    "title": "High Speed DDR2: Buffalo and Crucial Deliver 1000+",
+    "comment": "25",
+    "author": "by Wesley Fink",
+    "date": "7/7/2006"
+  },
+  {
+    "title": "OCZ EL PC2-8000 XTC:  Low Latency PLUS DDR2-1100",
+    "comment": "16",
+    "author": "by Wesley Fink",
+    "date": "4/3/2006"
+  },
+  {
+    "title": "Mushkin XP2 PC2-5300 DDR2 &ndash; Xtreme Performance Memory",
+    "comment": "12",
+    "author": "by Steve Carmel & Wesley Fink",
+    "date": "3/28/2006"
+  },
+  {
+    "title": "Crucial Ballistix DDR2: The New DDR2 Standard?",
+    "comment": "28",
+    "author": "by Steve Carmel & Wesley Fink",
+    "date": "2/21/2006"
+  },
+  {
+    "title": "FAST 2GB DDR Kits - Part 2",
+    "comment": "52",
+    "author": "by Wesley Fink",
+    "date": "1/23/2006"
+  },
+  {
+    "title": "Samsung Ramps Up 900MHz GDDR3",
+    "comment": "12",
+    "author": "by Ryan Smith",
+    "date": "12/22/2005"
+  },
+  {
+    "title": "Lexar JumpDrive Secure II USB Flash Drive - Mac & PC Support",
+    "comment": "13",
+    "author": "by Anand Lal Shimpi",
+    "date": "10/21/2005"
+  },
+  {
+    "title": "1GB DIMMs: FAST 2GB DDR Kits from Corsair, Gigaram, and OCZ",
+    "comment": "41",
+    "author": "by Wesley Fink",
+    "date": "10/11/2005"
+  },
+  {
+    "title": "USB Flash Drive Roundup - 10/2005",
+    "comment": "39",
+    "author": "by Anand Lal Shimpi",
+    "date": "10/4/2005"
+  },
+  {
+    "title": "World Wide Memory: A Tour of Kingston Taiwan",
+    "comment": "48",
+    "author": "by Wesley Fink",
+    "date": "6/16/2005"
+  },
+  {
+    "title": "Mushkin Redline XP4000: Winbond with Voltage Be Damned",
+    "comment": "41",
+    "author": "by Wesley Fink",
+    "date": "5/16/2005"
+  },
+  {
+    "title": "Value RAM Roundup: Computing On a Budget",
+    "comment": "102",
+    "author": "by Wesley Fink",
+    "date": "4/11/2005"
+  },
+  {
+    "title": "Patriot DDR400 2-2-2/DDR533 3-4-4: Performance AND Value",
+    "comment": "23",
+    "author": "by Wesley Fink",
+    "date": "4/8/2005"
+  },
+  {
+    "title": "OCZ VX Revisited: DDR Updates on DFI nForce4",
+    "comment": "53",
+    "author": "by Wesley Fink",
+    "date": "3/30/2005"
+  },
+  {
+    "title": "OCZ VX Memory + DFI nForce4 = DDR533 at 2-2-2",
+    "comment": "67",
+    "author": "by Wesley Fink",
+    "date": "3/4/2005"
+  },
+  {
+    "title": "Corsair 4400C25: Taking Samsung TCCD to New Heights",
+    "comment": "23",
+    "author": "by Wesley Fink",
+    "date": "1/4/2005"
+  },
+  {
+    "title": "OCZ PC2-4200EB:  Reaching for DDR2-800",
+    "comment": "22",
+    "author": "by Wesley Fink",
+    "date": "12/21/2004"
+  },
+  {
+    "title": "PQI & G. Skill: New Choices in 2-2-2 Memory",
+    "comment": "10",
+    "author": "by Wesley Fink",
+    "date": "10/9/2004"
+  },
+  {
+    "title": "Athlon 64 Memory: Rewriting the Rules",
+    "comment": "47",
+    "author": "by Wesley Fink",
+    "date": "10/1/2004"
+  },
+  {
+    "title": "RAM  -  Memory Technology Overview",
+    "comment": "22",
+    "author": "by Jarred Walt",
+    "date": "9/28/2004"
+  },
+  {
+    "title": "OCZ 3700 Gold Rev. 3: DDR500 Value for Athlon 64 & Intel 478",
+    "comment": "11",
+    "author": "by Wesley Fink",
+    "date": "9/22/2004"
+  },
+  {
+    "title": "Geil PC3200 Ultra X:  High Speed & Record Bandwidth",
+    "comment": "19",
+    "author": "by Wesley Fink",
+    "date": "8/20/2004"
+  },
+  {
+    "title": "=<em>F-A-S-T</em>=  DDR Memory:  2-2-2 Roars on the Scene",
+    "comment": "47",
+    "author": "by Wesley Fink",
+    "date": "8/5/2004"
+  },
+  {
+    "title": "Buffalo FireStix:  Red Hot Name for a New High-End Memory",
+    "comment": "9",
+    "author": "by Wesley Fink",
+    "date": "7/22/2004"
+  },
+  {
+    "title": "DDR2 Roundup:  Reaching for 667 and Beyond",
+    "comment": "20",
+    "author": "by Wesley Fink",
+    "date": "7/8/2004"
+  },
+  {
+    "title": "New DDR Highs:  Shikatronics, OCZ, and the Fastest Memory Yet",
+    "comment": "11",
+    "author": "by Wesley Fink",
+    "date": "6/29/2004"
+  },
+  {
+    "title": "The Return of 2-2-2:  Corsair 3200XL & Samsung PC4000",
+    "comment": "11",
+    "author": "by Wesley Fink",
+    "date": "6/15/2004"
+  },
+  {
+    "title": "OCZ 3700EB:  Making Hay with Athlon 64",
+    "comment": "12",
+    "author": "by Wesley Fink",
+    "date": "5/19/2004"
+  },
+  {
+    "title": "OCZ 3500EB:  The Importance of Balanced Memory Timings",
+    "comment": "13",
+    "author": "by Wesley Fink",
+    "date": "4/7/2004"
+  },
+  {
+    "title": "Mushkin PC3200 2-2-2 Special:  Last of a Legend",
+    "comment": "9",
+    "author": "by Wesley Fink",
+    "date": "4/4/2004"
+  },
+  {
+    "title": "PMI DDR533:  A New Name in High-Performance Memory",
+    "comment": "13",
+    "author": "by Wesley Fink",
+    "date": "3/25/2004"
+  },
+  {
+    "title": "AT News Update: AMD Sidelines DDR2 for 2004",
+    "comment": "14",
+    "author": "by Kristopher Kubicki",
+    "date": "3/25/2004"
+  },
+  {
+    "title": "FIRST LOOK: Kingston DDR2 Next-Generation Memory",
+    "comment": "7",
+    "author": "by Wesley Fink",
+    "date": "3/18/2004"
+  },
+  {
+    "title": "Samsung PC3700:  DDR466 Memory for the Masses",
+    "comment": "4",
+    "author": "by Wesley Fink",
+    "date": "3/15/2004"
+  },
+  {
+    "title": "Kingmax Hardcore Memory: Tiny BGA Reaches For Top Speed",
+    "comment": "14",
+    "author": "by Wesley Fink",
+    "date": "3/9/2004"
+  },
+  {
+    "title": "AT News Update: DRAM Price Fixing",
+    "comment": "2",
+    "author": "by Kristopher Kubicki",
+    "date": "3/2/2004"
+  },
+  {
+    "title": "AT News Update: DDR2 Memory Performance",
+    "comment": "25",
+    "author": "by Kristopher Kubicki",
+    "date": "2/25/2004"
+  },
+  {
+    "title": "New Memory Highs: Corsair and OCZ Introduce DDR550",
+    "comment": "13",
+    "author": "by Wesley Fink",
+    "date": "2/19/2004"
+  },
+  {
+    "title": "OCZ PC3700 Gold Rev. 2:  The Universal Soldier",
+    "comment": "5",
+    "author": "by Wesley Fink",
+    "date": "1/1/2004"
+  },
+  {
+    "title": "OCZ PC3500 Platinum: A Return to the Fastest Timings",
+    "comment": "11",
+    "author": "by Wesley Fink",
+    "date": "10/30/2003"
+  },
+  {
+    "title": "OCZ 4200EL:  Tops in Memory Performance",
+    "comment": "45",
+    "author": "by Wesley Fink",
+    "date": "10/13/2003"
+  },
+  {
+    "title": "Mushkin PC4000 High Performance:  DDR500 PLUS",
+    "comment": "11",
+    "author": "by Wesley Fink",
+    "date": "9/26/2003"
+  },
+  {
+    "title": "Corsair TwinX1024-4000 PRO: Improving DDR500 Performance",
+    "comment": "17",
+    "author": "by Wesley Fink",
+    "date": "9/15/2003"
+  },
+  {
+    "title": "Mushkin & Adata: 2 for the Fast-Timings Lane",
+    "comment": "17",
+    "author": "by Wesley Fink",
+    "date": "9/1/2003"
+  },
+  {
+    "title": "Searching for the Memory Holy Grail - Part 2",
+    "comment": "77",
+    "author": "by Wesley Fink",
+    "date": "8/26/2003"
+  },
+  {
+    "title": "OCZ 3700 GOLD: Building High-Performance Memory",
+    "comment": "68",
+    "author": "by Wesley Fink",
+    "date": "8/7/2003"
+  },
+  {
+    "title": "Searching for the Memory Holy Grail:  Part 1",
+    "comment": "42",
+    "author": "by Wesley Fink",
+    "date": "7/27/2003"
+  },
+  {
+    "title": "865PE & 875P Memory Guide",
+    "comment": "10",
+    "author": "by Evan Lieb",
+    "date": "6/9/2003"
+  },
+  {
+    "title": "Memory Module Technologies: TCP, EPOC and FEMMA",
+    "comment": "0",
+    "author": "by Andy Hui",
+    "date": "8/26/2002"
+  },
+  {
+    "title": "Weekly Memory & Motherboard Price Guide: April 2001 1st Edition",
+    "comment": "0",
+    "author": "by Kiran Venkatesh",
+    "date": "4/1/2001"
+  },
+  {
+    "title": "Weekly Memory & Motherboard Price Guide: March 2001 1st Edition",
+    "comment": "0",
+    "author": "by Kiran Venkatesh",
+    "date": "3/2/2001"
+  },
+  {
+    "title": "Rambus DRAM Part 2: Performance",
+    "comment": "0",
+    "author": "by Anand Lal Shimpi",
+    "date": "5/22/2000"
+  },
+  {
+    "title": "Rambus DRAM: Uncovering Facts & Burying Rumors",
+    "comment": "2",
+    "author": "by Anand Lal Shimpi",
+    "date": "5/15/2000"
+  },
+  {
+    "title": "PC133 SDRAM Roundup - April 2000",
+    "comment": "0",
+    "author": "by Anand Lal Shimpi",
+    "date": "4/3/2000"
+  },
+  {
+    "title": "Memory: Rising prices, RDRAM on the way, and a new toy",
+    "comment": "0",
+    "author": "by Anand Lal Shimpi",
+    "date": "9/13/1999"
+  },
+  {
+    "title": "April 1999 SDRAM Comparison",
+    "comment": "0",
+    "author": "by Anand Lal Shimpi",
+    "date": "4/20/1999"
+  },
+  {
+    "title": "Corsair Micron SDRAM Comparison",
+    "comment": "0",
+    "author": "by Anand Lal Shimpi",
+    "date": "4/12/1999"
+  },
+  {
+    "title": "March 1999 SDRAM Comparison",
+    "comment": "0",
+    "author": "by Anand Lal Shimpi",
+    "date": "3/22/1999"
+  },
+  {
+    "title": "September '98 PC100 SDRAM Comparison",
+    "comment": "0",
+    "author": "by Anand Lal Shimpi",
+    "date": "9/13/1998"
+  },
+  {
+    "title": "PC100 SDRAM: A Closer Look",
+    "comment": "0",
+    "author": "by Anand Lal Shimpi",
+    "date": "6/15/1998"
+  },
+  {
+    "title": "SDRAM: Hype or the Future",
+    "comment": "0",
+    "author": "by Anand Lal Shimpi",
+    "date": "5/2/1998"
+  },
+  {
+    "title": "PC100 SDRAM: An Introduction",
+    "comment": "0",
+    "author": "by Anand Lal Shimpi",
+    "date": "3/3/1998"
+  },
+  {
+    "title": "RAM Guide",
+    "comment": "1",
+    "author": "by Anand Lal Shimpi",
+    "date": "11/17/1997"
+  }
+]

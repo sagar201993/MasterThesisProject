@@ -1,0 +1,4214 @@
+[
+  {
+    "title": "Samsung T9 Portable SSD Review: A 20 Gbps PSSD for Prosumer Workloads",
+    "comment": "15",
+    "author": "by Ganesh T S",
+    "date": "10/3/2023"
+  },
+  {
+    "title": "Modular LPDDR Memory Becomes A Reality: Samsung Introduces LPCAMM Memory Modules",
+    "comment": "30",
+    "author": "by Ryan Smith",
+    "date": "9/25/2023"
+  },
+  {
+    "title": "Samsung Unveils Industry's First 32Gbit DDR5 Memory Die: 1TB Modules Incoming",
+    "comment": "6",
+    "author": "by Ant Shilov",
+    "date": "9/1/2023"
+  },
+  {
+    "title": "Samsung 990 Pro SSD Gets 4TB Model",
+    "comment": "15",
+    "author": "by Ant Shilov",
+    "date": "8/24/2023"
+  },
+  {
+    "title": "Samsung Launches 57-Inch Odyssey Neo G9: An Ultimate Curved Gaming LCD",
+    "comment": "3",
+    "author": "by Ant Shilov",
+    "date": "8/24/2023"
+  },
+  {
+    "title": "Samsung, MemVerge, and H3 Build 2TB CXL Memory Pool",
+    "comment": "4",
+    "author": "by Ant Shilov",
+    "date": "8/14/2023"
+  },
+  {
+    "title": "Samsung Teases 256 TB SSD: 3D QLC NAND at Its Best",
+    "comment": "27",
+    "author": "by Ant Shilov",
+    "date": "8/11/2023"
+  },
+  {
+    "title": "Memory Makers on Track to Double HBM Output in 2023",
+    "comment": "9",
+    "author": "by Ant Shilov",
+    "date": "8/9/2023"
+  },
+  {
+    "title": "Samsung Begins to Produce Third 3nm Chip Amid Massive Losses On DRAM & NAND",
+    "comment": "14",
+    "author": "by Ant Shilov",
+    "date": "7/28/2023"
+  },
+  {
+    "title": "Samsung Completes Initial GDDR7 Development: First Parts to Reach Up to 32Gbps/pin",
+    "comment": "11",
+    "author": "by Ryan Smith",
+    "date": "7/18/2023"
+  },
+  {
+    "title": "Samsung Shipping First GAAFET Silicon; 3nm and 4nm Yields Are Improving - Report",
+    "comment": "5",
+    "author": "by Ant Shilov",
+    "date": "7/18/2023"
+  },
+  {
+    "title": "Top 10 Foundries See Revenue Drop Nearly 15% Year-over-Year",
+    "comment": "0",
+    "author": "by Ant Shilov",
+    "date": "6/13/2023"
+  },
+  {
+    "title": "Samsung Kicks Off DDR5 DRAM Production on 12nm Process Tech, DDR5-7200 in the Works",
+    "comment": "18",
+    "author": "by Ant Shilov",
+    "date": "5/18/2023"
+  },
+  {
+    "title": "Samsung to Unveil Refined 3nm and Performance-Enhanced 4nm Nodes at VLSI Symposium",
+    "comment": "3",
+    "author": "by Ant Shilov",
+    "date": "5/10/2023"
+  },
+  {
+    "title": "Samsung Foundry Vows to Surpass TSMC Within Five Years",
+    "comment": "18",
+    "author": "by Ant Shilov",
+    "date": "5/8/2023"
+  },
+  {
+    "title": "Report: DDR5 RDIMM Production Impacted by PMIC Compatibility Issues",
+    "comment": "4",
+    "author": "by Ant Shilov",
+    "date": "4/26/2023"
+  },
+  {
+    "title": "As The Demand for HBM Explodes, SK Hynix is Expected to Benefit",
+    "comment": "9",
+    "author": "by Ant Shilov",
+    "date": "4/18/2023"
+  },
+  {
+    "title": "Samsung Updates PRO Plus UHS-I Memory Cards with Improved Speeds",
+    "comment": "26",
+    "author": "by Ganesh T S",
+    "date": "4/11/2023"
+  },
+  {
+    "title": "Samsung Becomes Latest Memory Fab to Cut Production Amidst Post-Pandemic Slump",
+    "comment": "11",
+    "author": "by Ant Shilov",
+    "date": "4/7/2023"
+  },
+  {
+    "title": "Samsung T9 Portable SSD Review: A 20 Gbps PSSD for Prosumer Workloads",
+    "comment": "15",
+    "author": "by Ganesh T S",
+    "date": "10/3/2023"
+  },
+  {
+    "title": "Modular LPDDR Memory Becomes A Reality: Samsung Introduces LPCAMM Memory Modules",
+    "comment": "30",
+    "author": "by Ryan Smith",
+    "date": "9/25/2023"
+  },
+  {
+    "title": "Samsung Unveils Industry's First 32Gbit DDR5 Memory Die: 1TB Modules Incoming",
+    "comment": "6",
+    "author": "by Ant Shilov",
+    "date": "9/1/2023"
+  },
+  {
+    "title": "Samsung 990 Pro SSD Gets 4TB Model",
+    "comment": "15",
+    "author": "by Ant Shilov",
+    "date": "8/24/2023"
+  },
+  {
+    "title": "Samsung Launches 57-Inch Odyssey Neo G9: An Ultimate Curved Gaming LCD",
+    "comment": "3",
+    "author": "by Ant Shilov",
+    "date": "8/24/2023"
+  },
+  {
+    "title": "Samsung, MemVerge, and H3 Build 2TB CXL Memory Pool",
+    "comment": "4",
+    "author": "by Ant Shilov",
+    "date": "8/14/2023"
+  },
+  {
+    "title": "Samsung Teases 256 TB SSD: 3D QLC NAND at Its Best",
+    "comment": "27",
+    "author": "by Ant Shilov",
+    "date": "8/11/2023"
+  },
+  {
+    "title": "Memory Makers on Track to Double HBM Output in 2023",
+    "comment": "9",
+    "author": "by Ant Shilov",
+    "date": "8/9/2023"
+  },
+  {
+    "title": "Samsung Begins to Produce Third 3nm Chip Amid Massive Losses On DRAM & NAND",
+    "comment": "14",
+    "author": "by Ant Shilov",
+    "date": "7/28/2023"
+  },
+  {
+    "title": "Samsung Completes Initial GDDR7 Development: First Parts to Reach Up to 32Gbps/pin",
+    "comment": "11",
+    "author": "by Ryan Smith",
+    "date": "7/18/2023"
+  },
+  {
+    "title": "Samsung Shipping First GAAFET Silicon; 3nm and 4nm Yields Are Improving - Report",
+    "comment": "5",
+    "author": "by Ant Shilov",
+    "date": "7/18/2023"
+  },
+  {
+    "title": "Top 10 Foundries See Revenue Drop Nearly 15% Year-over-Year",
+    "comment": "0",
+    "author": "by Ant Shilov",
+    "date": "6/13/2023"
+  },
+  {
+    "title": "Samsung Kicks Off DDR5 DRAM Production on 12nm Process Tech, DDR5-7200 in the Works",
+    "comment": "18",
+    "author": "by Ant Shilov",
+    "date": "5/18/2023"
+  },
+  {
+    "title": "Samsung to Unveil Refined 3nm and Performance-Enhanced 4nm Nodes at VLSI Symposium",
+    "comment": "3",
+    "author": "by Ant Shilov",
+    "date": "5/10/2023"
+  },
+  {
+    "title": "Samsung Foundry Vows to Surpass TSMC Within Five Years",
+    "comment": "18",
+    "author": "by Ant Shilov",
+    "date": "5/8/2023"
+  },
+  {
+    "title": "Report: DDR5 RDIMM Production Impacted by PMIC Compatibility Issues",
+    "comment": "4",
+    "author": "by Ant Shilov",
+    "date": "4/26/2023"
+  },
+  {
+    "title": "As The Demand for HBM Explodes, SK Hynix is Expected to Benefit",
+    "comment": "9",
+    "author": "by Ant Shilov",
+    "date": "4/18/2023"
+  },
+  {
+    "title": "Samsung Updates PRO Plus UHS-I Memory Cards with Improved Speeds",
+    "comment": "26",
+    "author": "by Ganesh T S",
+    "date": "4/11/2023"
+  },
+  {
+    "title": "Samsung Becomes Latest Memory Fab to Cut Production Amidst Post-Pandemic Slump",
+    "comment": "11",
+    "author": "by Ant Shilov",
+    "date": "4/7/2023"
+  },
+  {
+    "title": "Samsung and AMD Renew GPU Architecture Licensing Agreement: More RDNA Exynos Chips to Come",
+    "comment": "3",
+    "author": "by Ryan Smith",
+    "date": "4/6/2023"
+  },
+  {
+    "title": "NAND Flash Prices Have Dropped Rapidly In Recent Quarters - And So Have SSD Prices",
+    "comment": "20",
+    "author": "by Ant Shilov",
+    "date": "3/20/2023"
+  },
+  {
+    "title": "Inflation Drives Up Fab Costs for Intel and Samsung by Billions of Dollars",
+    "comment": "15",
+    "author": "by Ant Shilov",
+    "date": "3/16/2023"
+  },
+  {
+    "title": "Samsung Seeks to Make South Korea No. 1 Chipmaker with $230B Investment Over 20 Years",
+    "comment": "22",
+    "author": "by Ant Shilov",
+    "date": "3/15/2023"
+  },
+  {
+    "title": "Samsung Portable SSD T7 Shield 4TB Review: IP65 PSSD Gets a Capacity Upgrade",
+    "comment": "13",
+    "author": "by Ganesh T S",
+    "date": "1/31/2023"
+  },
+  {
+    "title": "Samsung Foundry Outlines Roadmap Through 2027: 1.4 nm Node, 3x More Capacity",
+    "comment": "14",
+    "author": "by Ant Shilov",
+    "date": "10/10/2022"
+  },
+  {
+    "title": "Samsung's $15 Billion R&D Complex to Overcome Limits of Semiconductor Scaling",
+    "comment": "26",
+    "author": "by Ant Shilov",
+    "date": "8/19/2022"
+  },
+  {
+    "title": "Samsung Portable SSD T7 Shield Review: Flagship PSSD Gets IP65 Avatar",
+    "comment": "11",
+    "author": "by Ganesh T S",
+    "date": "7/20/2022"
+  },
+  {
+    "title": "Samsung MUF-256DA USB-C Flash Drive Review: Thumb-Sized Performance Consistency",
+    "comment": "20",
+    "author": "by Ganesh T S",
+    "date": "7/6/2022"
+  },
+  {
+    "title": "Samsung Starts 3nm Production: The Gate-All-Around (GAAFET) Era Begins",
+    "comment": "22",
+    "author": "by Ryan Smith",
+    "date": "6/30/2022"
+  },
+  {
+    "title": "Applied Materials Outlines Next-Gen Tools for 3nm and GAA Transistor Era",
+    "comment": "17",
+    "author": "by Ant Shilov",
+    "date": "5/12/2022"
+  },
+  {
+    "title": "DDR5 Demystified - Feat. Samsung DDR5-4800: A Look at Ranks, DPCs, and Do Manufacturers Matter?",
+    "comment": "68",
+    "author": "by Gavin Bshor",
+    "date": "4/7/2022"
+  },
+  {
+    "title": "Samsung Announces First PCIe 5.0 Enterprise SSD: PM1743, Coming In 2022",
+    "comment": "12",
+    "author": "by Ryan Smith",
+    "date": "12/23/2021"
+  },
+  {
+    "title": "Semi CapEx to Hit $152 Billion in 2021 as Market on Track for $2 Trillion by 2035",
+    "comment": "8",
+    "author": "by Ant Shilov",
+    "date": "12/17/2021"
+  },
+  {
+    "title": "Texas To Get Multiple New Fabs as Samsung and TI to Spend $47 Billion on New Facilities",
+    "comment": "135",
+    "author": "by Ant Shilov",
+    "date": "11/24/2021"
+  },
+  {
+    "title": "Best Android Phones: November 2021",
+    "comment": "23",
+    "author": "by Andrei Frumusanu",
+    "date": "11/19/2021"
+  },
+  {
+    "title": "Samsung Announces First LPDDR5X at 8.5Gbps",
+    "comment": "19",
+    "author": "by Andrei Frumusanu",
+    "date": "11/9/2021"
+  },
+  {
+    "title": "Samsung Foundry: 2nm Silicon in 2025",
+    "comment": "29",
+    "author": "by Dr. Ian Cutress",
+    "date": "10/6/2021"
+  },
+  {
+    "title": "Samsung Foundry\u2019s New 17nm Node: 17LPV brings FinFET to 28nm",
+    "comment": "11",
+    "author": "by Dr. Ian Cutress",
+    "date": "10/6/2021"
+  },
+  {
+    "title": "Samsung Foundry to Almost Double Output by 2026",
+    "comment": "6",
+    "author": "by Dr. Ian Cutress",
+    "date": "10/6/2021"
+  },
+  {
+    "title": "Hot Chips 2021 Live Blog: New Tech (Infineon, EdgeQ, Samsung)",
+    "comment": "3",
+    "author": "by Dr. Ian Cutress",
+    "date": "8/23/2021"
+  },
+  {
+    "title": "Samsung Teases 512 GB DDR5-7200 Modules",
+    "comment": "27",
+    "author": "by Dr. Ian Cutress",
+    "date": "8/22/2021"
+  },
+  {
+    "title": "Samsung Unpacked 2021 Part 2: Galaxy Z Flip 3 & Z Fold 3 Announced",
+    "comment": "50",
+    "author": "by Andrei Frumusanu",
+    "date": "8/11/2021"
+  },
+  {
+    "title": "Samsung: Deployment of 3nm GAE Node on Track for 2022",
+    "comment": "32",
+    "author": "by Ant Shilov",
+    "date": "7/9/2021"
+  },
+  {
+    "title": "Intel Hybrid CPU Starts 'End of Life' Process",
+    "comment": "58",
+    "author": "by Dr. Ian Cutress",
+    "date": "7/7/2021"
+  },
+  {
+    "title": "Mobile Flagship Phone Cameras 2021 H1 Review: Megapixels & Telephotos",
+    "comment": "60",
+    "author": "by Andrei Frumusanu",
+    "date": "6/21/2021"
+  },
+  {
+    "title": "AMD confirms Ray-Tracing and VRS in Samsung Exynos RDNA GPU IP",
+    "comment": "49",
+    "author": "by Andrei Frumusanu",
+    "date": "6/1/2021"
+  },
+  {
+    "title": "Using a PCIe Slot to Install DRAM: New Samsung CXL.mem Expansion Module",
+    "comment": "47",
+    "author": "by Dr. Ian Cutress",
+    "date": "5/11/2021"
+  },
+  {
+    "title": "The Samsung SSD 980 (500GB & 1TB) Review: Samsung's Entry NVMe",
+    "comment": "54",
+    "author": "by Billy Tallis",
+    "date": "3/9/2021"
+  },
+  {
+    "title": "The Samsung Galaxy S21 Ultra & S21 Review: The Near Perfect and The Different",
+    "comment": "122",
+    "author": "by Andrei Frumusanu",
+    "date": "2/22/2021"
+  },
+  {
+    "title": "2021 NAND Flash Updates from ISSCC: The Leaning Towers of TLC and QLC",
+    "comment": "76",
+    "author": "by Billy Tallis",
+    "date": "2/19/2021"
+  },
+  {
+    "title": "The Samsung 870 EVO (1TB & 4TB) Review: Does the World Need Premium SATA SSDs?",
+    "comment": "136",
+    "author": "by Billy Tallis",
+    "date": "2/17/2021"
+  },
+  {
+    "title": "Samsung Foundry: New $17 Billion Fab in the USA by Late 2023",
+    "comment": "36",
+    "author": "by Ant Shilov",
+    "date": "2/10/2021"
+  },
+  {
+    "title": "The Snapdragon 888 vs The Exynos 2100: Cortex-X1 & 5nm - Who Does It Better?",
+    "comment": "123",
+    "author": "by Andrei Frumusanu",
+    "date": "2/8/2021"
+  },
+  {
+    "title": "Investigating The Galaxy S21 Ultra New OLED Emitter: Huge Efficiency Improvements",
+    "comment": "50",
+    "author": "by Andrei Frumusanu",
+    "date": "2/2/2021"
+  },
+  {
+    "title": "How We Test PCIe 4.0 Storage: The AnandTech 2021 SSD Benchmark Suite",
+    "comment": "70",
+    "author": "by Billy Tallis",
+    "date": "2/1/2021"
+  },
+  {
+    "title": "Samsung Introduces 870 EVO SATA SSDs: 128L TLC With an Updated Controller",
+    "comment": "29",
+    "author": "by Billy Tallis",
+    "date": "1/19/2021"
+  },
+  {
+    "title": "Samsung Announces Galaxy S21, S21+ & S21 Ultra: Cheaper Baseline, Higher High-End",
+    "comment": "136",
+    "author": "by Andrei Frumusanu",
+    "date": "1/14/2021"
+  },
+  {
+    "title": "Samsung Confirms AMD RDNA GPU In Next Exynos Flagship",
+    "comment": "15",
+    "author": "by Andrei Frumusanu",
+    "date": "1/12/2021"
+  },
+  {
+    "title": "Samsung Announces Exynos 2100 SoC: A New Restart on 5nm with X1 Cores",
+    "comment": "34",
+    "author": "by Andrei Frumusanu",
+    "date": "1/12/2021"
+  },
+  {
+    "title": "AnandTech Year In Review 2020: Flagship Mobile",
+    "comment": "57",
+    "author": "by Andrei Frumusanu",
+    "date": "12/28/2020"
+  },
+  {
+    "title": "Samsung Teases CES Announcement For Next Exynos SoC",
+    "comment": "12",
+    "author": "by Ryan Smith",
+    "date": "12/18/2020"
+  },
+  {
+    "title": "QLC Goes To 8TB: Samsung 870 QVO and Sabrent Rocket Q 8TB SSDs Reviewed",
+    "comment": "152",
+    "author": "by Billy Tallis",
+    "date": "12/4/2020"
+  },
+  {
+    "title": "EDSFF Form Factor Updates In 2020: New Versions, Growing Adoption",
+    "comment": "6",
+    "author": "by Billy Tallis",
+    "date": "11/25/2020"
+  },
+  {
+    "title": "Xilinx and Samsung Launch SmartSSD Computational Storage Drive",
+    "comment": "25",
+    "author": "by Billy Tallis",
+    "date": "11/12/2020"
+  },
+  {
+    "title": "Samsung PRO Plus and EVO Plus SDXC UHS-I 128GB Memory Cards Capsule Review",
+    "comment": "21",
+    "author": "by Ganesh T S",
+    "date": "10/14/2020"
+  },
+  {
+    "title": "Insights into DDR5 Sub-timings and Latencies",
+    "comment": "87",
+    "author": "by Dr. Ian Cutress",
+    "date": "10/6/2020"
+  },
+  {
+    "title": "The Samsung 980 PRO PCIe 4.0 SSD Review: A Spirit of Hope",
+    "comment": "137",
+    "author": "by Billy Tallis",
+    "date": "9/22/2020"
+  },
+  {
+    "title": "Samsung's Note20 Ultra Variable Refresh Rate Display Explained",
+    "comment": "43",
+    "author": "by Andrei Frumusanu",
+    "date": "9/8/2020"
+  },
+  {
+    "title": "Samsung Launches New Galaxy Z Fold2 at $1999",
+    "comment": "32",
+    "author": "by Andrei Frumusanu",
+    "date": "9/1/2020"
+  },
+  {
+    "title": "Samsung 980 PRO Briefly Listed Online",
+    "comment": "78",
+    "author": "by Billy Tallis",
+    "date": "8/31/2020"
+  },
+  {
+    "title": "Samsung Display Announces First VRR Mobile Display - Inside Note20 Ultra",
+    "comment": "31",
+    "author": "by Andrei Frumusanu",
+    "date": "8/11/2020"
+  },
+  {
+    "title": "Samsung Announces Galaxy Tab S7 & S7+: S865+ & 120Hz Tablets",
+    "comment": "74",
+    "author": "by Andrei Frumusanu",
+    "date": "8/5/2020"
+  },
+  {
+    "title": "Samsung Announces Galaxy Z Fold 2: Second-Generation Foldable",
+    "comment": "18",
+    "author": "by Andrei Frumusanu",
+    "date": "8/5/2020"
+  },
+  {
+    "title": "Samsung Announces Note 20 & Note 20 Ultra: Better S-Pen, New Finishes",
+    "comment": "78",
+    "author": "by Andrei Frumusanu",
+    "date": "8/5/2020"
+  },
+  {
+    "title": "Samsung Lets Note20+/Ultra Design Slip",
+    "comment": "54",
+    "author": "by Andrei Frumusanu",
+    "date": "7/1/2020"
+  },
+  {
+    "title": "The Samsung 870 QVO (1TB & 4TB) SSD Review: QLC Refreshed",
+    "comment": "64",
+    "author": "by Billy Tallis",
+    "date": "6/30/2020"
+  },
+  {
+    "title": "Mobile Flagship Phone Camera Overview 2020 H1: Still Picture Battle",
+    "comment": "130",
+    "author": "by Andrei Frumusanu",
+    "date": "6/18/2020"
+  },
+  {
+    "title": "ISCA 2020: Evolution of the Samsung Exynos CPU Microarchitecture",
+    "comment": "52",
+    "author": "by Andrei Frumusanu",
+    "date": "6/3/2020"
+  },
+  {
+    "title": "Samsung Unveils Intel-based Galaxy Book S: Intel\u2019s Lakefield Inbound",
+    "comment": "50",
+    "author": "by Ryan Smith",
+    "date": "5/29/2020"
+  },
+  {
+    "title": "Samsung Announces Galaxy A51 5G & A71 5G Mid-Range Smartphones",
+    "comment": "15",
+    "author": "by Andrei Frumusanu",
+    "date": "4/9/2020"
+  },
+  {
+    "title": "The Samsung Galaxy S20+, S20 Ultra Exynos & Snapdragon Review: Megalomania Devices",
+    "comment": "138",
+    "author": "by Andrei Frumusanu",
+    "date": "4/3/2020"
+  },
+  {
+    "title": "Samsung to Cease Traditional LCD Production, Move To Quantum Dot OLEDs",
+    "comment": "47",
+    "author": "by Ant Shilov",
+    "date": "3/31/2020"
+  },
+  {
+    "title": "Cadence DDR5 Update: Launching at 4800 MT/s, Over 12 DDR5 SoCs in Development",
+    "comment": "20",
+    "author": "by Ant Shilov",
+    "date": "3/27/2020"
+  },
+  {
+    "title": "Samsung to Produce DDR5 in 2021 (with EUV)",
+    "comment": "20",
+    "author": "by Ant Shilov",
+    "date": "3/25/2020"
+  },
+  {
+    "title": "Samsung Reveals All-in-One Power Management ICs for Wireless Earbuds",
+    "comment": "14",
+    "author": "by Ant Shilov",
+    "date": "3/24/2020"
+  },
+  {
+    "title": "Samsung Galaxy S20+ & Ultra (Snapdragon & Exynos) Battery Life Preview",
+    "comment": "107",
+    "author": "by Andrei Frumusanu",
+    "date": "3/23/2020"
+  },
+  {
+    "title": "Samsung Begins Mass Production of 512 GB eUFS 3.1 Storage: Up to 2.1 GB/s",
+    "comment": "15",
+    "author": "by Ant Shilov",
+    "date": "3/17/2020"
+  },
+  {
+    "title": "Samsung Galaxy S20 Ultra (Snapdragon 865) Quick Performance Preview: Impressive",
+    "comment": "117",
+    "author": "by Andrei Frumusanu",
+    "date": "3/13/2020"
+  },
+  {
+    "title": "Samsung Announces TD5 Monitors: Aggressive, 1000R Curved Office Displays",
+    "comment": "66",
+    "author": "by Ant Shilov",
+    "date": "3/3/2020"
+  },
+  {
+    "title": "Samsung Updates Galaxy Book Ion: First with Comet Lake & LPDDR4X",
+    "comment": "8",
+    "author": "by Ant Shilov",
+    "date": "3/2/2020"
+  },
+  {
+    "title": "Samsung Starts Production of 16 GB LPDDR5-5500 for Smartphones",
+    "comment": "33",
+    "author": "by Ant Shilov",
+    "date": "2/25/2020"
+  },
+  {
+    "title": "Samsung Starts Mass Production at V1: A Dedicated EUV Fab for 7nm, 6nm, 5nm, 4nm, 3nm Nodes",
+    "comment": "30",
+    "author": "by Ant Shilov",
+    "date": "2/20/2020"
+  },
+  {
+    "title": "Enterprise NVMe Round-Up 2: SK Hynix, Samsung, DapuStor and DERA",
+    "comment": "33",
+    "author": "by Billy Tallis",
+    "date": "2/14/2020"
+  },
+  {
+    "title": "Samsung Announces The Galaxy Z Flip: Foldable Phone With Glass",
+    "comment": "26",
+    "author": "by Andrei Frumusanu",
+    "date": "2/11/2020"
+  },
+  {
+    "title": "Samsung Announces The Galaxy S20, S20+ and S20 Ultra: 120Hz, 5G, Huge Batteries, Crazy Cameras and $$$",
+    "comment": "172",
+    "author": "by Andrei Frumusanu",
+    "date": "2/11/2020"
+  },
+  {
+    "title": "Samsung's Unpacked 2020 Event: Galaxy S20 And More - Live Blog (11am PT)",
+    "comment": "17",
+    "author": "by Andrei Frumusanu",
+    "date": "2/11/2020"
+  },
+  {
+    "title": "Samsung's New The Wall Display: Is 583 Inches Large Enough?",
+    "comment": "35",
+    "author": "by Ant Shilov",
+    "date": "2/11/2020"
+  },
+  {
+    "title": "JEDEC Updates HBM2 Memory Standard To 3.2 Gbps; Samsung's Flashbolt Memory Nears Production",
+    "comment": "24",
+    "author": "by Ryan Smith",
+    "date": "2/3/2020"
+  },
+  {
+    "title": "5G Comes to Tablets: The Samsung Galaxy Tab S6 5G",
+    "comment": "9",
+    "author": "by Ant Shilov",
+    "date": "2/3/2020"
+  },
+  {
+    "title": "Samsung Galaxy Book S Laptop with Snapdragon 8cx: Pre-Order at $999 from Today",
+    "comment": "70",
+    "author": "by Ant Shilov",
+    "date": "1/30/2020"
+  },
+  {
+    "title": "USB 3.2 Gen 2 Portable SSDs Roundup - Featuring the Samsung T7 Touch and the SanDisk Extreme Pro",
+    "comment": "38",
+    "author": "by Ganesh T S",
+    "date": "1/23/2020"
+  },
+  {
+    "title": "Samsung\u2019s Odyssey Continues: Ultra-Curved QLED 49-Inch 240 Hz HDR1000 Monitor w/ Adaptive Sync",
+    "comment": "31",
+    "author": "by Ant Shilov",
+    "date": "1/16/2020"
+  },
+  {
+    "title": "CES 2020: Samsung\u2019s 8K QLED TVs Use AI Quantum 8K SoC, Add Support For AV1 Video",
+    "comment": "22",
+    "author": "by Ant Shilov",
+    "date": "1/9/2020"
+  },
+  {
+    "title": "DRAMeXchange: Blackout at Samsung\u2019s Fab Will Not Affect Commodity DRAM Prices in Q1",
+    "comment": "5",
+    "author": "by Ant Shilov",
+    "date": "1/9/2020"
+  },
+  {
+    "title": "Samsung Shows Off Premium Galaxy Chromebook at CES 2020: 13.3-inch Convertible With 4K AMOLED & More",
+    "comment": "15",
+    "author": "by Ant Shilov",
+    "date": "1/8/2020"
+  },
+  {
+    "title": "Samsung Launches Portable SSD T7 Touch with Fingerprint Security",
+    "comment": "8",
+    "author": "by Ganesh T S",
+    "date": "1/8/2020"
+  },
+  {
+    "title": "CES 2020: Samsung 980 PRO PCIe 4.0 SSD Makes An Appearance",
+    "comment": "55",
+    "author": "by Billy Tallis",
+    "date": "1/7/2020"
+  },
+  {
+    "title": "Samsung\u2019s Fab in Hwaseong Suffers Power Outage",
+    "comment": "48",
+    "author": "by Ant Shilov",
+    "date": "1/2/2020"
+  },
+  {
+    "title": "AnandTech Year In Review 2019: Solid State Drives",
+    "comment": "42",
+    "author": "by Billy Tallis",
+    "date": "12/31/2019"
+  },
+  {
+    "title": "AnandTech Year In Review 2019: Flagship Mobile",
+    "comment": "54",
+    "author": "by Andrei Frumusanu",
+    "date": "12/26/2019"
+  },
+  {
+    "title": "Japan Partly Removes Restrictions on Photoresists Exports to South Korea",
+    "comment": "16",
+    "author": "by Ant Shilov",
+    "date": "12/23/2019"
+  },
+  {
+    "title": "Samsung Kicks Off Mass Production of AI Chip for Baidu: 260 TOPS at 150 W",
+    "comment": "9",
+    "author": "by Ant Shilov",
+    "date": "12/18/2019"
+  },
+  {
+    "title": "Samsung to Expand 3D NAND Fab in China",
+    "comment": "5",
+    "author": "by Ant Shilov",
+    "date": "12/17/2019"
+  },
+  {
+    "title": "Samsung Unveils Galaxy A51 & Galaxy A71 Mid-Range Smartphones: 6.5/6.7-Inches With 4-Module Cameras",
+    "comment": "22",
+    "author": "by Ant Shilov",
+    "date": "12/16/2019"
+  },
+  {
+    "title": "Update: Sales of Samsung Galaxy Fold Are Nowhere Near 1 Million Units",
+    "comment": "20",
+    "author": "by Ant Shilov",
+    "date": "12/12/2019"
+  },
+  {
+    "title": "Samsung to Use SiFive RISC-V Cores for SoCs, Automotive, 5G Applications",
+    "comment": "18",
+    "author": "by Ant Shilov",
+    "date": "12/12/2019"
+  },
+  {
+    "title": "Fireside Interview on 5G with Cristano Amon and Alex Katouzian, Qualcomm",
+    "comment": "28",
+    "author": "by Dr. Ian Cutress",
+    "date": "12/2/2019"
+  },
+  {
+    "title": "Samsung Develops Intel Lakefield-Based Galaxy Book S: Always-Connected x86 PC",
+    "comment": "29",
+    "author": "by Ant Shilov",
+    "date": "10/31/2019"
+  },
+  {
+    "title": "Samsung Launches Galaxy Book Flex: Convertibles with QLED Displays & Ice Lake",
+    "comment": "12",
+    "author": "by Ant Shilov",
+    "date": "10/30/2019"
+  },
+  {
+    "title": "Samsung Reveals Galaxy Book Ion: Ultralight Laptops w/ QLED Monitor & Comet Lake",
+    "comment": "17",
+    "author": "by Ant Shilov",
+    "date": "10/30/2019"
+  },
+  {
+    "title": "Samsung Launches Single-Chip uMCP Packages with LPDDR4X DRAM & UFS 3.0 Storage",
+    "comment": "30",
+    "author": "by Ant Shilov",
+    "date": "10/24/2019"
+  },
+  {
+    "title": "Samsung Announces Exynos 990: 7nm EUV, M5, G77, LPDDR5 Flagship SoC alongside Exynos 5123 5G Modem",
+    "comment": "52",
+    "author": "by Andrei Frumusanu",
+    "date": "10/23/2019"
+  },
+  {
+    "title": "Samsung to Invest $11 Billion in QD-OLED Panel Production",
+    "comment": "42",
+    "author": "by Ant Shilov",
+    "date": "10/15/2019"
+  },
+  {
+    "title": "Samsung & TSMC Develop 8nm & 7nm Automotive-Grade Nodes",
+    "comment": "29",
+    "author": "by Ant Shilov",
+    "date": "10/14/2019"
+  },
+  {
+    "title": "New Tools & IP Accelerate Development of 5nm Arm \u2018Hercules\u2019 SoCs",
+    "comment": "9",
+    "author": "by Ant Shilov",
+    "date": "10/10/2019"
+  },
+  {
+    "title": "G.Skill Launches 32 GB DDR4 Modules, 256 GB Kits: Up to DDR4-4000",
+    "comment": "27",
+    "author": "by Ant Shilov",
+    "date": "10/9/2019"
+  },
+  {
+    "title": "Samsung Develops 12-Layer 3D TSV DRAM: Up to 24 GB HBM2",
+    "comment": "11",
+    "author": "by Ant Shilov",
+    "date": "10/7/2019"
+  },
+  {
+    "title": "IDC PC Monitor Trends: IPS and 21.5-Inch Most Popular, Curved Displays Get Traction",
+    "comment": "29",
+    "author": "by Ant Shilov",
+    "date": "10/3/2019"
+  },
+  {
+    "title": "Samsung\u2019s Micro LED Wall TVs Now Available: Up to 8K, Up to 292-Inches",
+    "comment": "33",
+    "author": "by Ant Shilov",
+    "date": "10/3/2019"
+  },
+  {
+    "title": "Samsung Stops Production of Phones in China",
+    "comment": "15",
+    "author": "by Ant Shilov",
+    "date": "10/2/2019"
+  },
+  {
+    "title": "Samsung\u2019s Galaxy Fold Hits the US on September 27th",
+    "comment": "14",
+    "author": "by Ant Shilov",
+    "date": "9/24/2019"
+  },
+  {
+    "title": "Samsung\u2019s PCIe Gen 4 Enterprise SSDs Get Reliability & Performance Boost",
+    "comment": "5",
+    "author": "by Billy Tallis & Ant Shilov",
+    "date": "9/20/2019"
+  },
+  {
+    "title": "Samsung\u2019s 8K QLED TV 55-Inch: A More Affordable 8K Ultra-HD TV",
+    "comment": "51",
+    "author": "by Ant Shilov",
+    "date": "9/6/2019"
+  },
+  {
+    "title": "Samsung Announces Standards-Compliant Key-Value SSD Prototype",
+    "comment": "48",
+    "author": "by Billy Tallis",
+    "date": "9/5/2019"
+  },
+  {
+    "title": "Samsung Unveils Galaxy Fold Availability, Sort Of",
+    "comment": "21",
+    "author": "by Ant Shilov",
+    "date": "9/5/2019"
+  },
+  {
+    "title": "Samsung\u2019s A-Series 5G Smartphone: Galaxy A90 5G",
+    "comment": "10",
+    "author": "by Ant Shilov",
+    "date": "9/4/2019"
+  },
+  {
+    "title": "Samsung Announces Exynos 980 - Mid-Range With Integrated 5G Modem",
+    "comment": "20",
+    "author": "by Andrei Frumusanu",
+    "date": "9/4/2019"
+  },
+  {
+    "title": "Samsung\u2019s CRG5 Curved 27-Inch 240 Hz G-Sync Monitor Now Available for $370",
+    "comment": "19",
+    "author": "by Ant Shilov",
+    "date": "8/29/2019"
+  },
+  {
+    "title": "Samsung Mulls Suspending South Korea LCD Plant Due to Oversupply",
+    "comment": "32",
+    "author": "by Ant Shilov",
+    "date": "8/16/2019"
+  },
+  {
+    "title": "SMART Modular Shows Off 256 GB Gen-Z Memory Module",
+    "comment": "15",
+    "author": "by Ant Shilov",
+    "date": "8/15/2019"
+  },
+  {
+    "title": "Samsung Unveils ISOCELL Bright HMX 108 MP Sensor for Smartphones",
+    "comment": "39",
+    "author": "by Ant Shilov",
+    "date": "8/13/2019"
+  },
+  {
+    "title": "Japan\u2019s Ministry Approves Shipments of Industrial Chemicals to South Korea",
+    "comment": "16",
+    "author": "by Ant Shilov",
+    "date": "8/9/2019"
+  },
+  {
+    "title": "Samsung Preps PM1733 PCIe 4.0 Enterprise SSDs For AMD's \"Rome\" EPYC Processors",
+    "comment": "45",
+    "author": "by Ant Shilov",
+    "date": "8/9/2019"
+  },
+  {
+    "title": "Samsung Announces Galaxy Note10 & Note10+: A Redesign With Feature Disparity",
+    "comment": "106",
+    "author": "by Andrei Frumusanu",
+    "date": "8/7/2019"
+  },
+  {
+    "title": "Samsung Announces the Exynos 9825 SoC: First 7nm EUV Silicon Chip",
+    "comment": "49",
+    "author": "by Andrei Frumusanu",
+    "date": "8/6/2019"
+  },
+  {
+    "title": "Samsung Unveils 6th Generation V-NAND Memory with Up to 136 Layers",
+    "comment": "41",
+    "author": "by Ant Shilov",
+    "date": "8/6/2019"
+  },
+  {
+    "title": "Samsung Introduces Galaxy Tab S6: 10.5-Inch AMOLED, Snapdragon 855, New S-Pen",
+    "comment": "39",
+    "author": "by Ant Shilov",
+    "date": "8/1/2019"
+  },
+  {
+    "title": "Samsung\u2019s Aggressive EUV Plans: 6nm Production in H2, 5nm & 4nm On Track",
+    "comment": "42",
+    "author": "by Ant Shilov",
+    "date": "7/31/2019"
+  },
+  {
+    "title": "32 GB Unbuffered DIMMs Listed from Ten Brands: DDR4-2400 to DDR4-4000",
+    "comment": "12",
+    "author": "by Ant Shilov",
+    "date": "7/31/2019"
+  },
+  {
+    "title": "LG Display & SK Hynix Looking to Diversify Industrial Suppliers as Row with Japan Intensifies",
+    "comment": "8",
+    "author": "by Ant Shilov",
+    "date": "7/26/2019"
+  },
+  {
+    "title": "Samsung Resolves Galaxy Fold Issues: New Launch In September",
+    "comment": "20",
+    "author": "by Andrei Frumusanu",
+    "date": "7/25/2019"
+  },
+  {
+    "title": "Samsung Starts Production of LPDDR5-5500 Devices: 12 GB of DRAM in a Smartphone",
+    "comment": "15",
+    "author": "by Ant Shilov",
+    "date": "7/18/2019"
+  },
+  {
+    "title": "Samsung\u2019s 5nm EUV Technology Gets Closer: Tools by Cadence & Synopsys Certified",
+    "comment": "13",
+    "author": "by Ant Shilov",
+    "date": "7/8/2019"
+  },
+  {
+    "title": "Supply of DRAM, NAND & Displays Could Be Disrupted by Japan & South Korea Dispute",
+    "comment": "39",
+    "author": "by Ant Shilov",
+    "date": "7/5/2019"
+  },
+  {
+    "title": "Samsung 32GB DDR4-2666 Non-ECC Memory at Retail: $168",
+    "comment": "13",
+    "author": "by Gavin Bshor",
+    "date": "6/11/2019"
+  },
+  {
+    "title": "AMD and Samsung's GPU Licensing Deal: A New Era of Collaboration?",
+    "comment": "96",
+    "author": "by Ryan Smith & Andrei Frumusanu",
+    "date": "6/7/2019"
+  },
+  {
+    "title": "Samsung Galaxy S10 May Firmware Update: Improved Night Mode",
+    "comment": "31",
+    "author": "by Andrei Frumusanu",
+    "date": "6/7/2019"
+  },
+  {
+    "title": "GeIL Demonstrates DDR4-5000 Memory Modules: Not for Sale",
+    "comment": "4",
+    "author": "by Ant Shilov",
+    "date": "6/5/2019"
+  },
+  {
+    "title": "AMD To License Out Radeon GPU IP to Samsung For Use In SLSI Mobile GPUs",
+    "comment": "47",
+    "author": "by Andrei Frumusanu",
+    "date": "6/3/2019"
+  },
+  {
+    "title": "Samsung & Verizon Launch the Samsung Galaxy S10 5G in the US",
+    "comment": "3",
+    "author": "by Ant Shilov",
+    "date": "5/16/2019"
+  },
+  {
+    "title": "Samsung Reveals Galaxy S10 5G Launch Dates in the UK",
+    "comment": "5",
+    "author": "by Ant Shilov",
+    "date": "5/15/2019"
+  },
+  {
+    "title": "Samsung Samples 32 Gb DDR4 Memory Chips",
+    "comment": "8",
+    "author": "by Ant Shilov",
+    "date": "5/15/2019"
+  },
+  {
+    "title": "Samsung Announces 3nm GAA MBCFET PDK, Version 0.1",
+    "comment": "32",
+    "author": "by Dr. Ian Cutress",
+    "date": "5/14/2019"
+  },
+  {
+    "title": "Samsung to End B-Die DDR4: The Overclockers' Favorite",
+    "comment": "16",
+    "author": "by Ant Shilov",
+    "date": "5/14/2019"
+  },
+  {
+    "title": "Samsung EVO Plus microSDXC UHS-I 512GB Memory Card Capsule Review",
+    "comment": "11",
+    "author": "by Ganesh T S",
+    "date": "5/10/2019"
+  },
+  {
+    "title": "Samsung Unveils 64 MP & 48 MP ISOCELL Bright Image Sensors for Smartphones",
+    "comment": "17",
+    "author": "by Ant Shilov",
+    "date": "5/9/2019"
+  },
+  {
+    "title": "Samsung Denies Existence of 2 TB 970 Pro SSD",
+    "comment": "20",
+    "author": "by Ant Shilov",
+    "date": "4/29/2019"
+  },
+  {
+    "title": "Samsung 970 Pro 2 TB SSD Model Listed",
+    "comment": "17",
+    "author": "by Ant Shilov",
+    "date": "4/26/2019"
+  },
+  {
+    "title": "Samsung to Invest $115 Billion in Foundry & Chip Businesses by 2030",
+    "comment": "27",
+    "author": "by Ant Shilov",
+    "date": "4/24/2019"
+  },
+  {
+    "title": "Samsung Delays Launch of Galaxy Fold Smartphone",
+    "comment": "27",
+    "author": "by Ant Shilov",
+    "date": "4/23/2019"
+  },
+  {
+    "title": "The Samsung Galaxy S10+ Snapdragon & Exynos Review: Almost Perfect, Yet So Flawed",
+    "comment": "229",
+    "author": "by Andrei Frumusanu",
+    "date": "3/29/2019"
+  },
+  {
+    "title": "Samsung: Galaxy Fold Is Tested to Fold/Unfold 200,000 Times",
+    "comment": "18",
+    "author": "by Ant Shilov",
+    "date": "3/28/2019"
+  },
+  {
+    "title": "Samsung Unveils The Galaxy A70: A Mid-Range Smartphone With a Sizable 6.7-Inch Display",
+    "comment": "21",
+    "author": "by Ant Shilov",
+    "date": "3/27/2019"
+  },
+  {
+    "title": "Samsung Galaxy Fold Set to Be Available in UK on April 26: \u00a31799",
+    "comment": "21",
+    "author": "by Ant Shilov",
+    "date": "3/25/2019"
+  },
+  {
+    "title": "Samsung Galaxy S10 5G: Launch Date & Approximate Price Revealed",
+    "comment": "26",
+    "author": "by Ant Shilov",
+    "date": "3/22/2019"
+  },
+  {
+    "title": "Samsung Develops Smaller DDR4 Dies Using 3rd Gen 10nm-Class Process Tech",
+    "comment": "28",
+    "author": "by Ant Shilov",
+    "date": "3/21/2019"
+  },
+  {
+    "title": "Samsung\u2019s Space-Saving Monitors on Pre-Order: Up to 31.5-Inch",
+    "comment": "32",
+    "author": "by Ant Shilov",
+    "date": "3/20/2019"
+  },
+  {
+    "title": "Samsung HBM2E \u2018Flashbolt\u2019 Memory for GPUs: 16 GB Per Stack, 3.2 Gbps",
+    "comment": "25",
+    "author": "by Ant Shilov",
+    "date": "3/20/2019"
+  },
+  {
+    "title": "Samsung Begins Mass Production of 12 GB LPDDR4X for Smartphones",
+    "comment": "19",
+    "author": "by Ant Shilov",
+    "date": "3/14/2019"
+  },
+  {
+    "title": "ChipRebel Releases Exynos 9820 Die Shot: M4 CPUs in New Cluster",
+    "comment": "66",
+    "author": "by Andrei Frumusanu",
+    "date": "3/9/2019"
+  },
+  {
+    "title": "Samsung Ships First Commercial Embedded MRAM (eMRAM) Product",
+    "comment": "25",
+    "author": "by Ant Shilov",
+    "date": "3/6/2019"
+  },
+  {
+    "title": "Sizing Up The 5G Modem Market: Qualcomm, Intel, Huawei, Samsung, UniSOC, and Mediatek",
+    "comment": "56",
+    "author": "by Ian Cutress",
+    "date": "3/5/2019"
+  },
+  {
+    "title": "Samsung's New 512 GB UFS 3.0 Chip for Galaxy Fold, Now in Mass Production",
+    "comment": "6",
+    "author": "by Ant Shilov",
+    "date": "2/27/2019"
+  },
+  {
+    "title": "Samsung Galaxy S10: First Exynos 9820 vs Snapdragon 855 Scores",
+    "comment": "108",
+    "author": "by Andrei Frumusanu",
+    "date": "2/26/2019"
+  },
+  {
+    "title": "Huawei Mate X vs. Samsung Galaxy Fold: Ask the Press",
+    "comment": "82",
+    "author": "by Ian Cutress",
+    "date": "2/25/2019"
+  },
+  {
+    "title": "Hands on with the Samsung S10+, S10, and S10e: Which Witch is Which?",
+    "comment": "72",
+    "author": "by Ian Cutress",
+    "date": "2/21/2019"
+  },
+  {
+    "title": "Samsung Announces The Galaxy S10: 10th Anniversary Trio",
+    "comment": "127",
+    "author": "by Andrei Frumusanu",
+    "date": "2/20/2019"
+  },
+  {
+    "title": "Samsung Announces The Galaxy Fold: The First Folding Display Smartphone",
+    "comment": "68",
+    "author": "by Andrei Frumusanu",
+    "date": "2/20/2019"
+  },
+  {
+    "title": "The Samsung Galaxy Unpacked 2019 Live Blog (Starts at 2pm ET/19:00 UTC)",
+    "comment": "9",
+    "author": "by Ian Cutress",
+    "date": "2/20/2019"
+  },
+  {
+    "title": "Samsung to Cease Selling Blu-ray Players in the US",
+    "comment": "75",
+    "author": "by Ant Shilov",
+    "date": "2/19/2019"
+  },
+  {
+    "title": "The Samsung 983 ZET (Z-NAND) SSD Review: How Fast Can Flash Memory Get?",
+    "comment": "46",
+    "author": "by Billy Tallis",
+    "date": "2/19/2019"
+  },
+  {
+    "title": "Samsung Unveils Galaxy Tab S5e: 10.5-Inch sAMOLED with USB-C",
+    "comment": "40",
+    "author": "by Ant Shilov",
+    "date": "2/15/2019"
+  },
+  {
+    "title": "Samsung's 2019 QLED UHD TVs: 8K TVs Revamped, 4K TVs Get New Panel & Backlighting",
+    "comment": "13",
+    "author": "by Ant Shilov",
+    "date": "2/13/2019"
+  },
+  {
+    "title": "Advantech Unveils 32 GB SQRAM DDR4 DIMMs for HPC",
+    "comment": "7",
+    "author": "by Ant Shilov",
+    "date": "2/13/2019"
+  },
+  {
+    "title": "Samsung Teases Foldable Galaxy Smartphone: Galaxy F?",
+    "comment": "25",
+    "author": "by Ant Shilov",
+    "date": "2/1/2019"
+  },
+  {
+    "title": "Samsung Starts Production of 1 TB eUFS 2.1 Storage for Smartphones",
+    "comment": "23",
+    "author": "by Ant Shilov",
+    "date": "1/30/2019"
+  },
+  {
+    "title": "Samsung Unveils 15.6-Inch Ultra-HD OLED Display for Laptops",
+    "comment": "39",
+    "author": "by Ant Shilov",
+    "date": "1/24/2019"
+  },
+  {
+    "title": "GIGABYTE Adds Support for 128 GB of Memory to Z390 & C246 Motherboards",
+    "comment": "28",
+    "author": "by Ant Shilov",
+    "date": "1/24/2019"
+  },
+  {
+    "title": "The Samsung 970 EVO Plus (250GB, 1TB) NVMe SSD Review: 92-Layer 3D NAND",
+    "comment": "35",
+    "author": "by Billy Tallis",
+    "date": "1/22/2019"
+  },
+  {
+    "title": "ASUS Z390 Platforms Now Support 128 GB of Memory",
+    "comment": "8",
+    "author": "by Ant Shilov",
+    "date": "1/22/2019"
+  },
+  {
+    "title": "Samsung at CES 2019: 219-Inch and 75-Inch Micro LED Ultra-HD TVs Demonstrated",
+    "comment": "25",
+    "author": "by Ant Shilov",
+    "date": "1/11/2019"
+  },
+  {
+    "title": "CES 2019: Samsung Announces The Notebook Odyssey",
+    "comment": "7",
+    "author": "by Brett Howse",
+    "date": "1/8/2019"
+  },
+  {
+    "title": "CES 2019: Samsung Launches The Notebook 9 Pro And Notebook Flash",
+    "comment": "13",
+    "author": "by Brett Howse",
+    "date": "1/8/2019"
+  },
+  {
+    "title": "CES 2019: Samsung Press Event (starts 2pm PT, 10pm UTC)",
+    "comment": "1",
+    "author": "by Andrei Frumusanu",
+    "date": "1/7/2019"
+  },
+  {
+    "title": "Samsung Announces iTunes Movie & TV Show Support In Its 2018, 2019 Smart TVs",
+    "comment": "0",
+    "author": "by Andrei Frumusanu",
+    "date": "1/7/2019"
+  },
+  {
+    "title": "Samsung Announces CRG9: A 49-Inch Curved 5K 120 Hz FreeSync 2 Monitor",
+    "comment": "33",
+    "author": "by Ant Shilov",
+    "date": "1/3/2019"
+  },
+  {
+    "title": "The Enterpise TLC Storage Era Begins: Rounding Up 13 SSDs With Samsung, Intel, and Memblaze",
+    "comment": "36",
+    "author": "by Billy Tallis",
+    "date": "1/3/2019"
+  },
+  {
+    "title": "Samsung\u2019s Intros Exynos Auto V9 SoC: Octa-A76 Chip to Power Audi\u2019s In-Vehicle Infotainment System",
+    "comment": "17",
+    "author": "by Ant Shilov",
+    "date": "1/3/2019"
+  },
+  {
+    "title": "AnandTech Year In Review 2018: Flagship Mobile",
+    "comment": "65",
+    "author": "by Andrei Frumusanu",
+    "date": "12/28/2018"
+  },
+  {
+    "title": "JEDEC Updates HBM Spec to Boost Capacity & Performance: 24 GB, 307 GB/s Per Stack",
+    "comment": "15",
+    "author": "by Ant Shilov",
+    "date": "12/19/2018"
+  },
+  {
+    "title": "Missed Qualcomm\u2019s Snapdragon Tech Summit 2018? It\u2019s All In Here",
+    "comment": "18",
+    "author": "by Ian Cutress",
+    "date": "12/19/2018"
+  },
+  {
+    "title": "Samsung Unveils 2019 Notebook 9 Pen 13 & 15",
+    "comment": "38",
+    "author": "by Ant Shilov",
+    "date": "12/14/2018"
+  },
+  {
+    "title": "Samsung\u2019s 5G Smartphone Prototype: Don\u2019t Mention The Notch",
+    "comment": "27",
+    "author": "by Ian Cutress",
+    "date": "12/12/2018"
+  },
+  {
+    "title": "Sales of High Refresh Gaming Displays Skyrocketing, Curved Gaming LCDs Prevail",
+    "comment": "75",
+    "author": "by Ant Shilov",
+    "date": "12/7/2018"
+  },
+  {
+    "title": "The Samsung 860 QVO (1TB, 4TB) SSD Review: First Consumer SATA QLC",
+    "comment": "110",
+    "author": "by Billy Tallis",
+    "date": "11/27/2018"
+  },
+  {
+    "title": "Cadence Tapes Out GDDR6 IP on Samsung 7LPP Using EUV",
+    "comment": "11",
+    "author": "by Ant Shilov",
+    "date": "11/26/2018"
+  },
+  {
+    "title": "Samsung Galaxy Note9 Performance & Battery Showdown: Snapdragon vs Exynos",
+    "comment": "69",
+    "author": "by Andrei Frumusanu",
+    "date": "11/26/2018"
+  },
+  {
+    "title": "PCI-SIG Warns Of Incompatibilities Between M.2 And Samsung's NGSFF/NF1",
+    "comment": "17",
+    "author": "by Billy Tallis",
+    "date": "11/16/2018"
+  },
+  {
+    "title": "Samsung Announces 8nm Exynos 9820 With Tri-Group CPU Design",
+    "comment": "36",
+    "author": "by Andrei Frumusanu",
+    "date": "11/14/2018"
+  },
+  {
+    "title": "U.S. Government Indicts Chinese DRAM Maker JHICC on Industrial Espionage; Bans Exports To Firm",
+    "comment": "58",
+    "author": "by Ant Shilov",
+    "date": "11/1/2018"
+  },
+  {
+    "title": "Samsung Shows Off 256 GB DDR4 RDIMM: Coming to Servers Soon",
+    "comment": "18",
+    "author": "by Ant Shilov",
+    "date": "10/19/2018"
+  },
+  {
+    "title": "Samsung Unveils Galaxy Book2: 12-Inch, Snapdragon 850 with X20 LTE, 20 Hrs",
+    "comment": "48",
+    "author": "by Ant Shilov",
+    "date": "10/18/2018"
+  },
+  {
+    "title": "Samsung Shares SSD Roadmap for QLC NAND And 96-layer 3D NAND",
+    "comment": "16",
+    "author": "by Billy Tallis",
+    "date": "10/17/2018"
+  },
+  {
+    "title": "Samsung Starts Mass Production of Chips Using Its 7nm EUV Process Tech",
+    "comment": "42",
+    "author": "by Billy Tallis & Ant Shilov",
+    "date": "10/17/2018"
+  },
+  {
+    "title": "Samsung Begins Sales of 65-Inch Q900R 8K UHDTV in the UK",
+    "comment": "13",
+    "author": "by Ant Shilov",
+    "date": "10/17/2018"
+  },
+  {
+    "title": "Intel to Support 128GB of DDR4 on Core 9th Gen Desktop Processors",
+    "comment": "24",
+    "author": "by Ian Cutress",
+    "date": "10/15/2018"
+  },
+  {
+    "title": "Samsung Announces The 2018 Galaxy A9 With Four Rear Cameras",
+    "comment": "12",
+    "author": "by Andrei Frumusanu",
+    "date": "10/11/2018"
+  },
+  {
+    "title": "Samsung Starts to Take Pre-Orders on 85-Inch Q900 8K UHDTV",
+    "comment": "19",
+    "author": "by Ant Shilov",
+    "date": "10/8/2018"
+  },
+  {
+    "title": "Samsung\u2019s One Invisible Connection: 75 Gbps and 230W in a Ultra Thin Cable",
+    "comment": "30",
+    "author": "by Ian Cutress",
+    "date": "9/13/2018"
+  },
+  {
+    "title": "Philips Preps 499P9H Curved 49-Inch 5K Display with USB-C Docking & Webcam",
+    "comment": "13",
+    "author": "by Ant Shilov",
+    "date": "9/7/2018"
+  },
+  {
+    "title": "Samsung Foundry Updates: 8LPU Added, EUVL on Track for HVM in 2019",
+    "comment": "29",
+    "author": "by Ant Shilov",
+    "date": "9/6/2018"
+  },
+  {
+    "title": "Samsung Adds 32 GB UDIMMs to Memory Lineup",
+    "comment": "19",
+    "author": "by Ant Shilov",
+    "date": "9/5/2018"
+  },
+  {
+    "title": "Samsung Launches Broad Range Of Datacenter SSDs",
+    "comment": "14",
+    "author": "by Billy Tallis",
+    "date": "9/4/2018"
+  },
+  {
+    "title": "Samsung Unveils CJ79 & CJ89 Curved LCDs: Quantum Dots, TB3 & USB-C",
+    "comment": "13",
+    "author": "by Ant Shilov",
+    "date": "8/29/2018"
+  },
+  {
+    "title": "The Samsung Portable SSD X5 Review - Thunderbolt 3 and NVMe in a Premium Enclosure",
+    "comment": "23",
+    "author": "by Ganesh T S",
+    "date": "8/28/2018"
+  },
+  {
+    "title": "Hot Chips 2018: Samsung\u2019s Exynos-M3 CPU Architecture Deep Dive",
+    "comment": "45",
+    "author": "by Andrei Frumusanu",
+    "date": "8/20/2018"
+  },
+  {
+    "title": "Samsung Releases Exynos Modem 5100 - First Multi-Mode 5G Modem",
+    "comment": "18",
+    "author": "by Andrei Frumusanu",
+    "date": "8/15/2018"
+  },
+  {
+    "title": "Samsung Announces The Galaxy Note 9: 4000mAh And New S-Pen",
+    "comment": "54",
+    "author": "by Andrei Frumusanu & Nate Oh",
+    "date": "8/9/2018"
+  },
+  {
+    "title": "Samsung Unpacked 2018 Pt.2 - Live Blog (11am ET)",
+    "comment": "16",
+    "author": "by Andrei Frumusanu & Nate Oh",
+    "date": "8/9/2018"
+  },
+  {
+    "title": "Samsung Starts Mass Production of QLC V-NAND-Based SSDs",
+    "comment": "6",
+    "author": "by Ant Shilov",
+    "date": "8/6/2018"
+  },
+  {
+    "title": "Galaxy Note 9 Leaks In Officially Uploaded Video",
+    "comment": "19",
+    "author": "by Andrei Frumusanu",
+    "date": "8/3/2018"
+  },
+  {
+    "title": "Samsung Introduces Galaxy Tab S4: S835, 7300mAh Battery, Samsung DeX",
+    "comment": "23",
+    "author": "by Ant Shilov",
+    "date": "8/2/2018"
+  },
+  {
+    "title": "Samsung Starts Production of 16 Gb LPDDR4X Chips Using 2nd Gen 10nm Tech",
+    "comment": "12",
+    "author": "by Ant Shilov",
+    "date": "7/27/2018"
+  },
+  {
+    "title": "Samsung Discloses First Details About QLC-Based Client & Server SSDs",
+    "comment": "16",
+    "author": "by Ant Shilov",
+    "date": "7/25/2018"
+  },
+  {
+    "title": "Samsung Announces First LPDDR5 DRAM Chip, Targets 6.4Gbps Data Rates & 30% Reduced Power",
+    "comment": "13",
+    "author": "by Ryan Smith",
+    "date": "7/16/2018"
+  },
+  {
+    "title": "Samsung Begins Mass Production Of 96L 3D NAND",
+    "comment": "26",
+    "author": "by Billy Tallis",
+    "date": "7/9/2018"
+  },
+  {
+    "title": "AIC Shows Dual NF1 to U.2 SSD Adapter",
+    "comment": "3",
+    "author": "by Ian Cutress",
+    "date": "6/25/2018"
+  },
+  {
+    "title": "MSI Optix MAG491C Hands-On: A 49-Inch 32:9 LCD with FreeSync",
+    "comment": "17",
+    "author": "by Ant Shilov",
+    "date": "6/22/2018"
+  },
+  {
+    "title": "Samsung Kicks Off Mass Production of 8 TB NF1 SSDs with PCIe 3.0 x4 Interface [updated]",
+    "comment": "21",
+    "author": "by Ant Shilov",
+    "date": "6/21/2018"
+  },
+  {
+    "title": "Samsung to Pay $400 Million for Infringing FinFET Patent",
+    "comment": "33",
+    "author": "by Ant Shilov",
+    "date": "6/19/2018"
+  },
+  {
+    "title": "Samsung Kicks Off Mass Production of 64GB RDIMMs Using 16Gbit Chips",
+    "comment": "7",
+    "author": "by Ryan Smith",
+    "date": "6/11/2018"
+  },
+  {
+    "title": "Colorful Demonstrates a 49-Inch All-in-One PC",
+    "comment": "18",
+    "author": "by Ant Shilov",
+    "date": "6/8/2018"
+  },
+  {
+    "title": "Samsung Unveils 32 GB DDR4-2666 SO-DIMMs",
+    "comment": "19",
+    "author": "by Ant Shilov",
+    "date": "5/30/2018"
+  },
+  {
+    "title": "Samsung Foundry Roadmap: EUV-Based 7LPP for 2018, 3 nm Incoming",
+    "comment": "25",
+    "author": "by Ant Shilov",
+    "date": "5/24/2018"
+  },
+  {
+    "title": "Samsung Posts Lowered MSRPs For 970 PRO And 970 EVO SSDs",
+    "comment": "32",
+    "author": "by Billy Tallis",
+    "date": "5/6/2018"
+  },
+  {
+    "title": "Cadence and Micron Demo DDR5-4400 IMC and Memory, Due in 2019",
+    "comment": "31",
+    "author": "by Ant Shilov",
+    "date": "5/3/2018"
+  },
+  {
+    "title": "The Mainstream Phoenix Rises: Samsung's 970 EVO (500GB & 1TB) SSDs Reviewed",
+    "comment": "68",
+    "author": "by Billy Tallis",
+    "date": "4/24/2018"
+  },
+  {
+    "title": "Samsung Announces 970 PRO And 970 EVO NVMe SSDs",
+    "comment": "17",
+    "author": "by Billy Tallis",
+    "date": "4/24/2018"
+  },
+  {
+    "title": "BenQ Unveils EX3203R 32-inch Curved LCD with FreeSync 2, DCI-P3, & USB-C",
+    "comment": "17",
+    "author": "by Ant Shilov",
+    "date": "4/20/2018"
+  },
+  {
+    "title": "Improving The Exynos 9810 Galaxy S9: Part 2 - Catching Up With The Snapdragon",
+    "comment": "76",
+    "author": "by Andrei Frumusanu",
+    "date": "4/20/2018"
+  },
+  {
+    "title": "Samsung Odyssey Z Gaming Notebook: Going For Gamers with 8th Gen and Max-Q",
+    "comment": "31",
+    "author": "by Ant Shilov",
+    "date": "4/4/2018"
+  },
+  {
+    "title": "Improving The Exynos 9810 Galaxy S9: Part 1",
+    "comment": "65",
+    "author": "by Andrei Frumusanu",
+    "date": "4/4/2018"
+  },
+  {
+    "title": "Samsung Reveals M.2 Z-SSD",
+    "comment": "37",
+    "author": "by Billy Tallis",
+    "date": "3/27/2018"
+  },
+  {
+    "title": "Samsung Exynos 7 9610: Mid-Range With Big Cores",
+    "comment": "10",
+    "author": "by Ant Shilov",
+    "date": "3/27/2018"
+  },
+  {
+    "title": "The Samsung Galaxy S9 and S9+ Review: Exynos and Snapdragon at 960fps",
+    "comment": "191",
+    "author": "by Andrei Frumusanu",
+    "date": "3/26/2018"
+  },
+  {
+    "title": "Hands On With Samsung's New NF1 SSDs: 36 x 16 TB in 1U",
+    "comment": "16",
+    "author": "by Billy Tallis & Ant Shilov",
+    "date": "3/23/2018"
+  },
+  {
+    "title": "Samsung Demos 64 GB RDIMM Based on 16 Gb Chips, Promises 256 GB LRDIMMs",
+    "comment": "11",
+    "author": "by Ant Shilov",
+    "date": "3/22/2018"
+  },
+  {
+    "title": "Samsung Launches Energy-Efficient PM883 SSD with SATA 3.3, LPDDR4",
+    "comment": "9",
+    "author": "by Ant Shilov",
+    "date": "3/20/2018"
+  },
+  {
+    "title": "Power Outage at Samsung\u2019s Fab Destroys 3.5% of Global NAND Flash Output For March",
+    "comment": "62",
+    "author": "by Ant Shilov",
+    "date": "3/16/2018"
+  },
+  {
+    "title": "Samsung Preps to Build Another Multi-Billion Dollar Memory Fab Near Pyeongtaek",
+    "comment": "16",
+    "author": "by Ant Shilov",
+    "date": "3/1/2018"
+  },
+  {
+    "title": "Samsung AR Emoji: It Almost Looks Like Me, I Guess",
+    "comment": "7",
+    "author": "by Ian Cutress",
+    "date": "2/26/2018"
+  },
+  {
+    "title": "Galaxy S9 Exynos 9810 Hands-On - Awkward First Results",
+    "comment": "130",
+    "author": "by Andrei Frumusanu",
+    "date": "2/25/2018"
+  },
+  {
+    "title": "Samsung Announces The Galaxy S9 and S9+",
+    "comment": "58",
+    "author": "by Andrei Frumusanu",
+    "date": "2/25/2018"
+  },
+  {
+    "title": "MWC 2018: Samsung Galaxy S9 Press Event Live Blog (5pm UTC, Noon ET)",
+    "comment": "13",
+    "author": "by Ian Cutress & Ant Shilov",
+    "date": "2/25/2018"
+  },
+  {
+    "title": "Samsung 30.72 TB SSDs: Mass Production of PM1643 Begins",
+    "comment": "22",
+    "author": "by Ant Shilov",
+    "date": "2/20/2018"
+  },
+  {
+    "title": "The Latest High-Capacity M.2: The Samsung 860 EVO 2TB SSD, Reviewed",
+    "comment": "33",
+    "author": "by Billy Tallis",
+    "date": "2/14/2018"
+  },
+  {
+    "title": "Samsung Begins Mass Production of 256 GB eUFS Devices for Automotive Applications",
+    "comment": "6",
+    "author": "by Ant Shilov",
+    "date": "2/12/2018"
+  },
+  {
+    "title": "Samsung Launches Z-SSD SZ985: Up To 800GB Of Z-NAND",
+    "comment": "45",
+    "author": "by Billy Tallis",
+    "date": "1/29/2018"
+  },
+  {
+    "title": "Samsung Updates on GDDR6 Portfolio: 8 Gb and 16 Gb at Multiple Speeds",
+    "comment": "19",
+    "author": "by Ant Shilov",
+    "date": "1/25/2018"
+  },
+  {
+    "title": "The Samsung Exynos M3 - 6-wide Decode With 50%+ IPC Increase",
+    "comment": "60",
+    "author": "by Andrei Frumusanu",
+    "date": "1/23/2018"
+  },
+  {
+    "title": "Samsung Announces 860 PRO And 860 EVO SATA SSDs",
+    "comment": "21",
+    "author": "by Billy Tallis",
+    "date": "1/23/2018"
+  },
+  {
+    "title": "The Samsung 860 PRO (512GB And 4TB) SSD Review: Replacing A Legend",
+    "comment": "64",
+    "author": "by Billy Tallis",
+    "date": "1/23/2018"
+  },
+  {
+    "title": "Samsung Starts Mass Production of 16Gb GDDR6 Memory ICs with 18 Gbps I/O Speed",
+    "comment": "27",
+    "author": "by Ant Shilov",
+    "date": "1/18/2018"
+  },
+  {
+    "title": "Samsung Starts Production of HBM2 \u201cAquabolt\u201d Memory: 8 GB, 2.4 Gbps",
+    "comment": "17",
+    "author": "by Ant Shilov",
+    "date": "1/11/2018"
+  },
+  {
+    "title": "Samsung Notebook 7 Spin 13.3-inch Convertible Gets Quad-Core i5 & SSD, Loses Weight",
+    "comment": "1",
+    "author": "by Ant Shilov",
+    "date": "1/8/2018"
+  },
+  {
+    "title": "Samsung Announces New 9810 SoC: DynamiQ & 3rd Gen CPU",
+    "comment": "43",
+    "author": "by Brett Howse & Andrei Frumusanu",
+    "date": "1/3/2018"
+  },
+  {
+    "title": "Samsung Starts Production of 8 Gb DDR4-3600 ICs Using 2nd Gen 10nm-Class Tech",
+    "comment": "24",
+    "author": "by Ant Shilov",
+    "date": "12/20/2017"
+  },
+  {
+    "title": "Samsung Announces New Notebook 9 Pen and Three New Notebook 9 (2018) Laptops",
+    "comment": "19",
+    "author": "by Joe Shields",
+    "date": "12/15/2017"
+  },
+  {
+    "title": "Samsung Starts Production of 512 GB UFS NAND Flash Memory: 64-Layer V-NAND, 860 MB/s Reads",
+    "comment": "11",
+    "author": "by Ant Shilov",
+    "date": "12/5/2017"
+  },
+  {
+    "title": "The Samsung PM981 SSD Review (512GB, 1TB): Next Generation Controller And 3D NAND",
+    "comment": "53",
+    "author": "by Billy Tallis",
+    "date": "11/30/2017"
+  },
+  {
+    "title": "Samsung\u2019s Reveals Li-Ion Battery with Graphene Balls: Higher Capacity, Faster Charging",
+    "comment": "45",
+    "author": "by Ant Shilov",
+    "date": "11/29/2017"
+  },
+  {
+    "title": "Samsung Starts Mass Production of Chips Using 10nm Low Power Plus (10LPP) Process Tech",
+    "comment": "10",
+    "author": "by Ant Shilov",
+    "date": "11/29/2017"
+  },
+  {
+    "title": "The Samsung SSD 850 120GB Review: A Little TLC for SATA",
+    "comment": "31",
+    "author": "by Billy Tallis",
+    "date": "11/27/2017"
+  },
+  {
+    "title": "Samsung Pre-Announces 16 Gbps GDDR6 Chips for Next-Gen Graphics Cards",
+    "comment": "21",
+    "author": "by Ant Shilov",
+    "date": "11/14/2017"
+  },
+  {
+    "title": "Samsung Offers Free DeX Station or Gear VR with Galaxy S8, Galaxy Note8",
+    "comment": "21",
+    "author": "by Ant Shilov",
+    "date": "11/8/2017"
+  },
+  {
+    "title": "Samsung\u2019s 8LPP Process Technology Qualified, Ready for Production",
+    "comment": "35",
+    "author": "by Ant Shilov",
+    "date": "10/19/2017"
+  },
+  {
+    "title": "Samsung Details 11LPP Process Technology: 10 nm BEOL Meets 14 nm Elements",
+    "comment": "23",
+    "author": "by Ant Shilov",
+    "date": "9/29/2017"
+  },
+  {
+    "title": "IFA 2017: Samsung Press Event Live Blog",
+    "comment": "33",
+    "author": "by Ian Cutress",
+    "date": "8/30/2017"
+  },
+  {
+    "title": "Hands On With the Samsung Galaxy Note8: Think Big",
+    "comment": "101",
+    "author": "by Ryan Smith",
+    "date": "8/23/2017"
+  },
+  {
+    "title": "Samsung & SK Hynix Graphics Memory Prices Increase Over 30% In August",
+    "comment": "55",
+    "author": "by Nate Oh",
+    "date": "8/16/2017"
+  },
+  {
+    "title": "Samsung Portable SSD T5 Review: 64-Layer V-NAND Debuts in Retail",
+    "comment": "38",
+    "author": "by Ganesh T S",
+    "date": "8/15/2017"
+  },
+  {
+    "title": "Samsung At Flash Memory Summit: 96-Layer V-NAND, MLC Z-NAND, New Interfaces",
+    "comment": "6",
+    "author": "by Billy Tallis",
+    "date": "8/9/2017"
+  },
+  {
+    "title": "AMD Ryzen Threadripper 1950X and 1920X: We\u2019re Allowed To Show Pictures Now",
+    "comment": "133",
+    "author": "by Ian Cutress",
+    "date": "8/3/2017"
+  },
+  {
+    "title": "Samsung Galaxy S8 Showdown: Exynos 8895 vs. Snapdragon 835, Performance & Battery Life Tested",
+    "comment": "137",
+    "author": "by Matt Humrick",
+    "date": "7/28/2017"
+  },
+  {
+    "title": "Samsung Increases Production Volumes of 8 GB HBM2 Chips Due to Growing Demand",
+    "comment": "34",
+    "author": "by Ant Shilov",
+    "date": "7/19/2017"
+  },
+  {
+    "title": "Samsung\u2019s Multi-Billion Fab in Pyeongtaek Starts Production of 64-Layer V-NAND",
+    "comment": "17",
+    "author": "by Ant Shilov",
+    "date": "7/6/2017"
+  },
+  {
+    "title": "Samsung Begins Production of Exynos i T200 SoC for Miniature IoT Devices",
+    "comment": "16",
+    "author": "by Ant Shilov",
+    "date": "6/23/2017"
+  },
+  {
+    "title": "Samsung Announces First Freesync 2 Monitors: CHG70 & CHG90 - Quantum Dots, Up to 49\u201d, 144 Hz, DCI-P3",
+    "comment": "52",
+    "author": "by Ant Shilov",
+    "date": "6/12/2017"
+  },
+  {
+    "title": "Samsung Announces Notebook 9 Pro 2-in-1, Includes S Pen Stylus",
+    "comment": "16",
+    "author": "by Ryan Smith",
+    "date": "6/2/2017"
+  },
+  {
+    "title": "Samsung and TSMC Roadmaps: 8 and 6 nm Added, Looking at 22ULP and 12FFC",
+    "comment": "89",
+    "author": "by Ant Shilov",
+    "date": "5/5/2017"
+  },
+  {
+    "title": "First Look: Samsung Galaxy S8",
+    "comment": "129",
+    "author": "by Matt Humrick",
+    "date": "4/21/2017"
+  },
+  {
+    "title": "Samsung Investing in 3840x1080 and 3840x1200 Curved Displays at 144 Hz",
+    "comment": "50",
+    "author": "by Ian Cutress",
+    "date": "4/6/2017"
+  },
+  {
+    "title": "Best Tablets: Q1 2017",
+    "comment": "30",
+    "author": "by Matt Humrick",
+    "date": "3/31/2017"
+  },
+  {
+    "title": "Hands On With Samsung's Galaxy S8 and S8+: Taller Screens and Slimmer Bezels",
+    "comment": "208",
+    "author": "by Matt Humrick",
+    "date": "3/29/2017"
+  },
+  {
+    "title": "Samsung Shows Off A Z-SSD: With New Z-NAND",
+    "comment": "91",
+    "author": "by Ian Cutress",
+    "date": "3/17/2017"
+  },
+  {
+    "title": "Samsung Launches the 9.7-inch Galaxy Tab S3: Snapdragon 820 with 6000mAh and HDR",
+    "comment": "79",
+    "author": "by Ian Cutress",
+    "date": "2/26/2017"
+  },
+  {
+    "title": "Samsung Launch the Galaxy Book 10.6-inch and 12-inch: Windows Tablets with Kaby Lake",
+    "comment": "39",
+    "author": "by Ian Cutress",
+    "date": "2/26/2017"
+  },
+  {
+    "title": "MWC 2017: Samsung Press Conference",
+    "comment": "18",
+    "author": "by Ant Shilov & Matt Humrick",
+    "date": "2/26/2017"
+  },
+  {
+    "title": "Samsung Announces Exynos 8895 SoC: 10nm, Mali G71MP20, & LPDDR4x",
+    "comment": "25",
+    "author": "by Ryan Smith",
+    "date": "2/23/2017"
+  },
+  {
+    "title": "Samsung Reveals Root Cause of Galaxy Note7 Battery Fires",
+    "comment": "91",
+    "author": "by Matt Humrick",
+    "date": "1/23/2017"
+  },
+  {
+    "title": "Samsung Announces Updated Notebook 9, Odyssey, and Chromebook Plus/Pro",
+    "comment": "19",
+    "author": "by Joshua Ho",
+    "date": "1/4/2017"
+  },
+  {
+    "title": "Samsung CES 2017 Event Live Blog",
+    "comment": "26",
+    "author": "by Joshua Ho & Billy Tallis",
+    "date": "1/4/2017"
+  },
+  {
+    "title": "Samsung Updates Notebook 9: Kaby Lake, USB-C, Starts at 816 Grams",
+    "comment": "42",
+    "author": "by Ant Shilov",
+    "date": "12/23/2016"
+  },
+  {
+    "title": "Seagate Revives Maxtor Brand for External Storage",
+    "comment": "36",
+    "author": "by Ant Shilov",
+    "date": "12/1/2016"
+  },
+  {
+    "title": "Transcend Introduces Extreme Temperature DDR4 SO-DIMMs",
+    "comment": "8",
+    "author": "by Ant Shilov",
+    "date": "11/28/2016"
+  },
+  {
+    "title": "Game Bundles: Get Civilization VI, Doom, Watch_Dogs 2 for Free with AMD, NVIDIA and Samsung Hardware",
+    "comment": "15",
+    "author": "by Ant Shilov",
+    "date": "11/22/2016"
+  },
+  {
+    "title": "Qualcomm Announces Next-Generation Snapdragon 835 SoC Using Samsung\u2019s 10nm Node",
+    "comment": "65",
+    "author": "by Matt Humrick",
+    "date": "11/17/2016"
+  },
+  {
+    "title": "The Samsung 960 EVO (1TB) Review",
+    "comment": "87",
+    "author": "by Billy Tallis",
+    "date": "11/15/2016"
+  },
+  {
+    "title": "ASUS ROG GT51 Desktop: Overclocked i7-6700K, GTX 1080 SLI, 64 GB DDR4, $4999",
+    "comment": "52",
+    "author": "by Ant Shilov",
+    "date": "11/11/2016"
+  },
+  {
+    "title": "Samsung Introduces 8 GB LPDDR4-4266 Package for Mobile Devices",
+    "comment": "40",
+    "author": "by Ant Shilov",
+    "date": "10/21/2016"
+  },
+  {
+    "title": "Samsung CFG70: Curved 144Hz Displays with Quantum Dot Backlighting and AMD FreeSync",
+    "comment": "38",
+    "author": "by Ant Shilov",
+    "date": "10/21/2016"
+  },
+  {
+    "title": "The Samsung 960 Pro (2TB) SSD Review",
+    "comment": "72",
+    "author": "by Billy Tallis",
+    "date": "10/18/2016"
+  },
+  {
+    "title": "Samsung Foundry Announces 10nm SoC In Mass-Production",
+    "comment": "92",
+    "author": "by Andrei Frumusanu",
+    "date": "10/17/2016"
+  },
+  {
+    "title": "Update: Samsung Officially Halts All Note7 Sales & Exchanges, Now Recalling All Devices",
+    "comment": "95",
+    "author": "by Matt Humrick",
+    "date": "10/13/2016"
+  },
+  {
+    "title": "Gen-Z Consortium Formed: Developing a New Memory Interconnect",
+    "comment": "15",
+    "author": "by Ian Cutress",
+    "date": "10/12/2016"
+  },
+  {
+    "title": "Samsung ArtPC: Cylindrical PC with 360\u00ba audio, i5/i7 plus NVMe, Preorders from $1200",
+    "comment": "46",
+    "author": "by Ian Cutress",
+    "date": "10/10/2016"
+  },
+  {
+    "title": "Market Trends Q2 2016: SSD Shipments Up 41.2% YoY, PC Sales Up on Q1",
+    "comment": "24",
+    "author": "by Ant Shilov",
+    "date": "10/5/2016"
+  },
+  {
+    "title": "The AnandTech Podcast: Episode 39",
+    "comment": "10",
+    "author": "by Ian Cutress",
+    "date": "10/3/2016"
+  },
+  {
+    "title": "Samsung Announces 960 PRO And 960 EVO M.2 PCIe SSDs (Updated)",
+    "comment": "138",
+    "author": "by Billy Tallis",
+    "date": "9/21/2016"
+  },
+  {
+    "title": "HP to Acquire Printer Business from Samsung Amid Shrinking Market",
+    "comment": "37",
+    "author": "by Ant Shilov",
+    "date": "9/15/2016"
+  },
+  {
+    "title": "Update: Samsung Recalls Galaxy Note7 Due to Battery Fires, Initiates Exchange Program",
+    "comment": "46",
+    "author": "by Brand Chester",
+    "date": "9/2/2016"
+  },
+  {
+    "title": "Hands On With the Samsung Gear S3",
+    "comment": "35",
+    "author": "by Joshua Ho",
+    "date": "8/31/2016"
+  },
+  {
+    "title": "Samsung Announces Exynos 7570 14nm Budget SoC",
+    "comment": "17",
+    "author": "by Andrei Frumusanu",
+    "date": "8/30/2016"
+  },
+  {
+    "title": "Hot Chips 2016: Exynos M1 Architecture Disclosed",
+    "comment": "29",
+    "author": "by Joshua Ho",
+    "date": "8/25/2016"
+  },
+  {
+    "title": "G.Skill Shows Off Trident Z 8x8 GB and 8x16 DDR4-3333 Memory Kits",
+    "comment": "0",
+    "author": "by Ant Shilov",
+    "date": "8/23/2016"
+  },
+  {
+    "title": "The Samsung Galaxy Note7 (S820) Review",
+    "comment": "203",
+    "author": "by Joshua Ho",
+    "date": "8/16/2016"
+  },
+  {
+    "title": "Samsung at Flash Memory Summit: 64-layer V-NAND, Bigger SSDs, Z-SSD",
+    "comment": "51",
+    "author": "by Billy Tallis",
+    "date": "8/11/2016"
+  },
+  {
+    "title": "Hands On With the Samsung Galaxy Note7",
+    "comment": "74",
+    "author": "by Joshua Ho",
+    "date": "8/2/2016"
+  },
+  {
+    "title": "Samsung\u2019s PM1633a Now Available: $10k for 15 TB, $6k for 7 TB",
+    "comment": "42",
+    "author": "by Ant Shilov",
+    "date": "7/29/2016"
+  },
+  {
+    "title": "Price Check Q3 2016: DRAM Prices Down Over 20% Since Early 2016",
+    "comment": "37",
+    "author": "by Ant Shilov",
+    "date": "7/25/2016"
+  },
+  {
+    "title": "Samsung\u2019s SSD 850 EVO 4 TB Now Available from Major Retailers",
+    "comment": "29",
+    "author": "by Ant Shilov",
+    "date": "7/22/2016"
+  },
+  {
+    "title": "The Samsung 850 EVO 4TB SSD Review",
+    "comment": "145",
+    "author": "by Billy Tallis",
+    "date": "7/11/2016"
+  },
+  {
+    "title": "Samsung Rolls Out Its First UFS Cards: SSD Performance in Card Form-Factor",
+    "comment": "38",
+    "author": "by Ant Shilov",
+    "date": "7/7/2016"
+  },
+  {
+    "title": "The Samsung Galaxy S7 and S7 edge Review: Part 2",
+    "comment": "266",
+    "author": "by Joshua Ho",
+    "date": "7/5/2016"
+  },
+  {
+    "title": "Samsung Introduces Carrier Unlocked Galaxy S7 In The US",
+    "comment": "14",
+    "author": "by Brand Chester",
+    "date": "6/30/2016"
+  },
+  {
+    "title": "Samsung Extends Its Gear VR Ecosystem: Gear 360 Arrives In US",
+    "comment": "11",
+    "author": "by Matt Humrick",
+    "date": "6/22/2016"
+  },
+  {
+    "title": "Samsung SM961 Price And Availability Outlook",
+    "comment": "50",
+    "author": "by Billy Tallis",
+    "date": "6/21/2016"
+  },
+  {
+    "title": "Samsung Announces The Galaxy S7 Active",
+    "comment": "48",
+    "author": "by Matt Humrick",
+    "date": "6/6/2016"
+  },
+  {
+    "title": "Samsung Begins Mass Production of PM971: Tiny BGA SSDs with 1500 MB/s Read Speed",
+    "comment": "40",
+    "author": "by Ant Shilov",
+    "date": "6/1/2016"
+  },
+  {
+    "title": "Samsung Announces The Galaxy C5 and C7 For China",
+    "comment": "12",
+    "author": "by Brand Chester",
+    "date": "5/26/2016"
+  },
+  {
+    "title": "Samsung Expands 750 EVO SSD Lineup with 500 GB Model, Changes Positioning",
+    "comment": "29",
+    "author": "by Ant Shilov",
+    "date": "5/25/2016"
+  },
+  {
+    "title": "Market Trends Q1 2016: Shipments of SSDs Up 32.7% Year-over-Year",
+    "comment": "11",
+    "author": "by Ant Shilov",
+    "date": "5/25/2016"
+  },
+  {
+    "title": "G.Skill Unveils New Trident Z DDR4: Five New Colors",
+    "comment": "20",
+    "author": "by Ant Shilov",
+    "date": "5/16/2016"
+  },
+  {
+    "title": "Choosing the Right SSD for a Skylake-U System",
+    "comment": "40",
+    "author": "by Ganesh T S",
+    "date": "5/9/2016"
+  },
+  {
+    "title": "NVIDIA & Samsung Settle All Patent Infringement Disputes",
+    "comment": "37",
+    "author": "by Ryan Smith",
+    "date": "5/2/2016"
+  },
+  {
+    "title": "The Samsung 750 EVO (120GB & 250GB) SSD Review: A Return To Planar NAND",
+    "comment": "109",
+    "author": "by Billy Tallis",
+    "date": "4/22/2016"
+  },
+  {
+    "title": "Samsung Foundry Updates: 7nm EUV, 10LPP, and 14LPC",
+    "comment": "54",
+    "author": "by Joshua Ho",
+    "date": "4/22/2016"
+  },
+  {
+    "title": "Samsung Begins To Produce DDR4 Memory Using '10nm Class' Process Tech",
+    "comment": "36",
+    "author": "by Ant Shilov",
+    "date": "4/7/2016"
+  },
+  {
+    "title": "Samsung Readies New Cost-Effective SSDs Featuring Maia Controller",
+    "comment": "29",
+    "author": "by Ant Shilov",
+    "date": "3/23/2016"
+  },
+  {
+    "title": "Samsung Shows Off SM961 and PM961 SSDs: OEM Drives Get a Boost",
+    "comment": "48",
+    "author": "by Ant Shilov",
+    "date": "3/23/2016"
+  },
+  {
+    "title": "Samsung Demos Its First BGA SSD: 1500 MB/s Read Speed and Tiny Package",
+    "comment": "41",
+    "author": "by Ant Shilov",
+    "date": "3/22/2016"
+  },
+  {
+    "title": "EUV Lithography Makes Good Progress, Still Not Ready for Prime Time",
+    "comment": "38",
+    "author": "by Ant Shilov",
+    "date": "3/10/2016"
+  },
+  {
+    "title": "The Samsung Galaxy S7 & S7 Edge Review, Part 1",
+    "comment": "202",
+    "author": "by Joshua Ho",
+    "date": "3/8/2016"
+  },
+  {
+    "title": "Samsung Begins to Ship 15.36 TB SSD for Enterprise Storage Systems",
+    "comment": "44",
+    "author": "by Ant Shilov",
+    "date": "3/3/2016"
+  },
+  {
+    "title": "FreeSync-over-HDMI: Samsung Launches 1800R Curved FHD Monitors in the CF591 and CF390",
+    "comment": "38",
+    "author": "by Ian Cutress",
+    "date": "2/29/2016"
+  },
+  {
+    "title": "The AnandTech Podcast, Episode 36: Mobile World Congress 2016, Snapdragon 820 and Exynos 8890",
+    "comment": "14",
+    "author": "by Ian Cutress",
+    "date": "2/29/2016"
+  },
+  {
+    "title": "Price Check: Price Gap Between DDR3 and DDR4 Memory Almost Gone",
+    "comment": "16",
+    "author": "by Ant Shilov",
+    "date": "2/25/2016"
+  },
+  {
+    "title": "Samsung Announces 256GB UFS Embedded Storage Solution",
+    "comment": "23",
+    "author": "by Joshua Ho",
+    "date": "2/25/2016"
+  },
+  {
+    "title": "Samsung\u2019s Gear S2 Classic 3G and 4G Smartwatches with eSIM to Hit the Market in March",
+    "comment": "16",
+    "author": "by Ant Shilov",
+    "date": "2/23/2016"
+  },
+  {
+    "title": "Samsung Portable SSD T3 Review",
+    "comment": "50",
+    "author": "by Ganesh T S",
+    "date": "2/22/2016"
+  },
+  {
+    "title": "Hands On With the Samsung Galaxy S7 and S7 edge",
+    "comment": "123",
+    "author": "by Joshua Ho",
+    "date": "2/21/2016"
+  },
+  {
+    "title": "Samsung Announces the Gear 360: Consumer VR Content Creation",
+    "comment": "0",
+    "author": "by Joshua Ho",
+    "date": "2/21/2016"
+  },
+  {
+    "title": "MWC 2016: Samsung Unpacked Press Conference Live Blog... in VR?!",
+    "comment": "8",
+    "author": "by Ian Cutress & Andrei Frumusanu",
+    "date": "2/21/2016"
+  },
+  {
+    "title": "Samsung Releases 750 EVO SATA SSD",
+    "comment": "49",
+    "author": "by Billy Tallis",
+    "date": "2/17/2016"
+  },
+  {
+    "title": "Samsung Announces New Exynos 7870 Mid-Range 14nm SoC",
+    "comment": "17",
+    "author": "by Andrei Frumusanu",
+    "date": "2/17/2016"
+  },
+  {
+    "title": "Samsung Begins Rollout Of Android Marshmallow For Galaxy Devices",
+    "comment": "17",
+    "author": "by Brand Chester",
+    "date": "2/15/2016"
+  },
+  {
+    "title": "GDDR5X Standard Finalized by JEDEC: New Graphics Memory up to 14 Gbps",
+    "comment": "70",
+    "author": "by Ant Shilov",
+    "date": "1/22/2016"
+  },
+  {
+    "title": "JEDEC Publishes HBM2 Specification as Samsung Begins Mass Production of Chips",
+    "comment": "42",
+    "author": "by Ant Shilov",
+    "date": "1/20/2016"
+  },
+  {
+    "title": "Samsung Announces Second-Gen 14nm Low Power Plus (14LPP) Process Now In Mass Production",
+    "comment": "32",
+    "author": "by Andrei Frumusanu",
+    "date": "1/14/2016"
+  },
+  {
+    "title": "Samsung Announces The Ultra-Light Notebook 9 Series Laptops At CES 2016",
+    "comment": "16",
+    "author": "by Brett Howse",
+    "date": "1/5/2016"
+  },
+  {
+    "title": "Samsung Announces New Gear S2 Models And iOS Support",
+    "comment": "2",
+    "author": "by Brand Chester",
+    "date": "1/5/2016"
+  },
+  {
+    "title": "Samsung Unveils The Galaxy TabPro S",
+    "comment": "24",
+    "author": "by Brand Chester",
+    "date": "1/5/2016"
+  },
+  {
+    "title": "Samsung Introduces Portable SSD T3",
+    "comment": "11",
+    "author": "by Billy Tallis",
+    "date": "1/4/2016"
+  },
+  {
+    "title": "US ITC Finds NVIDIA Guilty of Infringing Three Samsung Patents",
+    "comment": "35",
+    "author": "by Ant Shilov",
+    "date": "12/23/2015"
+  },
+  {
+    "title": "Price Check: DDR4 Memory Down Nearly 40% in 6 Months, Expected To Continue",
+    "comment": "33",
+    "author": "by Ant Shilov",
+    "date": "12/18/2015"
+  },
+  {
+    "title": "Samsung Announces Updated Versions of the Galaxy A3, A5, and A7",
+    "comment": "23",
+    "author": "by Brand Chester",
+    "date": "12/2/2015"
+  },
+  {
+    "title": "Samsung Announces Exynos 8890 with Cat.12/13 Modem and Custom CPU",
+    "comment": "56",
+    "author": "by Andrei Frumusanu",
+    "date": "11/12/2015"
+  },
+  {
+    "title": "Samsung Announces The 18.4\" Galaxy View",
+    "comment": "56",
+    "author": "by Brand Chester",
+    "date": "10/28/2015"
+  },
+  {
+    "title": "The Samsung 950 Pro PCIe SSD Review (256GB and 512GB)",
+    "comment": "142",
+    "author": "by Billy Tallis",
+    "date": "10/22/2015"
+  },
+  {
+    "title": "Samsung/NVIDIA Case Update: US ITC Finds Samsung GPUs Non-Infringing",
+    "comment": "17",
+    "author": "by Ryan Smith",
+    "date": "10/12/2015"
+  },
+  {
+    "title": "The Samsung Galaxy Note5 and Galaxy S6 edge+ Review",
+    "comment": "225",
+    "author": "by Joshua Ho",
+    "date": "10/2/2015"
+  },
+  {
+    "title": "Samsung Details 3rd Gen V-NAND Rollout: 4TB 850 Pro, 1TB 850 EVO M.2, & More In 2016",
+    "comment": "23",
+    "author": "by Ryan Smith & Billy Tallis",
+    "date": "9/22/2015"
+  },
+  {
+    "title": "Samsung Announces 950 Pro SSD, Their First Consumer V-NAND + NVMe SSD",
+    "comment": "49",
+    "author": "by Ryan Smith & Billy Tallis",
+    "date": "9/22/2015"
+  },
+  {
+    "title": "Samsung Announces 12Gb LPDDR4 DRAM For Mobile Devices",
+    "comment": "37",
+    "author": "by Brand Chester",
+    "date": "9/8/2015"
+  },
+  {
+    "title": "Samsung Gear S2 Launch Event & Hands-On",
+    "comment": "31",
+    "author": "by Andrei Frumusanu",
+    "date": "9/4/2015"
+  },
+  {
+    "title": "Samsung Announces The Gear S2 Smartwatch",
+    "comment": "16",
+    "author": "by Brand Chester",
+    "date": "8/31/2015"
+  },
+  {
+    "title": "Hands On With the Samsung Galaxy Note 5 and Samsung Galaxy S6 edge+",
+    "comment": "219",
+    "author": "by Joshua Ho",
+    "date": "8/13/2015"
+  },
+  {
+    "title": "Samsung SSD Update: 48-layer 256Gbit TLC 3D NAND & Three New TLC SSDs Announced",
+    "comment": "61",
+    "author": "by Billy Tallis",
+    "date": "8/13/2015"
+  },
+  {
+    "title": "The 2TB Samsung 850 Pro & EVO SSD Review",
+    "comment": "66",
+    "author": "by Kristian V\u00e4tt\u00f6",
+    "date": "7/23/2015"
+  },
+  {
+    "title": "Samsung Releases PM863 & SM863 Enterprise SATA SSDs: Up to 3.84TB with 3D V-NAND",
+    "comment": "37",
+    "author": "by Kristian V\u00e4tt\u00f6",
+    "date": "7/20/2015"
+  },
+  {
+    "title": "Samsung Announces The 8.0\" and 9.7\" Galaxy Tab S2 Tablets",
+    "comment": "49",
+    "author": "by Brand Chester",
+    "date": "7/19/2015"
+  },
+  {
+    "title": "Samsung Launches New 2TB SSD 850 EVO And 850 PRO Models",
+    "comment": "57",
+    "author": "by Brett Howse",
+    "date": "7/7/2015"
+  },
+  {
+    "title": "The Samsung Exynos 7420 Deep Dive - Inside A Modern 14nm SoC",
+    "comment": "114",
+    "author": "by Andrei Frumusanu",
+    "date": "6/29/2015"
+  },
+  {
+    "title": "Samsung SM951-NVMe (256GB) PCIe SSD Review",
+    "comment": "74",
+    "author": "by Kristian V\u00e4tt\u00f6",
+    "date": "6/25/2015"
+  },
+  {
+    "title": "Analysing AMOLED Power Efficiency Improvements",
+    "comment": "73",
+    "author": "by Andrei Frumusanu",
+    "date": "6/23/2015"
+  },
+  {
+    "title": "Samsung Launches Two FreeSync Capable UltraHD Monitors",
+    "comment": "29",
+    "author": "by Brand Chester",
+    "date": "6/22/2015"
+  },
+  {
+    "title": "Samsung Announces The Galaxy S6 Active",
+    "comment": "29",
+    "author": "by Brand Chester",
+    "date": "6/8/2015"
+  },
+  {
+    "title": "The Lenovo ThinkStation P900 Workstation Review: Design 101",
+    "comment": "61",
+    "author": "by Ian Cutress",
+    "date": "5/6/2015"
+  },
+  {
+    "title": "Samsung Releases Second 840 EVO Performance Fix",
+    "comment": "74",
+    "author": "by Ryan Smith",
+    "date": "4/27/2015"
+  },
+  {
+    "title": "G.Skill Announces 16GB Unbuffered Modules: 128GB Kit at DDR4-2800",
+    "comment": "33",
+    "author": "by Ian Cutress",
+    "date": "4/24/2015"
+  },
+  {
+    "title": "Samsung Introduces New 8\" and 9.7\" Galaxy Tab A Tablets",
+    "comment": "62",
+    "author": "by Brand Chester",
+    "date": "4/20/2015"
+  },
+  {
+    "title": "The Samsung Galaxy S6 and S6 edge Review",
+    "comment": "306",
+    "author": "by Joshua Ho",
+    "date": "4/17/2015"
+  },
+  {
+    "title": "New Samsung SSD 840 EVO Read Performance Fix Coming Later This Month",
+    "comment": "81",
+    "author": "by Kristian V\u00e4tt\u00f6",
+    "date": "4/14/2015"
+  },
+  {
+    "title": "Samsung SM951 PCIe SSD Now Available",
+    "comment": "29",
+    "author": "by Kristian V\u00e4tt\u00f6",
+    "date": "4/7/2015"
+  },
+  {
+    "title": "Samsung/NVIDIA Case Update: NVIDIA Receives \"Favorable Ruling\" At Markman Hearing",
+    "comment": "53",
+    "author": "by Ryan Smith",
+    "date": "4/6/2015"
+  },
+  {
+    "title": "Chipworks Publishes Samsung Galaxy S6 Teardown",
+    "comment": "47",
+    "author": "by Joshua Ho",
+    "date": "4/3/2015"
+  },
+  {
+    "title": "The Samsung SSD 850 EVO mSATA/M.2 Review",
+    "comment": "58",
+    "author": "by Kristian V\u00e4tt\u00f6",
+    "date": "3/31/2015"
+  },
+  {
+    "title": "Samsung Galaxy S 6 and S 6 Edge: Preview",
+    "comment": "200",
+    "author": "by Joshua Ho",
+    "date": "3/26/2015"
+  },
+  {
+    "title": "Samsung Announces the Galaxy S 6 and S 6 Edge",
+    "comment": "206",
+    "author": "by Joshua Ho",
+    "date": "3/1/2015"
+  },
+  {
+    "title": "Samsung Unpacked: MWC 2015 Live Blog",
+    "comment": "42",
+    "author": "by Ian Cutress & Andrei Frumusanu",
+    "date": "3/1/2015"
+  },
+  {
+    "title": "Samsung Announces 128GB UFS Storage For Smartphones",
+    "comment": "31",
+    "author": "by Andrei Frumusanu",
+    "date": "2/25/2015"
+  },
+  {
+    "title": "Samsung SM951 (512GB) PCIe SSD Review",
+    "comment": "128",
+    "author": "by Kristian V\u00e4tt\u00f6",
+    "date": "2/24/2015"
+  },
+  {
+    "title": "Samsung Releases Statement on 840 EVO Performance - Another Fix Is In the Works",
+    "comment": "75",
+    "author": "by Ryan Smith",
+    "date": "2/20/2015"
+  },
+  {
+    "title": "Samsung Acquires Mobile Payment Company LoopPay",
+    "comment": "34",
+    "author": "by Brand Chester",
+    "date": "2/18/2015"
+  },
+  {
+    "title": "Samsung Introduces The First eMMC 5.1 Based Flash Memory",
+    "comment": "42",
+    "author": "by Brand Chester",
+    "date": "2/17/2015"
+  },
+  {
+    "title": "ARM A53/A57/T760 investigated - Samsung Galaxy Note 4 Exynos Review",
+    "comment": "135",
+    "author": "by Andrei Frumusanu & Ryan Smith",
+    "date": "2/10/2015"
+  },
+  {
+    "title": "Sprint Samsung Galaxy S5 and HTC One (M7) Will Receive Lollipop Update Tomorrow",
+    "comment": "12",
+    "author": "by Brand Chester",
+    "date": "2/4/2015"
+  },
+  {
+    "title": "Verizon Galaxy S5 Receiving Lollipop Update",
+    "comment": "22",
+    "author": "by Brand Chester",
+    "date": "2/2/2015"
+  },
+  {
+    "title": "Samsung Portable SSD T1 Review",
+    "comment": "69",
+    "author": "by Ganesh T S",
+    "date": "1/20/2015"
+  },
+  {
+    "title": "Samsung CES Booth Tour: Tablets, Phones, and Core M ATIV Book 9",
+    "comment": "45",
+    "author": "by Jarred Walt",
+    "date": "1/19/2015"
+  },
+  {
+    "title": "Samsung Displays New 3D V-NAND Based Enterprise SSDs at CES 2015",
+    "comment": "23",
+    "author": "by Kristian V\u00e4tt\u00f6",
+    "date": "1/15/2015"
+  },
+  {
+    "title": "Samsung Launches SM951 M.2 PCIe 3.0 x4 SSD for OEMs/SIs",
+    "comment": "15",
+    "author": "by Kristian V\u00e4tt\u00f6",
+    "date": "1/14/2015"
+  },
+  {
+    "title": "Samsung Announces the Galaxy A7",
+    "comment": "9",
+    "author": "by Brand Chester",
+    "date": "1/12/2015"
+  },
+  {
+    "title": "Samsung Releases External T1 SSD",
+    "comment": "22",
+    "author": "by Kristian V\u00e4tt\u00f6",
+    "date": "1/5/2015"
+  },
+  {
+    "title": "Samsung CES 2015 Press Conference Live Blog",
+    "comment": "28",
+    "author": "by Kristian V\u00e4tt\u00f6",
+    "date": "1/5/2015"
+  },
+  {
+    "title": "Samsung Launches the Galaxy Note 4 LTE-A",
+    "comment": "56",
+    "author": "by Brand Chester",
+    "date": "12/28/2014"
+  },
+  {
+    "title": "Samsung/NVIDIA Case Progresses: US ITC Begins NVIDIA Investigation",
+    "comment": "30",
+    "author": "by Ryan Smith",
+    "date": "12/24/2014"
+  },
+  {
+    "title": "Understanding Brightness in AMOLED and LCD Displays",
+    "comment": "85",
+    "author": "by Joshua Ho & Brand Chester",
+    "date": "12/22/2014"
+  },
+  {
+    "title": "Best High-End Laptops: Holiday 2014",
+    "comment": "85",
+    "author": "by Jarred Walt",
+    "date": "12/18/2014"
+  },
+  {
+    "title": "Best SSDs: Holiday 2014",
+    "comment": "38",
+    "author": "by Kristian V\u00e4tt\u00f6",
+    "date": "12/15/2014"
+  },
+  {
+    "title": "Samsung SSD 850 EVO (120GB, 250GB, 500GB & 1TB) Review",
+    "comment": "97",
+    "author": "by Kristian V\u00e4tt\u00f6",
+    "date": "12/8/2014"
+  },
+  {
+    "title": "Chromebook Buyer's Guide: Holiday 2014",
+    "comment": "64",
+    "author": "by Jarred Walt",
+    "date": "11/26/2014"
+  },
+  {
+    "title": "AMD Announces Upcoming Samsung FreeSync Displays",
+    "comment": "73",
+    "author": "by Jarred Walt",
+    "date": "11/20/2014"
+  },
+  {
+    "title": "Samsung Introduces Gear VR Innovator Edition for the U.S.",
+    "comment": "10",
+    "author": "by Brand Chester",
+    "date": "11/12/2014"
+  },
+  {
+    "title": "Samsung Files Counter-Suit & Patent Infringement Claims Against NVIDIA & Velocity Micro",
+    "comment": "59",
+    "author": "by Ryan Smith",
+    "date": "11/11/2014"
+  },
+  {
+    "title": "Samsung Launches the Gear Circle in the U.S.",
+    "comment": "12",
+    "author": "by Brand Chester",
+    "date": "11/5/2014"
+  },
+  {
+    "title": "Samsung Announces the Galaxy A5 and A3 With Full Metal Unibody Designs",
+    "comment": "33",
+    "author": "by Brand Chester",
+    "date": "10/31/2014"
+  },
+  {
+    "title": "Samsung Releases Firmware Update to Fix the SSD 840 EVO Read Performance Bug",
+    "comment": "95",
+    "author": "by Kristian V\u00e4tt\u00f6",
+    "date": "10/16/2014"
+  },
+  {
+    "title": "The Samsung Galaxy Note 4 Review",
+    "comment": "195",
+    "author": "by Joshua Ho",
+    "date": "10/15/2014"
+  },
+  {
+    "title": "Firmware Update to Fix the Samsung SSD 840 EVO Read Performance Bug Coming on October 15th",
+    "comment": "84",
+    "author": "by Kristian V\u00e4tt\u00f6",
+    "date": "9/26/2014"
+  },
+  {
+    "title": "Samsung Acknowledges the SSD 840 EVO Read Performance Bug - Fix Is on the Way",
+    "comment": "116",
+    "author": "by Kristian V\u00e4tt\u00f6",
+    "date": "9/19/2014"
+  },
+  {
+    "title": "Samsung's Exynos 5433 is an A57/A53 ARM SoC",
+    "comment": "41",
+    "author": "by Andrei Frumusanu",
+    "date": "9/16/2014"
+  },
+  {
+    "title": "IDF 2014: Affordable 4K Panels and AIOs",
+    "comment": "40",
+    "author": "by Ganesh T S & Mahendra Lodha",
+    "date": "9/11/2014"
+  },
+  {
+    "title": "PCIe SSD Faceoff: Samsung XP941 (128GB & 256GB) and OCZ RevoDrive 350 (480GB) Tested",
+    "comment": "47",
+    "author": "by Kristian V\u00e4tt\u00f6",
+    "date": "9/5/2014"
+  },
+  {
+    "title": "Note 4 and Mate 7 side-by-side",
+    "comment": "43",
+    "author": "by Andrei Frumusanu",
+    "date": "9/5/2014"
+  },
+  {
+    "title": "NVIDIA Files Patent Infringement Complaints Against Qualcomm & Samsung",
+    "comment": "77",
+    "author": "by Ryan Smith & Jarred Walt",
+    "date": "9/4/2014"
+  },
+  {
+    "title": "Samsung Announces Gear VR: A VR Harness For Your Note 4",
+    "comment": "20",
+    "author": "by Ryan Smith",
+    "date": "9/3/2014"
+  },
+  {
+    "title": "Samsung Announces Galaxy Note 4: Hands On",
+    "comment": "69",
+    "author": "by Joshua Ho",
+    "date": "9/3/2014"
+  },
+  {
+    "title": "Samsung Announces Galaxy Note Edge: Hands On",
+    "comment": "17",
+    "author": "by Joshua Ho",
+    "date": "9/3/2014"
+  },
+  {
+    "title": "Samsung SSD 845DC EVO/PRO Performance Preview & Exploring IOPS Consistency",
+    "comment": "31",
+    "author": "by Kristian V\u00e4tt\u00f6",
+    "date": "9/3/2014"
+  },
+  {
+    "title": "A Quick Look at the GS5 LTE-A Subpixel Layout",
+    "comment": "21",
+    "author": "by Joshua Ho",
+    "date": "8/29/2014"
+  },
+  {
+    "title": "State of the Part: SoC Manufacturers",
+    "comment": "94",
+    "author": "by Jarred Walt",
+    "date": "8/19/2014"
+  },
+  {
+    "title": "Samsung Announces Exynos 5430: First 20nm Samsung SoC",
+    "comment": "77",
+    "author": "by Joshua Ho & Andrei Frumusanu",
+    "date": "8/13/2014"
+  },
+  {
+    "title": "Samsung launches the Galaxy Alpha",
+    "comment": "64",
+    "author": "by Andrei Frumusanu",
+    "date": "8/13/2014"
+  },
+  {
+    "title": "Galaxy S5 LTE-A: Battery Life, Performance",
+    "comment": "32",
+    "author": "by Joshua Ho",
+    "date": "8/5/2014"
+  },
+  {
+    "title": "Filling the Gap: AMOLED and LCD from 2010 to 2012",
+    "comment": "72",
+    "author": "by Joshua Ho",
+    "date": "7/26/2014"
+  },
+  {
+    "title": "Evaluating Samsung's QHD AMOLED Displays",
+    "comment": "71",
+    "author": "by Joshua Ho",
+    "date": "7/16/2014"
+  },
+  {
+    "title": "Testing Samsung 850 Pro Endurance & Measuring V-NAND Die Size",
+    "comment": "39",
+    "author": "by Kristian V\u00e4tt\u00f6",
+    "date": "7/7/2014"
+  },
+  {
+    "title": "Samsung SSD Global Summit 2014: 845 DC Pro with V-NAND, SM951 with NVMe Support",
+    "comment": "17",
+    "author": "by Kristian V\u00e4tt\u00f6",
+    "date": "7/4/2014"
+  },
+  {
+    "title": "Samsung Announces the Galaxy S5 Mini",
+    "comment": "34",
+    "author": "by Joshua Ho",
+    "date": "7/1/2014"
+  },
+  {
+    "title": "Samsung SSD 850 Pro (128GB, 256GB & 1TB) Review: Enter the 3D Era",
+    "comment": "160",
+    "author": "by Kristian V\u00e4tt\u00f6",
+    "date": "7/1/2014"
+  },
+  {
+    "title": "Inside the First Android Wear Devices: LG G Watch & Samsung Gear Live Teardown",
+    "comment": "26",
+    "author": "by Anand Lal Shimpi",
+    "date": "6/30/2014"
+  },
+  {
+    "title": "LG G Watch and Samsung Gear Live Available For Purchase Today",
+    "comment": "13",
+    "author": "by Brand Chester",
+    "date": "6/25/2014"
+  },
+  {
+    "title": "Samsung Galaxy Tab S Review (10.5 & 8.4-inch)",
+    "comment": "98",
+    "author": "by Anand Lal Shimpi",
+    "date": "6/24/2014"
+  },
+  {
+    "title": "Sprint and Samsung Unveil the Galaxy S5 Sport",
+    "comment": "15",
+    "author": "by Brand Chester",
+    "date": "6/23/2014"
+  },
+  {
+    "title": "Samsung Launches the Galaxy S5 Broadband LTE-A: First Snapdragon 805 Phone, First 20nm Modem",
+    "comment": "40",
+    "author": "by Joshua Ho",
+    "date": "6/19/2014"
+  },
+  {
+    "title": "Samsung's Galaxy Tab S 10.5 & 8.4: Hands On with Samsung's 6.6mm Thin Tablets",
+    "comment": "83",
+    "author": "by Anand Lal Shimpi",
+    "date": "6/12/2014"
+  },
+  {
+    "title": "Best Smartphones: Spring 2014",
+    "comment": "46",
+    "author": "by Brett Howse",
+    "date": "6/5/2014"
+  },
+  {
+    "title": "Computex 2014: Samsung Launches TLC-Based 845DC EVO for The Enterprise",
+    "comment": "11",
+    "author": "by Kristian V\u00e4tt\u00f6",
+    "date": "6/3/2014"
+  },
+  {
+    "title": "Samsung Galaxy Tab 4 Education Launched",
+    "comment": "19",
+    "author": "by Brett Howse",
+    "date": "5/16/2014"
+  },
+  {
+    "title": "Samsung SSD XP941 Review: The PCIe Era Is Here",
+    "comment": "110",
+    "author": "by Kristian V\u00e4tt\u00f6",
+    "date": "5/15/2014"
+  },
+  {
+    "title": "Samsung Launches KNOX 2.0",
+    "comment": "17",
+    "author": "by Brett Howse",
+    "date": "5/7/2014"
+  },
+  {
+    "title": "Samsung Unveils the Galaxy K Zoom with 20.7MP Camera",
+    "comment": "19",
+    "author": "by Brand Chester",
+    "date": "4/29/2014"
+  },
+  {
+    "title": "Samsung Galaxy Beam 2 Revealed on Samsung China Website",
+    "comment": "14",
+    "author": "by Brand Chester",
+    "date": "4/24/2014"
+  },
+  {
+    "title": "Galaxy S5 Follow-Up: Water Resistance, Adobe RGB Testing and More",
+    "comment": "45",
+    "author": "by Joshua Ho",
+    "date": "4/19/2014"
+  },
+  {
+    "title": "Samsung Galaxy S 5 Review",
+    "comment": "298",
+    "author": "by Anand Lal Shimpi & Joshua Ho",
+    "date": "4/8/2014"
+  },
+  {
+    "title": "Samsung Releases Standard, EVO and PRO SD Cards",
+    "comment": "46",
+    "author": "by Kristian V\u00e4tt\u00f6",
+    "date": "4/7/2014"
+  },
+  {
+    "title": "Samsung Galaxy Tab Pro 8.4 and 10.1 Review",
+    "comment": "125",
+    "author": "by Jarred Walt",
+    "date": "3/22/2014"
+  },
+  {
+    "title": "My First Mobile World Congress: Round Up and Impressions",
+    "comment": "4",
+    "author": "by Ian Cutress",
+    "date": "3/7/2014"
+  },
+  {
+    "title": "Samsung's Exynos 5422 & The Ideal big.LITTLE: Exynos 5 Hexa (5260)",
+    "comment": "35",
+    "author": "by Anand Lal Shimpi",
+    "date": "2/25/2014"
+  },
+  {
+    "title": "Samsung Announces Galaxy S5: Initial Thoughts",
+    "comment": "127",
+    "author": "by Joshua Ho",
+    "date": "2/24/2014"
+  },
+  {
+    "title": "Samsung Announces Tizen-based Gear 2, Gear 2 Neo Smartwatches",
+    "comment": "9",
+    "author": "by Brian Klug",
+    "date": "2/23/2014"
+  },
+  {
+    "title": "Samsung SSD 840 EVO mSATA (120GB, 250GB, 500GB & 1TB) Review",
+    "comment": "65",
+    "author": "by Kristian V\u00e4tt\u00f6",
+    "date": "1/9/2014"
+  },
+  {
+    "title": "Samsung SSD News: 1TB 840 EVO mSATA, RAPID for 840 Pro & eDrive for 840 EVO",
+    "comment": "35",
+    "author": "by Kristian V\u00e4tt\u00f6",
+    "date": "12/9/2013"
+  },
+  {
+    "title": "Samsung S27B971D Monitor Review",
+    "comment": "52",
+    "author": "by Chris Heinen",
+    "date": "10/31/2013"
+  },
+  {
+    "title": "Samsung Galaxy Round, a Curved Note 3",
+    "comment": "25",
+    "author": "by Joshua Ho",
+    "date": "10/9/2013"
+  },
+  {
+    "title": "Some Thoughts on Smartphone Region Locking",
+    "comment": "60",
+    "author": "by Joshua Ho",
+    "date": "10/7/2013"
+  },
+  {
+    "title": "They're (Almost) All Dirty: The State of Cheating in Android Benchmarks",
+    "comment": "375",
+    "author": "by Anand Lal Shimpi & Brian Klug",
+    "date": "10/2/2013"
+  },
+  {
+    "title": "Samsung Galaxy Note 3 Review",
+    "comment": "305",
+    "author": "by Brian Klug",
+    "date": "10/1/2013"
+  },
+  {
+    "title": "Samsung Galaxy Note 10.1 (2014 Edition) Review",
+    "comment": "100",
+    "author": "by Brian Klug & Anand Lal Shimpi",
+    "date": "10/1/2013"
+  },
+  {
+    "title": "Samsung's S9110 Watchphone: What Came Before the Galaxy Gear",
+    "comment": "12",
+    "author": "by Anand Lal Shimpi",
+    "date": "9/5/2013"
+  },
+  {
+    "title": "Samsung Introduces Galaxy Note 10.1 (2014 Edition) with 2560x1600 Display",
+    "comment": "31",
+    "author": "by Anand Lal Shimpi",
+    "date": "9/4/2013"
+  },
+  {
+    "title": "Samsung's Galaxy Note 3: Snapdragon 800 in a Slimmer Galaxy Note",
+    "comment": "60",
+    "author": "by Anand Lal Shimpi",
+    "date": "9/4/2013"
+  },
+  {
+    "title": "The Galaxy Gear Preview: Samsung's First Wearable",
+    "comment": "80",
+    "author": "by Anand Lal Shimpi",
+    "date": "9/4/2013"
+  },
+  {
+    "title": "Samsung\u2019s V-NAND: Hitting the Reset Button on NAND Scaling",
+    "comment": "44",
+    "author": "by Anand Lal Shimpi",
+    "date": "8/21/2013"
+  },
+  {
+    "title": "Samsung\u2019s 3D Vertical NAND Set to Improve NAND Densities",
+    "comment": "33",
+    "author": "by Jarred Walt",
+    "date": "8/6/2013"
+  },
+  {
+    "title": "Update on GPU Optimizations in Galaxy S 4",
+    "comment": "38",
+    "author": "by Anand Lal Shimpi & Brian Klug",
+    "date": "7/31/2013"
+  },
+  {
+    "title": "Looking at CPU/GPU Benchmark Optimizations in Galaxy S 4",
+    "comment": "112",
+    "author": "by Brian Klug & Anand Lal Shimpi",
+    "date": "7/30/2013"
+  },
+  {
+    "title": "Samsung SSD 840 EVO Review: 120GB, 250GB, 500GB, 750GB & 1TB Models Tested",
+    "comment": "137",
+    "author": "by Anand Lal Shimpi",
+    "date": "7/25/2013"
+  },
+  {
+    "title": "Samsung Galaxy S 4 ZeroLemon 7500 mAh Extended Battery Review",
+    "comment": "75",
+    "author": "by Brian Klug",
+    "date": "7/23/2013"
+  },
+  {
+    "title": "Samsung Updates Exynos 5 Octa (5420), Switches Back to ARM GPU",
+    "comment": "44",
+    "author": "by Anand Lal Shimpi & Brian Klug",
+    "date": "7/22/2013"
+  },
+  {
+    "title": "New Elements to Samsung SSDs: The MEX Controller, Turbo Write and NVMe",
+    "comment": "21",
+    "author": "by Ian Cutress",
+    "date": "7/18/2013"
+  },
+  {
+    "title": "Samsung launch the 840 EVO: Up to 1TB and Faster Writes for 120GB",
+    "comment": "39",
+    "author": "by Ian Cutress",
+    "date": "7/17/2013"
+  },
+  {
+    "title": "Samsung Galaxy S 4 Qi Wireless Charging Pad and Cover - Mini Review",
+    "comment": "33",
+    "author": "by Brian Klug",
+    "date": "7/13/2013"
+  },
+  {
+    "title": "Samsung's ATIV Book 9 Plus: 3200 x 1800 Display in an Ultrabook",
+    "comment": "69",
+    "author": "by Anand Lal Shimpi",
+    "date": "6/20/2013"
+  },
+  {
+    "title": "Samsung Galaxy NX Camera: Hands On",
+    "comment": "31",
+    "author": "by Anand Lal Shimpi",
+    "date": "6/20/2013"
+  },
+  {
+    "title": "Hands On: Samsung Galaxy S 4 Active & Mini",
+    "comment": "23",
+    "author": "by Anand Lal Shimpi",
+    "date": "6/20/2013"
+  },
+  {
+    "title": "AMD Takes Samsung, Kabini in the ATIV Book 9 Lite & ATIV One 5 Style - Hands On",
+    "comment": "28",
+    "author": "by Anand Lal Shimpi",
+    "date": "6/20/2013"
+  },
+  {
+    "title": "Samsung ATIV Q Hands On: 3200 x 1800 13.3\" Tablet Running Windows 8 and Android",
+    "comment": "52",
+    "author": "by Anand Lal Shimpi",
+    "date": "6/20/2013"
+  },
+  {
+    "title": "Samsung Premiere 2013: Galaxy & ATIV London Launch, Live Blog",
+    "comment": "18",
+    "author": "by Anand Lal Shimpi",
+    "date": "6/20/2013"
+  },
+  {
+    "title": "Samsung Announces Galaxy S4 Zoom - 16 MP, Zoom, Makes Calls",
+    "comment": "16",
+    "author": "by Brian Klug",
+    "date": "6/12/2013"
+  },
+  {
+    "title": "Samsung Makes Galaxy S 4 Active Official - IP67 and Ruggedized",
+    "comment": "36",
+    "author": "by Brian Klug",
+    "date": "6/5/2013"
+  },
+  {
+    "title": "The AnandTech Podcast: Episode 20",
+    "comment": "35",
+    "author": "by Anand Lal Shimpi",
+    "date": "4/30/2013"
+  },
+  {
+    "title": "Samsung Galaxy S 4 Incompatible with Original TecTiles, TecTile 2 Announced",
+    "comment": "28",
+    "author": "by Brian Klug",
+    "date": "4/26/2013"
+  },
+  {
+    "title": "Samsung Galaxy S 4 Review - Part 1",
+    "comment": "336",
+    "author": "by Brian Klug",
+    "date": "4/24/2013"
+  },
+  {
+    "title": "Samsung Galaxy Note 8.0 Review",
+    "comment": "96",
+    "author": "by Anand Lal Shimpi",
+    "date": "4/17/2013"
+  },
+  {
+    "title": "The AnandTech Podcast: Episode 19",
+    "comment": "57",
+    "author": "by Anand Lal Shimpi",
+    "date": "4/12/2013"
+  },
+  {
+    "title": "Samsung ATIV Smart PC: Revisiting Clover Trail Convertibles",
+    "comment": "60",
+    "author": "by Vivek Gowri",
+    "date": "3/18/2013"
+  },
+  {
+    "title": "Samsung's Galaxy S 4: Introduction & Hands On",
+    "comment": "209",
+    "author": "by Anand Lal Shimpi",
+    "date": "3/14/2013"
+  },
+  {
+    "title": "Samsung's Unpacked 2013 Launch Event Live Blog",
+    "comment": "4",
+    "author": "by Anand Lal Shimpi",
+    "date": "3/14/2013"
+  },
+  {
+    "title": "Imagination Technologies Confirms PowerVR SGX 544 IP used in Exynos 5 Octa",
+    "comment": "25",
+    "author": "by Anand Lal Shimpi",
+    "date": "3/12/2013"
+  },
+  {
+    "title": "Samsung Announces SAFE with KNOX - Security Container for Enterprise BYOD",
+    "comment": "3",
+    "author": "by Brian Klug",
+    "date": "2/25/2013"
+  },
+  {
+    "title": "Samsung's Galaxy Note 8.0: Introduction & Hands On",
+    "comment": "32",
+    "author": "by Anand Lal Shimpi",
+    "date": "2/23/2013"
+  },
+  {
+    "title": "Samsung's TV Discovery Service Enables TV to Smartphone/Tablet Streaming",
+    "comment": "7",
+    "author": "by Anand Lal Shimpi",
+    "date": "2/22/2013"
+  },
+  {
+    "title": "Samsung Details Exynos 5 Octa Architecture & Power at ISSCC '13",
+    "comment": "52",
+    "author": "by Anand Lal Shimpi",
+    "date": "2/20/2013"
+  },
+  {
+    "title": "Samsung Laptop UEFI Bugs: Not Just for Linux",
+    "comment": "18",
+    "author": "by Jarred Walt",
+    "date": "2/9/2013"
+  },
+  {
+    "title": "Samsung Laptops Bricked by Booting Linux Using UEFI",
+    "comment": "43",
+    "author": "by Jarred Walt",
+    "date": "1/30/2013"
+  },
+  {
+    "title": "Samsung's Exynos 5 Octa: Powered by PowerVR SGX 544MP3, not ARM's Mali",
+    "comment": "43",
+    "author": "by Anand Lal Shimpi & Brian Klug",
+    "date": "1/13/2013"
+  },
+  {
+    "title": "A Look at Samsung's Curved Smartphone Concept and 4.99-Inch 1080p AMOLED Display",
+    "comment": "31",
+    "author": "by Brian Klug",
+    "date": "1/12/2013"
+  },
+  {
+    "title": "Hands on with Samsung's 2013 Notebook Lineup",
+    "comment": "6",
+    "author": "by Vivek Gowri",
+    "date": "1/12/2013"
+  },
+  {
+    "title": "Hands On with Samsung Galaxy S 2 Plus - Contains BCM28155 SoC",
+    "comment": "10",
+    "author": "by Brian Klug",
+    "date": "1/11/2013"
+  },
+  {
+    "title": "The ARM vs x86 Wars Have Begun: In-Depth Power Analysis of Atom, Krait & Cortex A15",
+    "comment": "140",
+    "author": "by Anand Lal Shimpi",
+    "date": "1/4/2013"
+  },
+  {
+    "title": "Samsung ATIV Tab Review: Qualcomm's First Windows RT Tablet",
+    "comment": "42",
+    "author": "by Anand Lal Shimpi",
+    "date": "1/3/2013"
+  },
+  {
+    "title": "Samsung Acquires SSD Caching Company NVELO",
+    "comment": "16",
+    "author": "by Kristian V\u00e4tt\u00f6",
+    "date": "12/16/2012"
+  },
+  {
+    "title": "Samsung Explains The Firmware Bug Causing The Failures of SSD 840/840 Pro",
+    "comment": "56",
+    "author": "by Kristian V\u00e4tt\u00f6",
+    "date": "12/7/2012"
+  },
+  {
+    "title": "Exploring the Relationship Between Spare Area and Performance Consistency in Modern SSDs",
+    "comment": "134",
+    "author": "by Anand Lal Shimpi",
+    "date": "12/4/2012"
+  },
+  {
+    "title": "Update on Samsung SSD 840/840 Pro Failures",
+    "comment": "45",
+    "author": "by Anand Lal Shimpi",
+    "date": "11/28/2012"
+  },
+  {
+    "title": "Samsung SSD 840: Testing the Endurance of TLC NAND",
+    "comment": "48",
+    "author": "by Kristian V\u00e4tt\u00f6",
+    "date": "11/16/2012"
+  },
+  {
+    "title": "Google and Acer Bring Chromebooks to $199",
+    "comment": "29",
+    "author": "by Jas Inofuentes",
+    "date": "11/12/2012"
+  },
+  {
+    "title": "Samsung Chromebook (XE303) Review: Testing ARM's Cortex A15",
+    "comment": "149",
+    "author": "by Anand Lal Shimpi",
+    "date": "10/31/2012"
+  },
+  {
+    "title": "Nexus 4 and Nexus 10: A Closer Look",
+    "comment": "102",
+    "author": "by Jas Inofuentes",
+    "date": "10/29/2012"
+  },
+  {
+    "title": "LG and Google Announce the Nexus 4, Starts at $299",
+    "comment": "91",
+    "author": "by Jas Inofuentes",
+    "date": "10/29/2012"
+  },
+  {
+    "title": "Samsung Galaxy Note 2 Review (T-Mobile) - The Phablet Returns",
+    "comment": "132",
+    "author": "by Brian Klug",
+    "date": "10/24/2012"
+  },
+  {
+    "title": "Google Reboots The Chromebook: ARM Meets Notebook For $249",
+    "comment": "51",
+    "author": "by Jas Inofuentes",
+    "date": "10/18/2012"
+  },
+  {
+    "title": "Samsung SSD 840 (250GB) Review",
+    "comment": "86",
+    "author": "by Kristian V\u00e4tt\u00f6",
+    "date": "10/8/2012"
+  },
+  {
+    "title": "The AnandTech Podcast: Episode 7",
+    "comment": "48",
+    "author": "by Anand Lal Shimpi",
+    "date": "10/1/2012"
+  },
+  {
+    "title": "Samsung SSD 840: Preliminary Benchmarks",
+    "comment": "12",
+    "author": "by Kristian V\u00e4tt\u00f6",
+    "date": "9/27/2012"
+  },
+  {
+    "title": "Samsung SSD 840 Pro (256GB) Review",
+    "comment": "96",
+    "author": "by Anand Lal Shimpi",
+    "date": "9/24/2012"
+  },
+  {
+    "title": "Samsung Releases TLC NAND Based 840 SSD",
+    "comment": "29",
+    "author": "by Kristian V\u00e4tt\u00f6",
+    "date": "9/24/2012"
+  },
+  {
+    "title": "Samsung's Galaxy Note II: Coming to Five US Carriers in Mid-November",
+    "comment": "11",
+    "author": "by Anand Lal Shimpi",
+    "date": "9/19/2012"
+  },
+  {
+    "title": "Samsung Galaxy Note 2 Hands On",
+    "comment": "50",
+    "author": "by Anand Lal Shimpi",
+    "date": "9/11/2012"
+  },
+  {
+    "title": "Samsung Reveals Additional Details on Series 5 and 7 Slates and Ultrabooks",
+    "comment": "18",
+    "author": "by Jarred Walt",
+    "date": "8/31/2012"
+  },
+  {
+    "title": "Samsung Galaxy Note II Revealed at IFA 2012",
+    "comment": "15",
+    "author": "by Jas Inofuentes",
+    "date": "8/29/2012"
+  },
+  {
+    "title": "Samsung ATIV Line Outed at IFA: Windows 8, RT and Phone 8 Devices Revealed",
+    "comment": "9",
+    "author": "by Jas Inofuentes",
+    "date": "8/29/2012"
+  },
+  {
+    "title": "Samsung Introduces 64GB UHS-I microSD and SD Cards",
+    "comment": "5",
+    "author": "by Stefan Cstantinescu",
+    "date": "8/29/2012"
+  },
+  {
+    "title": "Samsung Series 7 NP700Z7C Review",
+    "comment": "50",
+    "author": "by Jarred Walt",
+    "date": "8/16/2012"
+  },
+  {
+    "title": "Live from Samsung's Galaxy Note 10.1 Launch",
+    "comment": "43",
+    "author": "by Anand Lal Shimpi",
+    "date": "8/15/2012"
+  },
+  {
+    "title": "LRDIMMs, RDIMMs, and Supermicro's Latest Twin",
+    "comment": "26",
+    "author": "by Johan De Gelas",
+    "date": "8/3/2012"
+  },
+  {
+    "title": "Samsung To Sell Developer Edition Verizon Galaxy S III with Unlockable Bootloader",
+    "comment": "18",
+    "author": "by Brian Klug",
+    "date": "7/10/2012"
+  },
+  {
+    "title": "Samsung's Galaxy S 3 US Marketing Focuses On Features",
+    "comment": "14",
+    "author": "by Jas Inofuentes",
+    "date": "6/20/2012"
+  },
+  {
+    "title": "Samsung Galaxy S III Review - AT&T and T-Mobile USA Variants",
+    "comment": "107",
+    "author": "by Brian Klug",
+    "date": "6/20/2012"
+  },
+  {
+    "title": "Samsung Announces TecTiles - Programmable NFC Tags and Application",
+    "comment": "9",
+    "author": "by Brian Klug",
+    "date": "6/13/2012"
+  },
+  {
+    "title": "The New MacBook Air Uses Toshiba's SATA 6Gb/s SSDs UPDATE: Samsung Too",
+    "comment": "10",
+    "author": "by Kristian V\u00e4tt\u00f6",
+    "date": "6/12/2012"
+  },
+  {
+    "title": "Verizon, T-Mobile, Sprint, and US Cellular Announce More Galaxy S III Details | Update: AT&T As Well",
+    "comment": "15",
+    "author": "by Brian Klug",
+    "date": "6/4/2012"
+  },
+  {
+    "title": "Samsung Makes Canadian SGS3 Variants with Krait Official",
+    "comment": "38",
+    "author": "by Brian Klug",
+    "date": "5/31/2012"
+  },
+  {
+    "title": "The Samsung Galaxy S III Preview",
+    "comment": "126",
+    "author": "by Brian Klug",
+    "date": "5/3/2012"
+  },
+  {
+    "title": "Samsung Galaxy S III Performance Preview: It's Fast",
+    "comment": "94",
+    "author": "by Brian Klug & Anand Lal Shimpi",
+    "date": "5/3/2012"
+  },
+  {
+    "title": "Samsung Galaxy S III Announced - 3G HSPA+ Version Available May 29, 4G LTE This Summer",
+    "comment": "19",
+    "author": "by Brian Klug",
+    "date": "5/3/2012"
+  },
+  {
+    "title": "The Samsung Galaxy S III Revealed: 4.8\" HD SuperAMOLED, Exynos 4 Quad, Available 5/29 in Europe",
+    "comment": "57",
+    "author": "by Jas Inofuentes",
+    "date": "5/3/2012"
+  },
+  {
+    "title": "Exynos 4 Quad 1.4 GHz 32nm HKMG Announced for Next Galaxy Smartphone",
+    "comment": "44",
+    "author": "by Brian Klug",
+    "date": "4/25/2012"
+  },
+  {
+    "title": "Apple's iPad 2,4 also uses 32nm A5 S5L8942 SoC",
+    "comment": "28",
+    "author": "by Brian Klug",
+    "date": "4/11/2012"
+  },
+  {
+    "title": "The 2012 iPad Followup: Galaxy Tab 10.1 LTE Comparison",
+    "comment": "52",
+    "author": "by Anand Lal Shimpi",
+    "date": "4/2/2012"
+  },
+  {
+    "title": "Samsung Announces SGS2 GT-I9100 ICS Update Hitting March 10th - Update: Not March 10th",
+    "comment": "28",
+    "author": "by Brian Klug",
+    "date": "3/8/2012"
+  },
+  {
+    "title": "Samsung Galaxy Note 10.1 Revealed at MWC",
+    "comment": "10",
+    "author": "by Jas Inofuentes",
+    "date": "2/27/2012"
+  },
+  {
+    "title": "Samsung Fleshes Out Tab 2 Line and Unveils Galaxy Beam",
+    "comment": "12",
+    "author": "by Jas Inofuentes",
+    "date": "2/26/2012"
+  },
+  {
+    "title": "Samsung Galaxy Ace 2 and mini 2 Announced: Mystery SoC Within",
+    "comment": "7",
+    "author": "by Jas Inofuentes",
+    "date": "2/22/2012"
+  },
+  {
+    "title": "LG's Optimus Vu Takes On Samsung's Galaxy Note: Are You Ready For A 5.x\" Phone?",
+    "comment": "32",
+    "author": "by Jas Inofuentes",
+    "date": "2/20/2012"
+  },
+  {
+    "title": "Samsung Refreshes Galaxy Tab Again: Dual-Core, No Plus",
+    "comment": "8",
+    "author": "by Jas Inofuentes",
+    "date": "2/13/2012"
+  },
+  {
+    "title": "US Cellular Announces Initial 4G LTE Markets, Devices",
+    "comment": "4",
+    "author": "by Brian Klug",
+    "date": "2/1/2012"
+  },
+  {
+    "title": "Samsung Announces Galaxy S Advance",
+    "comment": "14",
+    "author": "by Kristian V\u00e4tt\u00f6",
+    "date": "1/30/2012"
+  },
+  {
+    "title": "Samsung Exynos 5250 Begins Sampling \u2013 Mass Production in Q2 2012",
+    "comment": "32",
+    "author": "by Saumitra Bhagwat",
+    "date": "1/27/2012"
+  },
+  {
+    "title": "Samsung Updates the Firmware of SSD 830 Series, Fixes BSOD Issue",
+    "comment": "24",
+    "author": "by Kristian V\u00e4tt\u00f6",
+    "date": "1/23/2012"
+  },
+  {
+    "title": "Samsung Launches Series 9 All-in-One PC",
+    "comment": "15",
+    "author": "by Kristian V\u00e4tt\u00f6",
+    "date": "1/22/2012"
+  },
+  {
+    "title": "Samsung Galaxy Nexus & Ice Cream Sandwich Review",
+    "comment": "187",
+    "author": "by Brian Klug & Anand Lal Shimpi",
+    "date": "1/18/2012"
+  },
+  {
+    "title": "Hands on with Samsung's Line of New Notebooks",
+    "comment": "18",
+    "author": "by Vivek Gowri",
+    "date": "1/14/2012"
+  },
+  {
+    "title": "Hands-on with the Samsung Series 9",
+    "comment": "7",
+    "author": "by Jas Inofuentes",
+    "date": "1/10/2012"
+  },
+  {
+    "title": "Hands-on with the Galaxy Tab 7.7 LTE and Galaxy Note",
+    "comment": "4",
+    "author": "by Jas Inofuentes",
+    "date": "1/10/2012"
+  },
+  {
+    "title": "Samsung Galaxy Note Joining AT&T's Stables",
+    "comment": "3",
+    "author": "by Jas Inofuentes",
+    "date": "1/9/2012"
+  },
+  {
+    "title": "Samsung Announces Series 7 and Series 9 Monitors",
+    "comment": "8",
+    "author": "by Kristian V\u00e4tt\u00f6",
+    "date": "1/8/2012"
+  },
+  {
+    "title": "Roku Streaming Stick Brings Smarts To MHL Equipped TVs",
+    "comment": "3",
+    "author": "by Jas Inofuentes",
+    "date": "1/5/2012"
+  },
+  {
+    "title": "Samsung Galaxy Note Gets ICS-based CyanogenMod 9 Build",
+    "comment": "6",
+    "author": "by Andrew Cunningham",
+    "date": "1/3/2012"
+  },
+  {
+    "title": "Samsung Promises Ice Cream Sandwich By 1Q12 For SGSII & Galaxy Note",
+    "comment": "20",
+    "author": "by Jas Inofuentes",
+    "date": "12/20/2011"
+  },
+  {
+    "title": "Samsung S23A750D 3D LCD Display",
+    "comment": "82",
+    "author": "by Chris Heinen",
+    "date": "12/17/2011"
+  },
+  {
+    "title": "Samsung's PM830 Coming To Ultrabooks in 2012",
+    "comment": "4",
+    "author": "by Jas Inofuentes",
+    "date": "12/2/2011"
+  },
+  {
+    "title": "Holiday 2011 Laptop Buyer\u2019s Guide",
+    "comment": "88",
+    "author": "by Jarred Walt",
+    "date": "12/2/2011"
+  },
+  {
+    "title": "Samsung Exynos 5250 Announced: Cortex-A15, 2GHz, Dual-core",
+    "comment": "25",
+    "author": "by Jas Inofuentes",
+    "date": "11/30/2011"
+  },
+  {
+    "title": "Affordable Chromebooks for the Holidays",
+    "comment": "16",
+    "author": "by Jarred Walt",
+    "date": "11/21/2011"
+  },
+  {
+    "title": "Galaxy Nexus & Ice Cream Sandwich: Initial Performance Analysis",
+    "comment": "70",
+    "author": "by Anand Lal Shimpi",
+    "date": "11/18/2011"
+  },
+  {
+    "title": "Samsung Surface SUR40 Available for Preorder",
+    "comment": "17",
+    "author": "by Jarred Walt",
+    "date": "11/18/2011"
+  },
+  {
+    "title": "Samsung and AT&T Announce Galaxy Tab 8.9, Six new LTE Markets",
+    "comment": "9",
+    "author": "by Brian Klug",
+    "date": "11/14/2011"
+  },
+  {
+    "title": "Samsung Licenses PowerVR SGX MP from Imagination Technologies",
+    "comment": "18",
+    "author": "by Anand Lal Shimpi",
+    "date": "11/10/2011"
+  },
+  {
+    "title": "T-Mobile Introduce HSPA+ Equipped Samsung Galaxy Tab 7.0 Plus",
+    "comment": "5",
+    "author": "by Jas Inofuentes",
+    "date": "11/8/2011"
+  },
+  {
+    "title": "Confirmed: Samsung Galaxy Tab 7.0 Plus Uses Exynos SoC",
+    "comment": "23",
+    "author": "by Jas Inofuentes",
+    "date": "11/2/2011"
+  },
+  {
+    "title": "Samsung Bringing Galaxy Tab 7.0 Plus To US: 1.2 GHz Dual-Core Tablet For $399",
+    "comment": "13",
+    "author": "by Jas Inofuentes",
+    "date": "10/21/2011"
+  },
+  {
+    "title": "Confirmed: Galaxy Nexus Includes PenTile",
+    "comment": "152",
+    "author": "by Brian Klug & Jas Inofuentes",
+    "date": "10/21/2011"
+  },
+  {
+    "title": "Samsung Focus S & Flash: Official Images, 1.4GHz Mango Devices Shipping This Fall",
+    "comment": "13",
+    "author": "by Anand Lal Shimpi",
+    "date": "10/19/2011"
+  },
+  {
+    "title": "Samsung Galaxy Nexus Officially Announced",
+    "comment": "52",
+    "author": "by Brian Klug",
+    "date": "10/18/2011"
+  },
+  {
+    "title": "Samsung and Google Android Event Moved to October 19",
+    "comment": "20",
+    "author": "by Andrew Cunningham",
+    "date": "10/13/2011"
+  },
+  {
+    "title": "CTIA: AT&T Outs 5 New Android Phones, Atrix 2 for $99 on-contract",
+    "comment": "5",
+    "author": "by Jas Inofuentes",
+    "date": "10/11/2011"
+  },
+  {
+    "title": "Samsung Stratosphere: LTE and QWERTY for $149 [UPDATED]",
+    "comment": "11",
+    "author": "by Jas Inofuentes",
+    "date": "10/10/2011"
+  },
+  {
+    "title": "Samsung and Google Cancel Unpacked Event - May Delay Nexus Prime and Ice Cream Sandwich",
+    "comment": "30",
+    "author": "by Kristian V\u00e4tt\u00f6",
+    "date": "10/7/2011"
+  },
+  {
+    "title": "Samsung Teases Nexus Prime in Video Form",
+    "comment": "19",
+    "author": "by Brian Klug",
+    "date": "10/5/2011"
+  },
+  {
+    "title": "Samsung Gives Portability Another Try with Galaxy Tab 7.0 Plus",
+    "comment": "11",
+    "author": "by Anand Lal Shimpi",
+    "date": "9/30/2011"
+  },
+  {
+    "title": "Samsung Talks About 32nm 1.5GHz Exynos SoC",
+    "comment": "14",
+    "author": "by Anand Lal Shimpi",
+    "date": "9/29/2011"
+  },
+  {
+    "title": "Introducing the Tizen Project",
+    "comment": "10",
+    "author": "by Anand Lal Shimpi",
+    "date": "9/28/2011"
+  },
+  {
+    "title": "Hands-on With The Galaxy Tab 8.9",
+    "comment": "33",
+    "author": "by Jas Inofuentes",
+    "date": "9/27/2011"
+  },
+  {
+    "title": "Samsung Galaxy Player 4.0 & 5.0, Available October 16",
+    "comment": "32",
+    "author": "by Anand Lal Shimpi",
+    "date": "9/26/2011"
+  },
+  {
+    "title": "The Wait is Over: Samsung Announces the Galaxy Tab 8.9",
+    "comment": "18",
+    "author": "by Anand Lal Shimpi",
+    "date": "9/26/2011"
+  },
+  {
+    "title": "The Samsung SSD 830 Review",
+    "comment": "100",
+    "author": "by Anand Lal Shimpi",
+    "date": "9/24/2011"
+  },
+  {
+    "title": "Samsung Confirms APQ8060 for T-Mobile Galaxy S 2",
+    "comment": "13",
+    "author": "by Brian Klug",
+    "date": "9/13/2011"
+  },
+  {
+    "title": "Samsung's Galaxy S 2: The Smoothest Scrolling Android Device Around",
+    "comment": "13",
+    "author": "by Anand Lal Shimpi",
+    "date": "9/12/2011"
+  },
+  {
+    "title": "ARM's Mali-400 MP4 is the Fastest Smartphone GPU...for Now",
+    "comment": "30",
+    "author": "by Anand Lal Shimpi",
+    "date": "9/11/2011"
+  },
+  {
+    "title": "Samsung Galaxy S 2 (International) Review - The Best, Redefined",
+    "comment": "133",
+    "author": "by Brian Klug & Anand Lal Shimpi",
+    "date": "9/11/2011"
+  },
+  {
+    "title": "Dell Precision Mobile Workstations: Now with Larger and Faster SSDs",
+    "comment": "9",
+    "author": "by Jarred Walt",
+    "date": "9/8/2011"
+  },
+  {
+    "title": "IFA 2011: Samsung Keynote Introduces Galaxy Note, Galaxy Tab 7.7 and Wave 3",
+    "comment": "18",
+    "author": "by Jas Inofuentes",
+    "date": "9/1/2011"
+  },
+  {
+    "title": "Samsung Releases Series 7 Laptops: Aluminum Body and SSD Caching",
+    "comment": "55",
+    "author": "by Kristian V\u00e4tt\u00f6",
+    "date": "8/31/2011"
+  },
+  {
+    "title": "Hands on with the US-bound Samsung Galaxy S IIs",
+    "comment": "36",
+    "author": "by Jas Inofuentes",
+    "date": "8/31/2011"
+  },
+  {
+    "title": "Why I Believe T-Mobile's Galaxy S II Uses a Qualcomm SoC",
+    "comment": "8",
+    "author": "by Brian Klug",
+    "date": "8/31/2011"
+  },
+  {
+    "title": "USA Samsung Galaxy S II Variants Announced",
+    "comment": "21",
+    "author": "by Brian Klug",
+    "date": "8/30/2011"
+  },
+  {
+    "title": "Samsung Announces Galaxy S II LTE and Tab 8.9 LTE for IFA",
+    "comment": "9",
+    "author": "by Jas Inofuentes",
+    "date": "8/28/2011"
+  },
+  {
+    "title": "Verizon Will Be Absent From Galaxy S II Reveal",
+    "comment": "10",
+    "author": "by Jas Inofuentes",
+    "date": "8/25/2011"
+  },
+  {
+    "title": "WiFi Galaxy Tab 10.1 Gets Improved GPU Performance With TouchWiz UX",
+    "comment": "7",
+    "author": "by Jas Inofuentes",
+    "date": "8/22/2011"
+  },
+  {
+    "title": "Meet the 6Gbps Samsung SSD 830: The Consumer PM830",
+    "comment": "22",
+    "author": "by Anand Lal Shimpi",
+    "date": "8/17/2011"
+  },
+  {
+    "title": "Samsung Releases White Galaxy S II",
+    "comment": "24",
+    "author": "by Kristian V\u00e4tt\u00f6",
+    "date": "8/16/2011"
+  },
+  {
+    "title": "Samsung Galaxy Tab 10.1 4G LTE Review",
+    "comment": "41",
+    "author": "by Anand Lal Shimpi",
+    "date": "8/15/2011"
+  },
+  {
+    "title": "Samsung Announces PM830, Its First 6Gbps SSD with up to 512GB Capacities",
+    "comment": "4",
+    "author": "by Anand Lal Shimpi",
+    "date": "8/10/2011"
+  },
+  {
+    "title": "Samsung Galaxy R Announced - A Tegra 2 Smartphone",
+    "comment": "9",
+    "author": "by Brian Klug",
+    "date": "8/10/2011"
+  },
+  {
+    "title": "Samsung TouchWiz UX Review: Honeycomb Gets Skinned",
+    "comment": "32",
+    "author": "by Jas Inofuentes",
+    "date": "8/5/2011"
+  },
+  {
+    "title": "TouchWiz UX Takes NYC (And The Tab 10.1)",
+    "comment": "9",
+    "author": "by Jas Inofuentes",
+    "date": "8/3/2011"
+  },
+  {
+    "title": "The Summer of Honeycomb, Part 3: Win a Samsung Galaxy Tab 10.1",
+    "comment": "2820",
+    "author": "by Anand Lal Shimpi",
+    "date": "7/29/2011"
+  },
+  {
+    "title": "Samsung's TouchWiz Hits NYC And Tab 10.1 On August 3rd",
+    "comment": "4",
+    "author": "by Jas Inofuentes",
+    "date": "7/27/2011"
+  },
+  {
+    "title": "2011 MacBook Air SSD Features the Same Controller as Samsung 470",
+    "comment": "0",
+    "author": "by Kristian V\u00e4tt\u00f6",
+    "date": "7/27/2011"
+  },
+  {
+    "title": "Verizon Bringing 4G to Galaxy Tab 10.1, HP DM1 and Radio Shack",
+    "comment": "19",
+    "author": "by Jas Inofuentes",
+    "date": "7/26/2011"
+  },
+  {
+    "title": "Samsung Droid Charge Review - Droid Goes LTE",
+    "comment": "61",
+    "author": "by Brian Klug",
+    "date": "6/22/2011"
+  },
+  {
+    "title": "Samsung Central Station: The Future of Laptop Docking?",
+    "comment": "50",
+    "author": "by Kristian V\u00e4tt\u00f6",
+    "date": "6/14/2011"
+  },
+  {
+    "title": "Samsung Galaxy Tab 10.1 Review: The Sleekest Honeycomb Tablet",
+    "comment": "108",
+    "author": "by Anand Lal Shimpi",
+    "date": "6/13/2011"
+  },
+  {
+    "title": "Battle of the Budget Tablets - Nook Color vs. Galaxy Tab",
+    "comment": "89",
+    "author": "by Vivek Gowri",
+    "date": "5/25/2011"
+  },
+  {
+    "title": "Google I/O 2011: Chrome OS Highlights",
+    "comment": "40",
+    "author": "by Nirdhar Khazanie",
+    "date": "5/11/2011"
+  },
+  {
+    "title": "This Just In: Samsung Droid Charge - The First Verizon 4G LTE Droid",
+    "comment": "42",
+    "author": "by Brian Klug",
+    "date": "5/3/2011"
+  },
+  {
+    "title": "Verizon 4G LTE: Two Datacards and a WiFi Hotspot Massively Reviewed",
+    "comment": "32",
+    "author": "by Brian Klug",
+    "date": "4/27/2011"
+  },
+  {
+    "title": "Apple Now Using Samsung SSDs in MacBook Air?",
+    "comment": "33",
+    "author": "by Kristian V\u00e4tt\u00f6",
+    "date": "4/15/2011"
+  },
+  {
+    "title": "Samsung's Galaxy Tab 10.1 & 8.9, Smaller than iPad 2, Competitively Priced",
+    "comment": "73",
+    "author": "by Anand Lal Shimpi",
+    "date": "3/22/2011"
+  },
+  {
+    "title": "Samsung's Tegra 2 Superphone: The GT-I9103",
+    "comment": "29",
+    "author": "by Anand Lal Shimpi",
+    "date": "2/16/2011"
+  },
+  {
+    "title": "Samsung's Galaxy S II Preliminary Performance: Mali-400MP Benchmarked",
+    "comment": "63",
+    "author": "by Anand Lal Shimpi & Brian Klug",
+    "date": "2/14/2011"
+  },
+  {
+    "title": "Hands on with the Samsung Galaxy S II & Galaxy Tab 10.1",
+    "comment": "25",
+    "author": "by Anand Lal Shimpi",
+    "date": "2/13/2011"
+  },
+  {
+    "title": "Samsung Galaxy Tab - The AnandTech Review",
+    "comment": "97",
+    "author": "by Vivek Gowri",
+    "date": "12/23/2010"
+  },
+  {
+    "title": "Nexus S and Android 2.3 Review: Gingerbread for the Holidays",
+    "comment": "75",
+    "author": "by Brian Klug",
+    "date": "12/14/2010"
+  },
+  {
+    "title": "LG's Optimus 7 & Samsung's Focus Reviewed: A Tale of Two Windows Phones",
+    "comment": "34",
+    "author": "by Anand Lal Shimpi",
+    "date": "12/3/2010"
+  },
+  {
+    "title": "Samsung Fascinate Review: Verizon's Galaxy S Smartphone",
+    "comment": "73",
+    "author": "by Brian Klug",
+    "date": "10/5/2010"
+  },
+  {
+    "title": "Going Out of Order: Samsung Announces Orion Cortex A9 SoC",
+    "comment": "14",
+    "author": "by Anand Lal Shimpi",
+    "date": "9/7/2010"
+  },
+  {
+    "title": "Samsung Epic 4G Review: The Fastest Android Phone",
+    "comment": "98",
+    "author": "by Anand Lal Shimpi",
+    "date": "9/6/2010"
+  },
+  {
+    "title": "Samsung's N210: Where the Matte Finish Went",
+    "comment": "24",
+    "author": "by Dustin Sklavos",
+    "date": "7/28/2010"
+  },
+  {
+    "title": "Apple's Intrinsity Acquisition: Winners and Losers",
+    "comment": "24",
+    "author": "by Ganesh T S",
+    "date": "4/28/2010"
+  }
+]

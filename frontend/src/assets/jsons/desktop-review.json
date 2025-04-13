@@ -1,0 +1,416 @@
+[
+  {
+    "title": "Lenovo ThinkStation P620 Review: A Vehicle for Threadripper Pro",
+    "comment": "48",
+    "author": "by Dr. Ian Cutress",
+    "date": "2/16/2021"
+  },
+  {
+    "title": "ZOTAC\u2019s Streaming Mini-PC, the MI553B, with Integrated AVerMedia Capture Card",
+    "comment": "7",
+    "author": "by Ian Cutress",
+    "date": "1/22/2019"
+  },
+  {
+    "title": "CES 2019: Digital Storm Spark, a \u2018Mini-ITX\u2019 with MXM RTX 2080",
+    "comment": "9",
+    "author": "by Ian Cutress",
+    "date": "1/22/2019"
+  },
+  {
+    "title": "A Quick Look at the Subor Z+ Console/PC Hybrid: A Custom AMD SoC Called FireFlight",
+    "comment": "42",
+    "author": "by Ian Cutress",
+    "date": "9/19/2018"
+  },
+  {
+    "title": "Acer Wants To Sell a Dual Xeon Predator X System: Please No",
+    "comment": "37",
+    "author": "by Ian Cutress",
+    "date": "8/29/2018"
+  },
+  {
+    "title": "More Details About the ZhongShan Subor Z+ Console, with Custom AMD Ryzen SoC",
+    "comment": "36",
+    "author": "by Ian Cutress",
+    "date": "8/6/2018"
+  },
+  {
+    "title": "AMD Creates Quad Core Zen SoC with 24 Vega CUs for Chinese Consoles",
+    "comment": "58",
+    "author": "by Ian Cutress",
+    "date": "8/3/2018"
+  },
+  {
+    "title": "Acer Announces AMD Gaming Lineup For Computex 2018",
+    "comment": "6",
+    "author": "by Brett Howse",
+    "date": "6/1/2018"
+  },
+  {
+    "title": "HP Envy 27-Inch AIO Updates: Six-Core Coffee Lake, 4K Display, NVMe",
+    "comment": "6",
+    "author": "by Ant Shilov",
+    "date": "5/14/2018"
+  },
+  {
+    "title": "ASUS ROG Spring System Updates: Gaming Big and Small",
+    "comment": "17",
+    "author": "by Ant Shilov & Joe Shields",
+    "date": "4/6/2018"
+  },
+  {
+    "title": "Acer Announces the Aspire S24 AIO: 8th Gen Intel CPU, Wireless Charging",
+    "comment": "7",
+    "author": "by Joe Shields",
+    "date": "9/1/2017"
+  },
+  {
+    "title": "Samsung ArtPC: Cylindrical PC with 360\u00ba audio, i5/i7 plus NVMe, Preorders from $1200",
+    "comment": "46",
+    "author": "by Ian Cutress",
+    "date": "10/10/2016"
+  },
+  {
+    "title": "An Anecdotal Musing of Brick and Mortar AMD Notebook Offerings",
+    "comment": "40",
+    "author": "by Ian Cutress",
+    "date": "9/19/2016"
+  },
+  {
+    "title": "Hands On with ASUS ROG Avalon: A Teardown Video",
+    "comment": "41",
+    "author": "by Ian Cutress",
+    "date": "9/2/2016"
+  },
+  {
+    "title": "CES 2016: ASRock Shows mini-STX 5x5 for Business and Education",
+    "comment": "29",
+    "author": "by Ian Cutress",
+    "date": "1/21/2016"
+  },
+  {
+    "title": "ASUS Booth Tour at CES 2016: 10G Switches, External GPU Dock, USB-C Monitor and more",
+    "comment": "50",
+    "author": "by Ian Cutress",
+    "date": "1/19/2016"
+  },
+  {
+    "title": "CES 2016: MSI\u2019s Vortex Gaming PC on Display and It Looks Almost Like a Mac Pro",
+    "comment": "28",
+    "author": "by Ian Cutress",
+    "date": "1/14/2016"
+  },
+  {
+    "title": "CES 2016: 34-inch 3440x1440 AIO Hands-On at GIGABYTE",
+    "comment": "27",
+    "author": "by Ian Cutress",
+    "date": "1/14/2016"
+  },
+  {
+    "title": "CES 2016: MSI\u2019s 27-inch 4K Gaming AIO with Full Sized Discrete GPU, the 27XT 6QE",
+    "comment": "13",
+    "author": "by Ian Cutress",
+    "date": "1/14/2016"
+  },
+  {
+    "title": "Lenovo ThinkStation P620 Review: A Vehicle for Threadripper Pro",
+    "comment": "48",
+    "author": "by Dr. Ian Cutress",
+    "date": "2/16/2021"
+  },
+  {
+    "title": "ZOTAC\u2019s Streaming Mini-PC, the MI553B, with Integrated AVerMedia Capture Card",
+    "comment": "7",
+    "author": "by Ian Cutress",
+    "date": "1/22/2019"
+  },
+  {
+    "title": "CES 2019: Digital Storm Spark, a \u2018Mini-ITX\u2019 with MXM RTX 2080",
+    "comment": "9",
+    "author": "by Ian Cutress",
+    "date": "1/22/2019"
+  },
+  {
+    "title": "A Quick Look at the Subor Z+ Console/PC Hybrid: A Custom AMD SoC Called FireFlight",
+    "comment": "42",
+    "author": "by Ian Cutress",
+    "date": "9/19/2018"
+  },
+  {
+    "title": "Acer Wants To Sell a Dual Xeon Predator X System: Please No",
+    "comment": "37",
+    "author": "by Ian Cutress",
+    "date": "8/29/2018"
+  },
+  {
+    "title": "More Details About the ZhongShan Subor Z+ Console, with Custom AMD Ryzen SoC",
+    "comment": "36",
+    "author": "by Ian Cutress",
+    "date": "8/6/2018"
+  },
+  {
+    "title": "AMD Creates Quad Core Zen SoC with 24 Vega CUs for Chinese Consoles",
+    "comment": "58",
+    "author": "by Ian Cutress",
+    "date": "8/3/2018"
+  },
+  {
+    "title": "Acer Announces AMD Gaming Lineup For Computex 2018",
+    "comment": "6",
+    "author": "by Brett Howse",
+    "date": "6/1/2018"
+  },
+  {
+    "title": "HP Envy 27-Inch AIO Updates: Six-Core Coffee Lake, 4K Display, NVMe",
+    "comment": "6",
+    "author": "by Ant Shilov",
+    "date": "5/14/2018"
+  },
+  {
+    "title": "ASUS ROG Spring System Updates: Gaming Big and Small",
+    "comment": "17",
+    "author": "by Ant Shilov & Joe Shields",
+    "date": "4/6/2018"
+  },
+  {
+    "title": "Acer Announces the Aspire S24 AIO: 8th Gen Intel CPU, Wireless Charging",
+    "comment": "7",
+    "author": "by Joe Shields",
+    "date": "9/1/2017"
+  },
+  {
+    "title": "Samsung ArtPC: Cylindrical PC with 360\u00ba audio, i5/i7 plus NVMe, Preorders from $1200",
+    "comment": "46",
+    "author": "by Ian Cutress",
+    "date": "10/10/2016"
+  },
+  {
+    "title": "An Anecdotal Musing of Brick and Mortar AMD Notebook Offerings",
+    "comment": "40",
+    "author": "by Ian Cutress",
+    "date": "9/19/2016"
+  },
+  {
+    "title": "Hands On with ASUS ROG Avalon: A Teardown Video",
+    "comment": "41",
+    "author": "by Ian Cutress",
+    "date": "9/2/2016"
+  },
+  {
+    "title": "CES 2016: ASRock Shows mini-STX 5x5 for Business and Education",
+    "comment": "29",
+    "author": "by Ian Cutress",
+    "date": "1/21/2016"
+  },
+  {
+    "title": "ASUS Booth Tour at CES 2016: 10G Switches, External GPU Dock, USB-C Monitor and more",
+    "comment": "50",
+    "author": "by Ian Cutress",
+    "date": "1/19/2016"
+  },
+  {
+    "title": "CES 2016: MSI\u2019s Vortex Gaming PC on Display and It Looks Almost Like a Mac Pro",
+    "comment": "28",
+    "author": "by Ian Cutress",
+    "date": "1/14/2016"
+  },
+  {
+    "title": "CES 2016: 34-inch 3440x1440 AIO Hands-On at GIGABYTE",
+    "comment": "27",
+    "author": "by Ian Cutress",
+    "date": "1/14/2016"
+  },
+  {
+    "title": "CES 2016: MSI\u2019s 27-inch 4K Gaming AIO with Full Sized Discrete GPU, the 27XT 6QE",
+    "comment": "13",
+    "author": "by Ian Cutress",
+    "date": "1/14/2016"
+  },
+  {
+    "title": "CES 2016: GIGABYTE\u2019s Double Length Gaming BRIX",
+    "comment": "12",
+    "author": "by Ian Cutress",
+    "date": "1/12/2016"
+  },
+  {
+    "title": "The Lenovo ThinkStation P900 Workstation Review: Design 101",
+    "comment": "61",
+    "author": "by Ian Cutress",
+    "date": "5/6/2015"
+  },
+  {
+    "title": "ASUS GR Series Goes Broadwell i5-5200U: The GR6",
+    "comment": "25",
+    "author": "by Ian Cutress",
+    "date": "4/15/2015"
+  },
+  {
+    "title": "Dell CES Hands On",
+    "comment": "19",
+    "author": "by Brett Howse",
+    "date": "1/7/2015"
+  },
+  {
+    "title": "Lenovo ThinkStation P300 Workstation Review: Haswell plus Quadro",
+    "comment": "57",
+    "author": "by Ian Cutress",
+    "date": "11/4/2014"
+  },
+  {
+    "title": "IFA 2014 Lenovo Announcements - Android Tablet, Gaming Laptop, Gaming Desktop",
+    "comment": "27",
+    "author": "by Brett Howse",
+    "date": "9/3/2014"
+  },
+  {
+    "title": "Alienware Reveals New Area-51 Design",
+    "comment": "36",
+    "author": "by Brett Howse",
+    "date": "8/29/2014"
+  },
+  {
+    "title": "Lenovo Announces Trio Of Business PCs",
+    "comment": "19",
+    "author": "by Brett Howse",
+    "date": "8/22/2014"
+  },
+  {
+    "title": "Intel Q2 2014 Quarterly Earnings Analysis",
+    "comment": "33",
+    "author": "by Brett Howse",
+    "date": "7/15/2014"
+  },
+  {
+    "title": "ASUS Launches Two SFF ROG Gaming PCs: The G20 PC and the GR8 \u2018Console\u2019",
+    "comment": "12",
+    "author": "by Ian Cutress",
+    "date": "6/2/2014"
+  },
+  {
+    "title": "DigitalStorm Slade Pro Workstation PC Review",
+    "comment": "52",
+    "author": "by Dustin Sklavos",
+    "date": "4/23/2014"
+  },
+  {
+    "title": "SilverStone ML04 & ML05 Slim HTPC Cases Review",
+    "comment": "39",
+    "author": "by E. Fylladitakis",
+    "date": "4/18/2014"
+  },
+  {
+    "title": "AVADirect Deluxe Quiet Gaming Desktop PC Review",
+    "comment": "33",
+    "author": "by Dustin Sklavos",
+    "date": "2/23/2014"
+  },
+  {
+    "title": "Analyzing the Price of Mobility: Desktops vs. Laptops",
+    "comment": "110",
+    "author": "by Jarred Walt",
+    "date": "9/7/2013"
+  },
+  {
+    "title": "Lenovo Announces New ThinkCentre AIOs and Desktops",
+    "comment": "8",
+    "author": "by Jarred Walt",
+    "date": "8/28/2013"
+  },
+  {
+    "title": "CyberPowerPC Gamer Xtreme 5200 Desktop Review",
+    "comment": "18",
+    "author": "by Dustin Sklavos",
+    "date": "8/22/2013"
+  },
+  {
+    "title": "Haswell and GK110 vs. Ivy and GK104: DigitalStorm Virtue System Review",
+    "comment": "70",
+    "author": "by Dustin Sklavos",
+    "date": "6/23/2013"
+  },
+  {
+    "title": "Computex 2013: ASRock's M8 mini-ITX Gaming PC",
+    "comment": "19",
+    "author": "by Anand Lal Shimpi",
+    "date": "6/10/2013"
+  },
+  {
+    "title": "AMD Richland Desktop APUs Now Available",
+    "comment": "42",
+    "author": "by Jarred Walt",
+    "date": "6/5/2013"
+  },
+  {
+    "title": "Intel\u2019s Haswell: Quad-Core Desktop Processor SKUs",
+    "comment": "25",
+    "author": "by Jarred Walt",
+    "date": "6/1/2013"
+  },
+  {
+    "title": "Puget Systems Genesis II Quiet Workstation Review",
+    "comment": "18",
+    "author": "by Dustin Sklavos",
+    "date": "5/22/2013"
+  },
+  {
+    "title": "NVIDIA R319 Series Beta Driver 320.00 Available",
+    "comment": "15",
+    "author": "by Jarred Walt",
+    "date": "4/23/2013"
+  },
+  {
+    "title": "Origin Genesis Review: Triple Titan Terror",
+    "comment": "63",
+    "author": "by Ryan Smith",
+    "date": "4/23/2013"
+  },
+  {
+    "title": "CompuLab Intense PC System Review: Fanless Ivy Bridge",
+    "comment": "44",
+    "author": "by Dustin Sklavos",
+    "date": "4/20/2013"
+  },
+  {
+    "title": "V3 Gaming PC Avenger Review: A New Challenger Appears",
+    "comment": "32",
+    "author": "by Dustin Sklavos",
+    "date": "5/16/2012"
+  },
+  {
+    "title": "Dell Reveals Ivy Bridge for XPS and Vostro Desktops, Inspiron Laptops",
+    "comment": "18",
+    "author": "by Jarred Walt",
+    "date": "5/2/2012"
+  },
+  {
+    "title": "iBUYPOWER Erebus GT: Custom Cooling for Less",
+    "comment": "37",
+    "author": "by Dustin Sklavos",
+    "date": "3/15/2012"
+  },
+  {
+    "title": "Samsung Launches Series 9 All-in-One PC",
+    "comment": "15",
+    "author": "by Kristian V\u00e4tt\u00f6",
+    "date": "1/22/2012"
+  },
+  {
+    "title": "Alienware's X51 is Coming",
+    "comment": "27",
+    "author": "by Dustin Sklavos",
+    "date": "1/17/2012"
+  },
+  {
+    "title": "Game Review: Minecraft (PC)",
+    "comment": "21",
+    "author": "by Andrew Cunningham",
+    "date": "11/21/2011"
+  },
+  {
+    "title": "Windows 8 Aims to Improve File Copy Operations",
+    "comment": "39",
+    "author": "by Andrew Cunningham",
+    "date": "8/24/2011"
+  }
+]

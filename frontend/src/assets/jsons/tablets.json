@@ -1,0 +1,4190 @@
+[
+  {
+    "title": "Lenovo CES 2021 ThinkPad X1 Lineup: New Designs, New Displays for Flagship Laptops",
+    "comment": "23",
+    "author": "by Brett Howse",
+    "date": "1/11/2021"
+  },
+  {
+    "title": "Apple Announces new 8th gen iPad with A12, iPad Air with 5nm A14 Chip",
+    "comment": "68",
+    "author": "by Andrei Frumusanu",
+    "date": "9/15/2020"
+  },
+  {
+    "title": "Samsung Announces Galaxy Tab S7 & S7+: S865+ & 120Hz Tablets",
+    "comment": "74",
+    "author": "by Andrei Frumusanu",
+    "date": "8/5/2020"
+  },
+  {
+    "title": "Logitech\u2019s Combo Touch Keyboards, with Trackpad, for the 10.5-Inch iPad, Air and Pro",
+    "comment": "13",
+    "author": "by Ant Shilov",
+    "date": "3/20/2020"
+  },
+  {
+    "title": "Apple Unveils New iPad Pro: A12Z Bionic, Camera w/ Depth Sensor for AR, Keyboard w/ Trackpad",
+    "comment": "59",
+    "author": "by Ant Shilov",
+    "date": "3/18/2020"
+  },
+  {
+    "title": "Huawei Announces New MatePad Pro 5G High-End Tablet",
+    "comment": "14",
+    "author": "by Andrei Frumusanu",
+    "date": "2/24/2020"
+  },
+  {
+    "title": "Compal Develops FlexBook: A Foldable 13-Inch PC with a Hardware Keyboard",
+    "comment": "11",
+    "author": "by Ant Shilov",
+    "date": "2/18/2020"
+  },
+  {
+    "title": "5G Comes to Tablets: The Samsung Galaxy Tab S6 5G",
+    "comment": "9",
+    "author": "by Ant Shilov",
+    "date": "2/3/2020"
+  },
+  {
+    "title": "For Explosive Environments: Dell Latitude 7220EX Rugged Extreme Windows Tablet",
+    "comment": "10",
+    "author": "by Ant Shilov",
+    "date": "12/30/2019"
+  },
+  {
+    "title": "Huawei Launches Flagship MatePad Pro Tablet with Punch-Hole Display",
+    "comment": "25",
+    "author": "by Ant Shilov",
+    "date": "11/26/2019"
+  },
+  {
+    "title": "Dell\u2019s Latitude 7220 Rugged Extreme Tablet Gets Quad-Core CPUs & 1000-Nits Display",
+    "comment": "12",
+    "author": "by Ant Shilov",
+    "date": "11/4/2019"
+  },
+  {
+    "title": "Apple Announces 10.2-Inch, A10-Powered 7th Gen iPad: Launching Sept. 30th for $329",
+    "comment": "47",
+    "author": "by Ryan Smith",
+    "date": "9/10/2019"
+  },
+  {
+    "title": "Samsung Introduces Galaxy Tab S6: 10.5-Inch AMOLED, Snapdragon 855, New S-Pen",
+    "comment": "39",
+    "author": "by Ant Shilov",
+    "date": "8/1/2019"
+  },
+  {
+    "title": "Corning Unveils Astra Glass for 8K Monitors",
+    "comment": "28",
+    "author": "by Ant Shilov",
+    "date": "5/15/2019"
+  },
+  {
+    "title": "Logitech Unveils Slim Folio Pro Keyboard for 3rd Gen iPad Pro",
+    "comment": "11",
+    "author": "by Ant Shilov",
+    "date": "4/4/2019"
+  },
+  {
+    "title": "Alcatel 3T 10 Launched: An Entry Level Android Tablet",
+    "comment": "17",
+    "author": "by Ant Shilov",
+    "date": "2/25/2019"
+  },
+  {
+    "title": "Alldocube X Android Tablet Quick Look: Low-Cost OLED",
+    "comment": "33",
+    "author": "by Brett Howse",
+    "date": "2/19/2019"
+  },
+  {
+    "title": "Samsung Unveils Galaxy Tab S5e: 10.5-Inch sAMOLED with USB-C",
+    "comment": "40",
+    "author": "by Ant Shilov",
+    "date": "2/15/2019"
+  },
+  {
+    "title": "Samsung Teases Foldable Galaxy Smartphone: Galaxy F?",
+    "comment": "25",
+    "author": "by Ant Shilov",
+    "date": "2/1/2019"
+  },
+  {
+    "title": "Lenovo CES 2021 ThinkPad X1 Lineup: New Designs, New Displays for Flagship Laptops",
+    "comment": "23",
+    "author": "by Brett Howse",
+    "date": "1/11/2021"
+  },
+  {
+    "title": "Apple Announces new 8th gen iPad with A12, iPad Air with 5nm A14 Chip",
+    "comment": "68",
+    "author": "by Andrei Frumusanu",
+    "date": "9/15/2020"
+  },
+  {
+    "title": "Samsung Announces Galaxy Tab S7 & S7+: S865+ & 120Hz Tablets",
+    "comment": "74",
+    "author": "by Andrei Frumusanu",
+    "date": "8/5/2020"
+  },
+  {
+    "title": "Logitech\u2019s Combo Touch Keyboards, with Trackpad, for the 10.5-Inch iPad, Air and Pro",
+    "comment": "13",
+    "author": "by Ant Shilov",
+    "date": "3/20/2020"
+  },
+  {
+    "title": "Apple Unveils New iPad Pro: A12Z Bionic, Camera w/ Depth Sensor for AR, Keyboard w/ Trackpad",
+    "comment": "59",
+    "author": "by Ant Shilov",
+    "date": "3/18/2020"
+  },
+  {
+    "title": "Huawei Announces New MatePad Pro 5G High-End Tablet",
+    "comment": "14",
+    "author": "by Andrei Frumusanu",
+    "date": "2/24/2020"
+  },
+  {
+    "title": "Compal Develops FlexBook: A Foldable 13-Inch PC with a Hardware Keyboard",
+    "comment": "11",
+    "author": "by Ant Shilov",
+    "date": "2/18/2020"
+  },
+  {
+    "title": "5G Comes to Tablets: The Samsung Galaxy Tab S6 5G",
+    "comment": "9",
+    "author": "by Ant Shilov",
+    "date": "2/3/2020"
+  },
+  {
+    "title": "For Explosive Environments: Dell Latitude 7220EX Rugged Extreme Windows Tablet",
+    "comment": "10",
+    "author": "by Ant Shilov",
+    "date": "12/30/2019"
+  },
+  {
+    "title": "Huawei Launches Flagship MatePad Pro Tablet with Punch-Hole Display",
+    "comment": "25",
+    "author": "by Ant Shilov",
+    "date": "11/26/2019"
+  },
+  {
+    "title": "Dell\u2019s Latitude 7220 Rugged Extreme Tablet Gets Quad-Core CPUs & 1000-Nits Display",
+    "comment": "12",
+    "author": "by Ant Shilov",
+    "date": "11/4/2019"
+  },
+  {
+    "title": "Apple Announces 10.2-Inch, A10-Powered 7th Gen iPad: Launching Sept. 30th for $329",
+    "comment": "47",
+    "author": "by Ryan Smith",
+    "date": "9/10/2019"
+  },
+  {
+    "title": "Samsung Introduces Galaxy Tab S6: 10.5-Inch AMOLED, Snapdragon 855, New S-Pen",
+    "comment": "39",
+    "author": "by Ant Shilov",
+    "date": "8/1/2019"
+  },
+  {
+    "title": "Corning Unveils Astra Glass for 8K Monitors",
+    "comment": "28",
+    "author": "by Ant Shilov",
+    "date": "5/15/2019"
+  },
+  {
+    "title": "Logitech Unveils Slim Folio Pro Keyboard for 3rd Gen iPad Pro",
+    "comment": "11",
+    "author": "by Ant Shilov",
+    "date": "4/4/2019"
+  },
+  {
+    "title": "Alcatel 3T 10 Launched: An Entry Level Android Tablet",
+    "comment": "17",
+    "author": "by Ant Shilov",
+    "date": "2/25/2019"
+  },
+  {
+    "title": "Alldocube X Android Tablet Quick Look: Low-Cost OLED",
+    "comment": "33",
+    "author": "by Brett Howse",
+    "date": "2/19/2019"
+  },
+  {
+    "title": "Samsung Unveils Galaxy Tab S5e: 10.5-Inch sAMOLED with USB-C",
+    "comment": "40",
+    "author": "by Ant Shilov",
+    "date": "2/15/2019"
+  },
+  {
+    "title": "Samsung Teases Foldable Galaxy Smartphone: Galaxy F?",
+    "comment": "25",
+    "author": "by Ant Shilov",
+    "date": "2/1/2019"
+  },
+  {
+    "title": "The Microsoft Surface Go LTE Review: Unmatched Mobility",
+    "comment": "81",
+    "author": "by Brett Howse",
+    "date": "1/17/2019"
+  },
+  {
+    "title": "CES 2019: ASUS' Chromebook Tablet CT100 for Education",
+    "comment": "16",
+    "author": "by Ant Shilov",
+    "date": "1/14/2019"
+  },
+  {
+    "title": "CES 2019: The Huawei Mediapad M5 Lite",
+    "comment": "20",
+    "author": "by Ian Cutress",
+    "date": "1/7/2019"
+  },
+  {
+    "title": "The 2018 Apple iPad Pro (11-Inch) Review: Doubling Down On Performance",
+    "comment": "146",
+    "author": "by Brett Howse & Andrei Frumusanu",
+    "date": "12/4/2018"
+  },
+  {
+    "title": "Apple Announces New 11\" and 12.9\" iPad Pros with A12X SoC",
+    "comment": "107",
+    "author": "by Andrei Frumusanu",
+    "date": "10/30/2018"
+  },
+  {
+    "title": "The Microsoft Surface Pro 6 Review: More Than A Color",
+    "comment": "80",
+    "author": "by Brett Howse",
+    "date": "10/16/2018"
+  },
+  {
+    "title": "Samsung Introduces Galaxy Tab S4: S835, 7300mAh Battery, Samsung DeX",
+    "comment": "23",
+    "author": "by Ant Shilov",
+    "date": "8/2/2018"
+  },
+  {
+    "title": "Alldocube X Tablet Launching Mid-August",
+    "comment": "13",
+    "author": "by Brett Howse",
+    "date": "8/1/2018"
+  },
+  {
+    "title": "Lenovo\u2019s Miix 630 Snapdragon 835-Based 2-in-1 Now Available",
+    "comment": "34",
+    "author": "by Ant Shilov",
+    "date": "7/10/2018"
+  },
+  {
+    "title": "Microsoft Announces The Surface Go: Smaller And Less Expensive",
+    "comment": "112",
+    "author": "by Brett Howse",
+    "date": "7/9/2018"
+  },
+  {
+    "title": "New Apple iPad with Pencil Support: From $299 for Students",
+    "comment": "31",
+    "author": "by Ian Cutress",
+    "date": "3/27/2018"
+  },
+  {
+    "title": "Acer Announces Chromebook Tab 10: A Tablet Running Google\u2019s Chrome OS",
+    "comment": "13",
+    "author": "by Ant Shilov",
+    "date": "3/27/2018"
+  },
+  {
+    "title": "Chuwi Announces The Hi 9 Air Android Tablet For April Launch",
+    "comment": "15",
+    "author": "by Brett Howse",
+    "date": "3/20/2018"
+  },
+  {
+    "title": "Onkyo Demos Tablet with a 12.5-inch 4K Display at MWC",
+    "comment": "30",
+    "author": "by Ant Shilov",
+    "date": "3/7/2018"
+  },
+  {
+    "title": "New High-End Android Tablets? Huawei MediaPad M5 gets Kirin 960",
+    "comment": "19",
+    "author": "by Ian Cutress",
+    "date": "2/25/2018"
+  },
+  {
+    "title": "MWC 2018: Huawei Press Event Live Blog (1pm UTC, 8am ET)",
+    "comment": "8",
+    "author": "by Andrei Frumusanu & Ant Shilov",
+    "date": "2/25/2018"
+  },
+  {
+    "title": "Chuwi at CES 2018: KBL-G Mini PC, Gemini Lake 2-in-1, And More",
+    "comment": "12",
+    "author": "by Brett Howse",
+    "date": "1/11/2018"
+  },
+  {
+    "title": "Lenovo Re-Engineers ThinkPad X1 Tablet: 13-inch LCD, Quad-Core i7, TB3, 9.5 Hrs",
+    "comment": "23",
+    "author": "by Ant Shilov",
+    "date": "1/8/2018"
+  },
+  {
+    "title": "Microsoft Officially Unveils The Surface Pro With LTE",
+    "comment": "18",
+    "author": "by Brett Howse",
+    "date": "10/31/2017"
+  },
+  {
+    "title": "Dell Latitude 12 Updated: Rugged Tablet Gets Faster CPU, FHD LCD, Lower Weight, USB-C",
+    "comment": "17",
+    "author": "by Ant Shilov",
+    "date": "9/8/2017"
+  },
+  {
+    "title": "TechInsights Confirms Apple\u2019s A10X SoC Is TSMC 10nm FF; 96.4mm2 Die Size",
+    "comment": "87",
+    "author": "by Ryan Smith",
+    "date": "6/29/2017"
+  },
+  {
+    "title": "The Microsoft Surface Pro (2017) Review: Evolution",
+    "comment": "124",
+    "author": "by Brett Howse",
+    "date": "6/15/2017"
+  },
+  {
+    "title": "Apple Refreshes iPad Pro Lineup: A10X Fusion SoC for 10.5-inch, 12.9-inch Models",
+    "comment": "108",
+    "author": "by Matt Humrick",
+    "date": "6/6/2017"
+  },
+  {
+    "title": "Microsoft Announces The New Surface Pro: Refined with Kaby Lake",
+    "comment": "86",
+    "author": "by Brett Howse",
+    "date": "5/23/2017"
+  },
+  {
+    "title": "Apple To Develop Own GPU, Drop Imagination's GPUs From SoCs",
+    "comment": "144",
+    "author": "by Ryan Smith",
+    "date": "4/3/2017"
+  },
+  {
+    "title": "Best Tablets: Q1 2017",
+    "comment": "30",
+    "author": "by Matt Humrick",
+    "date": "3/31/2017"
+  },
+  {
+    "title": "Apple Announces 2017 iPad 9.7-Inch: Entry Level iPad now at $329",
+    "comment": "135",
+    "author": "by Ryan Smith",
+    "date": "3/21/2017"
+  },
+  {
+    "title": "Samsung Launches the 9.7-inch Galaxy Tab S3: Snapdragon 820 with 6000mAh and HDR",
+    "comment": "79",
+    "author": "by Ian Cutress",
+    "date": "2/26/2017"
+  },
+  {
+    "title": "Samsung Launch the Galaxy Book 10.6-inch and 12-inch: Windows Tablets with Kaby Lake",
+    "comment": "39",
+    "author": "by Ian Cutress",
+    "date": "2/26/2017"
+  },
+  {
+    "title": "NVIDIA Releases Android 7.0 Update for SHIELD Tablet",
+    "comment": "30",
+    "author": "by Ryan Smith",
+    "date": "2/11/2017"
+  },
+  {
+    "title": "Synaptics at CES 2017: Advanced Touch and DDIC",
+    "comment": "22",
+    "author": "by Joshua Ho",
+    "date": "1/17/2017"
+  },
+  {
+    "title": "Lenovo Refreshes The MIIX Tablet With the MIIX 720",
+    "comment": "11",
+    "author": "by Brett Howse",
+    "date": "1/3/2017"
+  },
+  {
+    "title": "Launch Update: ASUS ZenFone 3, Zenbook 3, ZenWatch 3, ZenPad 3S 10",
+    "comment": "21",
+    "author": "by Ant Shilov",
+    "date": "10/10/2016"
+  },
+  {
+    "title": "Lenovo Yoga Tab 3 Plus: Snapdragon 652, 10-Inch 2K Display, JBL Speakers and USB-C",
+    "comment": "33",
+    "author": "by Ant Shilov",
+    "date": "8/31/2016"
+  },
+  {
+    "title": "Razer Announces Mechanical Switch Keyboard For The Apple iPad Pro",
+    "comment": "16",
+    "author": "by Brett Howse",
+    "date": "7/14/2016"
+  },
+  {
+    "title": "Qualcomm Announces Snapdragon 821: 2.4 GHz Kryo",
+    "comment": "78",
+    "author": "by Joshua Ho",
+    "date": "7/11/2016"
+  },
+  {
+    "title": "Microsoft Confirms Surface 3 Production To End In December",
+    "comment": "63",
+    "author": "by Brett Howse",
+    "date": "6/24/2016"
+  },
+  {
+    "title": "Asus Announces ZenPad Z8 for Verizon",
+    "comment": "27",
+    "author": "by Joshua Ho",
+    "date": "6/16/2016"
+  },
+  {
+    "title": "Apple Announces iOS 10: Continued Refinement",
+    "comment": "15",
+    "author": "by Joshua Ho",
+    "date": "6/13/2016"
+  },
+  {
+    "title": "Apple WWDC 2016 Keynote",
+    "comment": "36",
+    "author": "by Joshua Ho",
+    "date": "6/13/2016"
+  },
+  {
+    "title": "The 9.7\" iPad Pro Review",
+    "comment": "145",
+    "author": "by Brand Chester",
+    "date": "6/1/2016"
+  },
+  {
+    "title": "Computex 2016: ASUS Zenvolution Press Conference Live Blog",
+    "comment": "24",
+    "author": "by Ian Cutress & Billy Tallis",
+    "date": "5/29/2016"
+  },
+  {
+    "title": "Nokia Is Set to Return to Smartphones and Tablets: What to Expect?",
+    "comment": "37",
+    "author": "by Ant Shilov",
+    "date": "5/25/2016"
+  },
+  {
+    "title": "Google I/O 2016 Live Blog",
+    "comment": "29",
+    "author": "by Joshua Ho",
+    "date": "5/18/2016"
+  },
+  {
+    "title": "Understanding the 9.7\" iPad Pro's Display: How DCI-P3 & True Tone Work",
+    "comment": "76",
+    "author": "by Brand Chester",
+    "date": "4/21/2016"
+  },
+  {
+    "title": "Intel Unveils New Low-Cost PC Platform: Apollo Lake with 14nm Goldmont Cores",
+    "comment": "96",
+    "author": "by Ant Shilov",
+    "date": "4/15/2016"
+  },
+  {
+    "title": "More Than Throughput: Next Generation Wi-Fi Testing with Ixia's WaveDevice",
+    "comment": "44",
+    "author": "by Joshua Ho",
+    "date": "3/25/2016"
+  },
+  {
+    "title": "Google Updates Youtube For iOS To Support Slide Over And Split Screen",
+    "comment": "11",
+    "author": "by Brand Chester",
+    "date": "3/22/2016"
+  },
+  {
+    "title": "Hands On With the Apple 9.7 Inch iPad Pro",
+    "comment": "67",
+    "author": "by Joshua Ho",
+    "date": "3/21/2016"
+  },
+  {
+    "title": "Apple Releases iOS 9.3",
+    "comment": "11",
+    "author": "by Brand Chester",
+    "date": "3/21/2016"
+  },
+  {
+    "title": "Apple Unveils The 9.7\" iPad Pro",
+    "comment": "38",
+    "author": "by Brand Chester",
+    "date": "3/21/2016"
+  },
+  {
+    "title": "Apple \"Let Us Loop You In\" 2016 Event Liveblog",
+    "comment": "35",
+    "author": "by Joshua Ho & Brand Chester",
+    "date": "3/21/2016"
+  },
+  {
+    "title": "Kishonti Announces GFXBench 5 Aztec Ruins At GDC",
+    "comment": "6",
+    "author": "by Brand Chester",
+    "date": "3/14/2016"
+  },
+  {
+    "title": "Hands-On With the Android N Developer Beta: Multi-Window & More",
+    "comment": "124",
+    "author": "by Brand Chester",
+    "date": "3/10/2016"
+  },
+  {
+    "title": "Huawei Enters The PC Market With The MateBook Convertible Tablet",
+    "comment": "15",
+    "author": "by Brett Howse",
+    "date": "2/21/2016"
+  },
+  {
+    "title": "Lenovo Launches New MIIX 310 Tablet, Yoga 510 And Yoga 710 Convertibles At MWC 2016",
+    "comment": "15",
+    "author": "by Brett Howse",
+    "date": "2/21/2016"
+  },
+  {
+    "title": "Revisiting The Google Pixel C - Better, But Not There Yet",
+    "comment": "67",
+    "author": "by Brand Chester",
+    "date": "2/17/2016"
+  },
+  {
+    "title": "The Google Pixel C Review",
+    "comment": "122",
+    "author": "by Brand Chester & Joshua Ho",
+    "date": "1/25/2016"
+  },
+  {
+    "title": "The Apple iPad Pro Review",
+    "comment": "408",
+    "author": "by Ryan Smith, Joshua Ho & Brand Chester",
+    "date": "1/22/2016"
+  },
+  {
+    "title": "Microsoft to Recall Power Cables for Previous-Gen Surface Pro Tablets",
+    "comment": "28",
+    "author": "by Ant Shilov",
+    "date": "1/20/2016"
+  },
+  {
+    "title": "Samsung Unveils The Galaxy TabPro S",
+    "comment": "24",
+    "author": "by Brand Chester",
+    "date": "1/5/2016"
+  },
+  {
+    "title": "Huawei Announces The MediaPad M2 10",
+    "comment": "11",
+    "author": "by Brand Chester",
+    "date": "1/5/2016"
+  },
+  {
+    "title": "Toshiba\u2019s DynaPad Tablet to Hit Stores in Late January",
+    "comment": "14",
+    "author": "by Ant Shilov",
+    "date": "1/5/2016"
+  },
+  {
+    "title": "Acer Announces the Iconia One 8",
+    "comment": "6",
+    "author": "by Brand Chester",
+    "date": "1/4/2016"
+  },
+  {
+    "title": "Lenovo Launches The Modular ThinkPad X1 Tablet at CES",
+    "comment": "16",
+    "author": "by Brett Howse",
+    "date": "1/3/2016"
+  },
+  {
+    "title": "NVIDIA Releases Android Marshmallow Update For SHIELD Tablet K1",
+    "comment": "10",
+    "author": "by Ant Shilov",
+    "date": "12/23/2015"
+  },
+  {
+    "title": "The Google Pixel C Goes On Sale",
+    "comment": "60",
+    "author": "by Brand Chester",
+    "date": "12/8/2015"
+  },
+  {
+    "title": "Apple Releases iOS 9.2",
+    "comment": "20",
+    "author": "by Brand Chester",
+    "date": "12/8/2015"
+  },
+  {
+    "title": "NVIDIA Re-launches the SHIELD Tablet as the SHIELD Tablet K1",
+    "comment": "34",
+    "author": "by Brand Chester",
+    "date": "11/17/2015"
+  },
+  {
+    "title": "The iPad Pro Preview: Taking Notes With iPad Pro",
+    "comment": "199",
+    "author": "by Joshua Ho & Ryan Smith",
+    "date": "11/11/2015"
+  },
+  {
+    "title": "Samsung Announces The 18.4\" Galaxy View",
+    "comment": "56",
+    "author": "by Brand Chester",
+    "date": "10/28/2015"
+  },
+  {
+    "title": "The Apple iPad Mini 4 Review",
+    "comment": "98",
+    "author": "by Brand Chester",
+    "date": "10/28/2015"
+  },
+  {
+    "title": "Apple FY 2015 Q4 Results: Record Fourth Quarter With 48 Million iPhones Sold",
+    "comment": "44",
+    "author": "by Brett Howse",
+    "date": "10/27/2015"
+  },
+  {
+    "title": "Hello Windows Hello: Firmware Update Adds Biometric Login To Surface Pro 4 And Surface Book",
+    "comment": "39",
+    "author": "by Brett Howse",
+    "date": "10/25/2015"
+  },
+  {
+    "title": "The Microsoft Surface Pro 4 Review: Raising The Bar",
+    "comment": "175",
+    "author": "by Brett Howse",
+    "date": "10/21/2015"
+  },
+  {
+    "title": "The Samsung Galaxy Tab S2 Review",
+    "comment": "162",
+    "author": "by Brand Chester",
+    "date": "10/15/2015"
+  },
+  {
+    "title": "Dell XPS Lineup Is Reinvigorated With Skylake On The New XPS 12, XPS 13, And XPS 15",
+    "comment": "99",
+    "author": "by Brett Howse",
+    "date": "10/8/2015"
+  },
+  {
+    "title": "Hands On: Surface Pro 4, Surface Book, & New Lumia Phones",
+    "comment": "48",
+    "author": "by Brett Howse",
+    "date": "10/6/2015"
+  },
+  {
+    "title": "Microsoft Announces the Surface Pro 4, from $900",
+    "comment": "93",
+    "author": "by Ian Cutress",
+    "date": "10/6/2015"
+  },
+  {
+    "title": "Google Announces The Pixel C Tablet",
+    "comment": "58",
+    "author": "by Brand Chester",
+    "date": "9/29/2015"
+  },
+  {
+    "title": "ASUS Transformer Book Lineup Bolstered With T100HA and TP200SA Models",
+    "comment": "32",
+    "author": "by Brett Howse",
+    "date": "9/22/2015"
+  },
+  {
+    "title": "The Apple iOS 9 Review",
+    "comment": "227",
+    "author": "by Brand Chester",
+    "date": "9/16/2015"
+  },
+  {
+    "title": "Windows 10 Mobile One Step Closer to Release: Build 10536 Released To Insiders",
+    "comment": "25",
+    "author": "by Brett Howse",
+    "date": "9/15/2015"
+  },
+  {
+    "title": "Hands on With the iPad Pro and iPad Mini 4",
+    "comment": "183",
+    "author": "by Joshua Ho",
+    "date": "9/10/2015"
+  },
+  {
+    "title": "Apple Announces Release Dates for iOS 9, watchOS 2, and OS X El Capitan",
+    "comment": "7",
+    "author": "by Brand Chester",
+    "date": "9/9/2015"
+  },
+  {
+    "title": "Apple Announces the iPad Pro and iPad Mini 4",
+    "comment": "128",
+    "author": "by Brand Chester",
+    "date": "9/9/2015"
+  },
+  {
+    "title": "Microsoft Announces Surface Enterprise Initiative, Partners With Dell, HP, And More",
+    "comment": "21",
+    "author": "by Brett Howse",
+    "date": "9/8/2015"
+  },
+  {
+    "title": "Acer Announces Predator 8 Gaming Tablet With Intel Atom x7 And Android 5.1",
+    "comment": "41",
+    "author": "by Brett Howse",
+    "date": "9/3/2015"
+  },
+  {
+    "title": "Toshiba Announces UHD Satellite Radius 12, Satellite Radius 14, And Satellite Click 10 PCs At IFA",
+    "comment": "13",
+    "author": "by Brett Howse",
+    "date": "9/3/2015"
+  },
+  {
+    "title": "Qualcomm Announces Kryo CPU Details: Quad Core 2.2 GHz, 14nm FinFET",
+    "comment": "60",
+    "author": "by Joshua Ho",
+    "date": "9/2/2015"
+  },
+  {
+    "title": "Lenovo Unveils A Trio Of New Android Tablets.",
+    "comment": "6",
+    "author": "by Brand Chester",
+    "date": "9/2/2015"
+  },
+  {
+    "title": "The ASUS ZenPad S (Z580CA) Review",
+    "comment": "114",
+    "author": "by Brand Chester",
+    "date": "8/31/2015"
+  },
+  {
+    "title": "Microsoft Makes Cortana For Android Available As A Public Beta",
+    "comment": "12",
+    "author": "by Brand Chester",
+    "date": "8/24/2015"
+  },
+  {
+    "title": "Understanding Intel's Dynamic Power and Thermal Framework 8.1: Smarter Throttling",
+    "comment": "32",
+    "author": "by Joshua Ho",
+    "date": "8/21/2015"
+  },
+  {
+    "title": "Understanding Qualcomm's ImproveTouch",
+    "comment": "13",
+    "author": "by Joshua Ho",
+    "date": "8/18/2015"
+  },
+  {
+    "title": "Qualcomm Details the Adreno 530 GPU and ISP inside the Snapdragon 820",
+    "comment": "66",
+    "author": "by Brand Chester",
+    "date": "8/12/2015"
+  },
+  {
+    "title": "Google Redesigns Hangouts for Android With Version 4.0",
+    "comment": "37",
+    "author": "by Brand Chester",
+    "date": "8/10/2015"
+  },
+  {
+    "title": "Google Commits To Monthly Security Updates For Nexus Devices",
+    "comment": "41",
+    "author": "by Brand Chester",
+    "date": "8/5/2015"
+  },
+  {
+    "title": "NVIDIA Initiates Safety Recall of SHIELD Tablets (Update: 4 Units Have Overheated)",
+    "comment": "30",
+    "author": "by Ryan Smith",
+    "date": "7/31/2015"
+  },
+  {
+    "title": "Samsung Announces The 8.0\" and 9.7\" Galaxy Tab S2 Tablets",
+    "comment": "49",
+    "author": "by Brand Chester",
+    "date": "7/19/2015"
+  },
+  {
+    "title": "HP Announces Windows 10 Devices And Services",
+    "comment": "18",
+    "author": "by Brett Howse",
+    "date": "7/14/2015"
+  },
+  {
+    "title": "SanDisk Announces iNAND 7232: eMMC 5.1, 128GB, and SLC/TLC",
+    "comment": "25",
+    "author": "by Joshua Ho",
+    "date": "7/13/2015"
+  },
+  {
+    "title": "Apple Launches iOS 9 and OS X El Capitan Public Betas",
+    "comment": "15",
+    "author": "by Brand Chester",
+    "date": "7/9/2015"
+  },
+  {
+    "title": "The Dell Venue 10 7040 Review",
+    "comment": "49",
+    "author": "by Brand Chester",
+    "date": "6/30/2015"
+  },
+  {
+    "title": "Google Updates Hangouts For iOS With A New Interface",
+    "comment": "16",
+    "author": "by Brand Chester",
+    "date": "6/29/2015"
+  },
+  {
+    "title": "Microsoft Introduces A 128GB Version Of The Core i7 Surface Pro 3",
+    "comment": "43",
+    "author": "by Brand Chester",
+    "date": "6/29/2015"
+  },
+  {
+    "title": "Comparing Snapdragon 810 v2 and v2.1: More Memory Bandwidth, Higher Clocks",
+    "comment": "84",
+    "author": "by Joshua Ho",
+    "date": "6/18/2015"
+  },
+  {
+    "title": "Amazon Updates The Kindle Paperwhite",
+    "comment": "55",
+    "author": "by Brett Howse",
+    "date": "6/18/2015"
+  },
+  {
+    "title": "Comparing OpenGL ES To Metal On iOS Devices With GFXBench Metal",
+    "comment": "34",
+    "author": "by Brand Chester",
+    "date": "6/15/2015"
+  },
+  {
+    "title": "Apple Unveils Apple Music; Coming to Mac, iOS, Windows, and Android",
+    "comment": "26",
+    "author": "by Brand Chester",
+    "date": "6/8/2015"
+  },
+  {
+    "title": "Apple Announces iOS 9 at WWDC",
+    "comment": "37",
+    "author": "by Brand Chester",
+    "date": "6/8/2015"
+  },
+  {
+    "title": "FinalWire Releases AIDA64 For iOS and Windows Phone",
+    "comment": "8",
+    "author": "by Brand Chester",
+    "date": "6/8/2015"
+  },
+  {
+    "title": "Connexant Launches New HD Audio CODEC For Mobile",
+    "comment": "6",
+    "author": "by Andrei Frumusanu",
+    "date": "6/2/2015"
+  },
+  {
+    "title": "ASUS Announces Two New 8 Inch ZenPad Tablets",
+    "comment": "15",
+    "author": "by Brand Chester",
+    "date": "6/1/2015"
+  },
+  {
+    "title": "NVIDIA Introduces AndroidWorks For Android Game Developers",
+    "comment": "25",
+    "author": "by Brand Chester",
+    "date": "5/29/2015"
+  },
+  {
+    "title": "A Look At The Changes In The Android M Preview",
+    "comment": "88",
+    "author": "by Brand Chester",
+    "date": "5/29/2015"
+  },
+  {
+    "title": "Avago Acquires Broadcom Corporation For $37 Billion",
+    "comment": "33",
+    "author": "by Brand Chester",
+    "date": "5/28/2015"
+  },
+  {
+    "title": "Google Introduces Google Photos",
+    "comment": "28",
+    "author": "by Brand Chester",
+    "date": "5/28/2015"
+  },
+  {
+    "title": "Google Announces Android M At Google I/O 2015",
+    "comment": "32",
+    "author": "by Brand Chester",
+    "date": "5/28/2015"
+  },
+  {
+    "title": "Google IO 2015 Live Blog",
+    "comment": "20",
+    "author": "by Joshua Ho",
+    "date": "5/28/2015"
+  },
+  {
+    "title": "Lenovo Launches ThinkPad 10 Tablet Refresh And Lenovo Cast Accessory",
+    "comment": "15",
+    "author": "by Brett Howse",
+    "date": "5/27/2015"
+  },
+  {
+    "title": "Microsoft Partners With 20 More Vendors To Pre-Install Apps On Android Tablets",
+    "comment": "11",
+    "author": "by Brand Chester",
+    "date": "5/26/2015"
+  },
+  {
+    "title": "The ASUS ZenFone 2 Preview",
+    "comment": "140",
+    "author": "by Brand Chester",
+    "date": "5/18/2015"
+  },
+  {
+    "title": "Rightware's Benchmark Division Acquired By Basemark",
+    "comment": "2",
+    "author": "by Brand Chester",
+    "date": "5/8/2015"
+  },
+  {
+    "title": "The Surface 3 Review",
+    "comment": "265",
+    "author": "by Brett Howse",
+    "date": "5/4/2015"
+  },
+  {
+    "title": "ARM Reveals Cortex-A72 Architecture Details",
+    "comment": "92",
+    "author": "by Andrei Frumusanu",
+    "date": "4/23/2015"
+  },
+  {
+    "title": "Samsung Introduces New 8\" and 9.7\" Galaxy Tab A Tablets",
+    "comment": "62",
+    "author": "by Brand Chester",
+    "date": "4/20/2015"
+  },
+  {
+    "title": "The Dell Venue 11 Pro 7000 Review",
+    "comment": "92",
+    "author": "by Brett Howse",
+    "date": "4/16/2015"
+  },
+  {
+    "title": "Dell Announces the Venue 10 7000 Tablet",
+    "comment": "24",
+    "author": "by Brand Chester",
+    "date": "4/8/2015"
+  },
+  {
+    "title": "Apple Releases iOS 8.3 With A New Emoji Keyboard, Bug Fixes, and Improved Performance",
+    "comment": "34",
+    "author": "by Brand Chester",
+    "date": "4/8/2015"
+  },
+  {
+    "title": "Analyzing Intel Core M Performance: How 5Y10 can beat 5Y71 & the OEMs' Dilemma",
+    "comment": "110",
+    "author": "by Brett Howse & Ian Cutress",
+    "date": "4/8/2015"
+  },
+  {
+    "title": "Microsoft Announces Surface 3: 10.8-inch 2-in-1 with Atom x7 on 14nm from $499",
+    "comment": "121",
+    "author": "by Ian Cutress",
+    "date": "3/31/2015"
+  },
+  {
+    "title": "Google Updates Gmail for Android With A Unified Inbox",
+    "comment": "22",
+    "author": "by Brand Chester",
+    "date": "3/30/2015"
+  },
+  {
+    "title": "ASUS Launches The Transformer Book Chi",
+    "comment": "20",
+    "author": "by Brett Howse",
+    "date": "3/30/2015"
+  },
+  {
+    "title": "The Dell Venue 8 7000 Series Review",
+    "comment": "89",
+    "author": "by Brand Chester",
+    "date": "3/12/2015"
+  },
+  {
+    "title": "Google Releases Android 5.1",
+    "comment": "37",
+    "author": "by Brand Chester",
+    "date": "3/9/2015"
+  },
+  {
+    "title": "Apple Releases iOS 8.2 With Apple Watch Support",
+    "comment": "16",
+    "author": "by Brand Chester",
+    "date": "3/9/2015"
+  },
+  {
+    "title": "Intel at MWC 2015: SoFIA, Rockchip, Low Cost Integrated LTE, Atom Renaming and 14nm Cherry Trail",
+    "comment": "37",
+    "author": "by Ian Cutress",
+    "date": "3/2/2015"
+  },
+  {
+    "title": "Audience Announces NUE N100 Multisensor Processor",
+    "comment": "2",
+    "author": "by Joshua Ho",
+    "date": "3/2/2015"
+  },
+  {
+    "title": "Sony Announces the Xperia Z4 Tablet",
+    "comment": "29",
+    "author": "by Brand Chester",
+    "date": "3/2/2015"
+  },
+  {
+    "title": "SanDisk Announces iNAND 7132: SLC/TLC Hybrid eMMC",
+    "comment": "11",
+    "author": "by Joshua Ho",
+    "date": "3/2/2015"
+  },
+  {
+    "title": "Qualcomm Announces New SoC Lineup, Modem Branding",
+    "comment": "40",
+    "author": "by Andrei Frumusanu",
+    "date": "2/18/2015"
+  },
+  {
+    "title": "Samsung Announces 14nm FinFET for Exynos 7",
+    "comment": "111",
+    "author": "by Joshua Ho",
+    "date": "2/16/2015"
+  },
+  {
+    "title": "The Google Nexus 9 Review",
+    "comment": "169",
+    "author": "by Joshua Ho & Ryan Smith",
+    "date": "2/4/2015"
+  },
+  {
+    "title": "Google Announces Support For 40 Third-Party App Cards In Google Now",
+    "comment": "19",
+    "author": "by Brand Chester",
+    "date": "1/30/2015"
+  },
+  {
+    "title": "Microsoft Releases Finished Versions Of Office For Android",
+    "comment": "30",
+    "author": "by Brand Chester",
+    "date": "1/29/2015"
+  },
+  {
+    "title": "Apple Releases iOS 8.1.3 With Bug Fixes and Reduced Storage Requirements",
+    "comment": "13",
+    "author": "by Brand Chester",
+    "date": "1/27/2015"
+  },
+  {
+    "title": "Dropbox Releases App for Windows Phone",
+    "comment": "17",
+    "author": "by Brand Chester",
+    "date": "1/21/2015"
+  },
+  {
+    "title": "Toshiba CES 2015 Booth Tour: Encore 2 Write, Portege Z20t, and More",
+    "comment": "8",
+    "author": "by Jarred Walt",
+    "date": "1/20/2015"
+  },
+  {
+    "title": "HP Announces New Business Mobility Devices",
+    "comment": "10",
+    "author": "by Jarred Walt",
+    "date": "1/20/2015"
+  },
+  {
+    "title": "Google Updates Chrome for iOS With Material Design and Handoff",
+    "comment": "14",
+    "author": "by Brand Chester",
+    "date": "1/20/2015"
+  },
+  {
+    "title": "Samsung CES Booth Tour: Tablets, Phones, and Core M ATIV Book 9",
+    "comment": "45",
+    "author": "by Jarred Walt",
+    "date": "1/19/2015"
+  },
+  {
+    "title": "A Quick Look at Keyssa: Contactless USB 3.0",
+    "comment": "18",
+    "author": "by Joshua Ho",
+    "date": "1/9/2015"
+  },
+  {
+    "title": "MediaTek Demonstrates 120 Hz Mobile Display",
+    "comment": "31",
+    "author": "by Joshua Ho & Brand Chester",
+    "date": "1/7/2015"
+  },
+  {
+    "title": "Asus Announces Transformer Book Chi Line of x86 2-in-1s",
+    "comment": "24",
+    "author": "by Ryan Smith",
+    "date": "1/5/2015"
+  },
+  {
+    "title": "NVIDIA Tegra X1 Preview & Architecture Analysis",
+    "comment": "194",
+    "author": "by Joshua Ho & Ryan Smith",
+    "date": "1/5/2015"
+  },
+  {
+    "title": "HP Stream 7 Review: A $119 Windows Tablet",
+    "comment": "157",
+    "author": "by Brand Chester",
+    "date": "12/19/2014"
+  },
+  {
+    "title": "The Android 5.0 Lollipop Review",
+    "comment": "126",
+    "author": "by Brand Chester",
+    "date": "12/1/2014"
+  },
+  {
+    "title": "Best Tablets: Holiday 2014",
+    "comment": "87",
+    "author": "by Brand Chester",
+    "date": "11/28/2014"
+  },
+  {
+    "title": "Nokia Announces N1 Tablet: 7.9\u201d & Powered By Android",
+    "comment": "54",
+    "author": "by Ryan Smith",
+    "date": "11/18/2014"
+  },
+  {
+    "title": "NVIDIA Announces Holiday SHIELD Tablet Update",
+    "comment": "27",
+    "author": "by Brand Chester",
+    "date": "11/13/2014"
+  },
+  {
+    "title": "The Apple iPad Air 2 Review",
+    "comment": "227",
+    "author": "by Joshua Ho",
+    "date": "11/7/2014"
+  },
+  {
+    "title": "Dell Refreshes 11 Inch 7000 Series Tablet With Broadwell",
+    "comment": "32",
+    "author": "by Brett Howse",
+    "date": "11/5/2014"
+  },
+  {
+    "title": "Audience Announces S1.0 for Windows x86",
+    "comment": "8",
+    "author": "by Joshua Ho",
+    "date": "11/5/2014"
+  },
+  {
+    "title": "Audience Announces eS800 Voice & Audio Processors",
+    "comment": "1",
+    "author": "by Joshua Ho",
+    "date": "11/5/2014"
+  },
+  {
+    "title": "Nvidia Announces That The SHIELD Tablet Will Receive Android 5.0 This Month",
+    "comment": "9",
+    "author": "by Brand Chester",
+    "date": "11/4/2014"
+  },
+  {
+    "title": "Google Nexus 9: Preliminary Findings",
+    "comment": "146",
+    "author": "by Joshua Ho",
+    "date": "11/3/2014"
+  },
+  {
+    "title": "More Intel Core M Coming Q4",
+    "comment": "42",
+    "author": "by Ian Cutress",
+    "date": "11/3/2014"
+  },
+  {
+    "title": "Hands On: Apple\u2019s iPad Air 2 and iPad mini 3",
+    "comment": "72",
+    "author": "by Ryan Smith",
+    "date": "10/16/2014"
+  },
+  {
+    "title": "Google Announces the Nexus 6 and Nexus 9 Running Android Lollipop",
+    "comment": "148",
+    "author": "by Brand Chester",
+    "date": "10/15/2014"
+  },
+  {
+    "title": "Lenovo Launches Refreshes Of The Yoga Line",
+    "comment": "65",
+    "author": "by Brett Howse",
+    "date": "10/9/2014"
+  },
+  {
+    "title": "HP Announces Low Cost Stream Laptops And Tablets",
+    "comment": "49",
+    "author": "by Brett Howse",
+    "date": "9/29/2014"
+  },
+  {
+    "title": "Microsoft Announces the Microsoft Wireless Display Adapter",
+    "comment": "56",
+    "author": "by Brand Chester",
+    "date": "9/23/2014"
+  },
+  {
+    "title": "Testing Swiftkey for iOS 8",
+    "comment": "45",
+    "author": "by Brand Chester",
+    "date": "9/16/2014"
+  },
+  {
+    "title": "Adobe Brings EchoSign App to Android",
+    "comment": "4",
+    "author": "by Brand Chester",
+    "date": "9/16/2014"
+  },
+  {
+    "title": "NVIDIA Opens Pre-Orders For The SHIELD Tablet With LTE and 32GB Of Storage",
+    "comment": "16",
+    "author": "by Brand Chester",
+    "date": "9/16/2014"
+  },
+  {
+    "title": "Hands On with USB Type C: Reversible USB Connectors",
+    "comment": "91",
+    "author": "by Joshua Ho",
+    "date": "9/11/2014"
+  },
+  {
+    "title": "Quick Look at Core M 5Y70 and Llama Mountain",
+    "comment": "81",
+    "author": "by Joshua Ho",
+    "date": "9/10/2014"
+  },
+  {
+    "title": "Intel\u2019s Core M Strategy: CPU Specifications for 9mm Fanless Tablets and 2-in-1 Devices",
+    "comment": "115",
+    "author": "by Ian Cutress",
+    "date": "9/5/2014"
+  },
+  {
+    "title": "NVIDIA Files Patent Infringement Complaints Against Qualcomm & Samsung",
+    "comment": "77",
+    "author": "by Ryan Smith & Jarred Walt",
+    "date": "9/4/2014"
+  },
+  {
+    "title": "IFA 2014 Lenovo Launches More PCs - From Laptops To Tabletops",
+    "comment": "17",
+    "author": "by Brett Howse",
+    "date": "9/4/2014"
+  },
+  {
+    "title": "IFA 2014 Lenovo Announcements - Android Tablet, Gaming Laptop, Gaming Desktop",
+    "comment": "27",
+    "author": "by Brett Howse",
+    "date": "9/3/2014"
+  },
+  {
+    "title": "Broadcom Announces BCM4358: Second Gen 2x2 802.11ac WiFi",
+    "comment": "1",
+    "author": "by Joshua Ho",
+    "date": "9/3/2014"
+  },
+  {
+    "title": "A Look at Bioshock for iOS and How it Compares to its PC Counterpart",
+    "comment": "29",
+    "author": "by Brand Chester",
+    "date": "8/28/2014"
+  },
+  {
+    "title": "Google's News & Weather App Updated to Version 2.0",
+    "comment": "23",
+    "author": "by Brand Chester",
+    "date": "8/26/2014"
+  },
+  {
+    "title": "Unity Adds Native x86 Support for Android",
+    "comment": "15",
+    "author": "by Anand Lal Shimpi",
+    "date": "8/20/2014"
+  },
+  {
+    "title": "State of the Part: SoC Manufacturers",
+    "comment": "94",
+    "author": "by Jarred Walt",
+    "date": "8/19/2014"
+  },
+  {
+    "title": "Samsung Announces Exynos 5430: First 20nm Samsung SoC",
+    "comment": "77",
+    "author": "by Joshua Ho & Andrei Frumusanu",
+    "date": "8/13/2014"
+  },
+  {
+    "title": "Short Bytes: Intel's Core M and Broadwell-Y SoC",
+    "comment": "31",
+    "author": "by Jarred Walt",
+    "date": "8/12/2014"
+  },
+  {
+    "title": "Revisiting SHIELD Tablet: Gaming Battery Life and Temperatures",
+    "comment": "39",
+    "author": "by Joshua Ho & Andrei Frumusanu",
+    "date": "8/8/2014"
+  },
+  {
+    "title": "Microsoft's Surface Pro 3: Core i3 vs. Core i5 Battery Life",
+    "comment": "85",
+    "author": "by Anand Lal Shimpi",
+    "date": "8/5/2014"
+  },
+  {
+    "title": "Short Bytes: NVIDIA's SHIELD Tablet",
+    "comment": "32",
+    "author": "by Jarred Walt",
+    "date": "7/29/2014"
+  },
+  {
+    "title": "The NVIDIA SHIELD Tablet Review",
+    "comment": "175",
+    "author": "by Joshua Ho",
+    "date": "7/29/2014"
+  },
+  {
+    "title": "First Look: The $799 Microsoft Surface Pro 3 with Core i3",
+    "comment": "113",
+    "author": "by Anand Lal Shimpi",
+    "date": "7/23/2014"
+  },
+  {
+    "title": "NVIDIA Launches Shield Tablet",
+    "comment": "107",
+    "author": "by Joshua Ho",
+    "date": "7/22/2014"
+  },
+  {
+    "title": "Manual Camera Controls and RAW in Android L",
+    "comment": "32",
+    "author": "by Joshua Ho",
+    "date": "7/20/2014"
+  },
+  {
+    "title": "A Closer Look at Android RunTime (ART) in Android L",
+    "comment": "137",
+    "author": "by Andrei Frumusanu",
+    "date": "7/1/2014"
+  },
+  {
+    "title": "Google IO 2014 Day 1 Recap Video",
+    "comment": "10",
+    "author": "by Anand Lal Shimpi",
+    "date": "6/25/2014"
+  },
+  {
+    "title": "Google Reveals Details About Android L at Google IO",
+    "comment": "22",
+    "author": "by Brand Chester",
+    "date": "6/25/2014"
+  },
+  {
+    "title": "Samsung Galaxy Tab S Review (10.5 & 8.4-inch)",
+    "comment": "98",
+    "author": "by Anand Lal Shimpi",
+    "date": "6/24/2014"
+  },
+  {
+    "title": "Microsoft Surface Pro 3 Review",
+    "comment": "275",
+    "author": "by Anand Lal Shimpi",
+    "date": "6/23/2014"
+  },
+  {
+    "title": "Manual Camera Controls in iOS 8",
+    "comment": "42",
+    "author": "by Joshua Ho",
+    "date": "6/18/2014"
+  },
+  {
+    "title": "Samsung's Galaxy Tab S 10.5 & 8.4: Hands On with Samsung's 6.6mm Thin Tablets",
+    "comment": "83",
+    "author": "by Anand Lal Shimpi",
+    "date": "6/12/2014"
+  },
+  {
+    "title": "Google Announces Project Tango Tablet Dev Kit with Tegra K1 and 3D Capture/Tracking",
+    "comment": "33",
+    "author": "by Jarred Walt",
+    "date": "6/5/2014"
+  },
+  {
+    "title": "Liveblogging with the Surface Pro 3",
+    "comment": "35",
+    "author": "by Joshua Ho",
+    "date": "6/4/2014"
+  },
+  {
+    "title": "Computex 2014: More Intel Tablets, the Dell Venue 7 and Venue 8",
+    "comment": "5",
+    "author": "by Ian Cutress",
+    "date": "6/2/2014"
+  },
+  {
+    "title": "Computex 2014: All new Intel Atom based Fonepad 8, MeMO Pad 7, MeMO Pad 8",
+    "comment": "15",
+    "author": "by Ian Cutress",
+    "date": "6/2/2014"
+  },
+  {
+    "title": "Computex 2014: Transformer Book T300 Chi from ASUS",
+    "comment": "17",
+    "author": "by Ian Cutress",
+    "date": "6/2/2014"
+  },
+  {
+    "title": "Computex 2014: New Transformer Book V from ASUS",
+    "comment": "14",
+    "author": "by Ian Cutress",
+    "date": "6/2/2014"
+  },
+  {
+    "title": "Toshiba Launches Six New Intel Tablets and Laptops, Including $110 Android Tablet",
+    "comment": "17",
+    "author": "by Brett Howse",
+    "date": "5/27/2014"
+  },
+  {
+    "title": "SIM Card Adapters Reviewed",
+    "comment": "24",
+    "author": "by Joshua Ho",
+    "date": "5/24/2014"
+  },
+  {
+    "title": "Some Thoughts on Half-Life 2 and Portal on Shield",
+    "comment": "40",
+    "author": "by Joshua Ho",
+    "date": "5/22/2014"
+  },
+  {
+    "title": "Qualcomm Snapdragon 805 Performance Preview",
+    "comment": "149",
+    "author": "by Anand Lal Shimpi",
+    "date": "5/21/2014"
+  },
+  {
+    "title": "Windows 8.1 x64 Connected Standby Support",
+    "comment": "27",
+    "author": "by Brett Howse",
+    "date": "5/20/2014"
+  },
+  {
+    "title": "Microsoft Surface Pro 3: Hands On, Display & Performance Preview",
+    "comment": "296",
+    "author": "by Anand Lal Shimpi",
+    "date": "5/20/2014"
+  },
+  {
+    "title": "Microsoft Surface 2014 Event: Live Blog",
+    "comment": "56",
+    "author": "by Anand Lal Shimpi",
+    "date": "5/20/2014"
+  },
+  {
+    "title": "Samsung Galaxy Tab 4 Education Launched",
+    "comment": "19",
+    "author": "by Brett Howse",
+    "date": "5/16/2014"
+  },
+  {
+    "title": "Xiaomi Announces the MiPad: The First Tegra K1 Device",
+    "comment": "82",
+    "author": "by Brand Chester",
+    "date": "5/15/2014"
+  },
+  {
+    "title": "Lenovo Launches Two Business Devices",
+    "comment": "14",
+    "author": "by Brett Howse",
+    "date": "5/13/2014"
+  },
+  {
+    "title": "Google Updates Maps for Android and iOS with Improvements to Offline Maps, Navigation, and More",
+    "comment": "30",
+    "author": "by Brand Chester",
+    "date": "5/6/2014"
+  },
+  {
+    "title": "ARM's Impact on the Chip Market: 100M China-Designed SoCs Shipped in 2013",
+    "comment": "7",
+    "author": "by Anand Lal Shimpi",
+    "date": "5/6/2014"
+  },
+  {
+    "title": "A Discussion on Material Choices in Mobile",
+    "comment": "77",
+    "author": "by Joshua Ho",
+    "date": "5/5/2014"
+  },
+  {
+    "title": "A quick look at Google\u2019s new Google Docs and Sheets mobile apps",
+    "comment": "12",
+    "author": "by Brand Chester",
+    "date": "4/30/2014"
+  },
+  {
+    "title": "Acer Announces Aspire Switch 10",
+    "comment": "30",
+    "author": "by Brett Howse",
+    "date": "4/29/2014"
+  },
+  {
+    "title": "AMD Beema/Mullins Architecture & Performance Preview",
+    "comment": "82",
+    "author": "by Anand Lal Shimpi",
+    "date": "4/29/2014"
+  },
+  {
+    "title": "Apple Q2 2014 Fiscal Results",
+    "comment": "27",
+    "author": "by Brett Howse",
+    "date": "4/23/2014"
+  },
+  {
+    "title": "ARM Partners Ship 50 Billion Chips Since 1991 - Where Did They Go?",
+    "comment": "35",
+    "author": "by Anand Lal Shimpi",
+    "date": "3/31/2014"
+  },
+  {
+    "title": "NVIDIA Announces Jetson TK1 Dev Board; Adds Erista To Tegra Roadmap",
+    "comment": "33",
+    "author": "by Ryan Smith",
+    "date": "3/27/2014"
+  },
+  {
+    "title": "NVIDIA SHIELD Price Cuts and Portal",
+    "comment": "20",
+    "author": "by Jarred Walt",
+    "date": "3/25/2014"
+  },
+  {
+    "title": "Samsung Galaxy Tab Pro 8.4 and 10.1 Review",
+    "comment": "125",
+    "author": "by Jarred Walt",
+    "date": "3/22/2014"
+  },
+  {
+    "title": "NVIDIA's Tegra Note 7 LTE and Tegra 4i Devices: Hands On",
+    "comment": "28",
+    "author": "by Anand Lal Shimpi",
+    "date": "2/26/2014"
+  },
+  {
+    "title": "Samsung's Exynos 5422 & The Ideal big.LITTLE: Exynos 5 Hexa (5260)",
+    "comment": "35",
+    "author": "by Anand Lal Shimpi",
+    "date": "2/25/2014"
+  },
+  {
+    "title": "The AnandTech Mobile Show - MWC 2014 Edition",
+    "comment": "23",
+    "author": "by Anand Lal Shimpi",
+    "date": "2/25/2014"
+  },
+  {
+    "title": "SanDisk iNAND Extreme in 2014: Finally a Good eMMC Solution for Mobile?",
+    "comment": "7",
+    "author": "by Anand Lal Shimpi",
+    "date": "2/24/2014"
+  },
+  {
+    "title": "Microsoft's Mobile World Congress 2014 Event Live Blog",
+    "comment": "17",
+    "author": "by Brian Klug & Ian Cutress",
+    "date": "2/23/2014"
+  },
+  {
+    "title": "MWC 2014: Archos Unveils Q1 2014 Line",
+    "comment": "9",
+    "author": "by Ian Cutress",
+    "date": "2/21/2014"
+  },
+  {
+    "title": "NVIDIA Adds LTE to Tegra Note 7",
+    "comment": "21",
+    "author": "by Anand Lal Shimpi",
+    "date": "2/21/2014"
+  },
+  {
+    "title": "ARM Cortex A17: An Evolved Cortex A12 for the Mainstream in 2015",
+    "comment": "41",
+    "author": "by Anand Lal Shimpi",
+    "date": "2/11/2014"
+  },
+  {
+    "title": "Toshiba Excite and Encore Tablets, Click and Z10t Hybrids - CES 2014",
+    "comment": "19",
+    "author": "by Jarred Walt",
+    "date": "1/17/2014"
+  },
+  {
+    "title": "HP Chromebook 11 with LTE Arrives at Best Buy, Altair's LTE Modem Inside",
+    "comment": "6",
+    "author": "by Brian Klug",
+    "date": "1/15/2014"
+  },
+  {
+    "title": "AnandTech Mobile Show at CES 2014 Video Live Now",
+    "comment": "25",
+    "author": "by Anand Lal Shimpi",
+    "date": "1/13/2014"
+  },
+  {
+    "title": "Lenovo Digital Home, AIOs, etc.",
+    "comment": "1",
+    "author": "by Jarred Walt",
+    "date": "1/10/2014"
+  },
+  {
+    "title": "Lenovo: Yoga, Miix 2, and ThinkPad Tablets; Vibe Z and K900 Smartphones",
+    "comment": "11",
+    "author": "by Jarred Walt",
+    "date": "1/10/2014"
+  },
+  {
+    "title": "Audience Announces its Fourth Generation Voice Processor - eS700 Series",
+    "comment": "4",
+    "author": "by Brian Klug",
+    "date": "1/6/2014"
+  },
+  {
+    "title": "NVIDIA Tegra K1 Preview & Architecture Analysis",
+    "comment": "88",
+    "author": "by Brian Klug & Anand Lal Shimpi",
+    "date": "1/6/2014"
+  },
+  {
+    "title": "NVIDIA Announces Tegra K1 SoC with Optional Denver CPU Cores",
+    "comment": "20",
+    "author": "by Anand Lal Shimpi",
+    "date": "1/5/2014"
+  },
+  {
+    "title": "Best Tablets - Holiday 2013",
+    "comment": "108",
+    "author": "by Jarred Walt",
+    "date": "12/19/2013"
+  },
+  {
+    "title": "Google Play Edition LG G Pad 8.3, Sony Z Ultra, White Nexus 7 Announced",
+    "comment": "39",
+    "author": "by Brian Klug",
+    "date": "12/10/2013"
+  },
+  {
+    "title": "Smartphone Audio Quality Testing",
+    "comment": "188",
+    "author": "by Chris Heinen",
+    "date": "12/8/2013"
+  },
+  {
+    "title": "Futuremark Begins Delisting \"Cheating\" Mobile Devices from 3DMark Database",
+    "comment": "46",
+    "author": "by Anand Lal Shimpi",
+    "date": "11/26/2013"
+  },
+  {
+    "title": "Qualcomm's Snapdragon 805: 2.5GHz, 128-bit Memory Interface, D3D11-class Graphics & More",
+    "comment": "105",
+    "author": "by Anand Lal Shimpi",
+    "date": "11/22/2013"
+  },
+  {
+    "title": "iPad mini with Retina Display: LTE Hotspot Battery Life",
+    "comment": "20",
+    "author": "by Anand Lal Shimpi",
+    "date": "11/22/2013"
+  },
+  {
+    "title": "Qualcomm Atheros Announces New Internet Processor Category - IPQ8064 and IPQ8062",
+    "comment": "22",
+    "author": "by Brian Klug",
+    "date": "11/20/2013"
+  },
+  {
+    "title": "Apple iPad mini with Retina Display: Reviewed",
+    "comment": "349",
+    "author": "by Anand Lal Shimpi",
+    "date": "11/16/2013"
+  },
+  {
+    "title": "Android 4.4 Factory Images Now Available for Nexus 4, 7 (2012 and 2013), and 10",
+    "comment": "33",
+    "author": "by Brian Klug",
+    "date": "11/14/2013"
+  },
+  {
+    "title": "NVIDIA Tegra Note 7 Review",
+    "comment": "87",
+    "author": "by Brian Klug",
+    "date": "11/12/2013"
+  },
+  {
+    "title": "Qualcomm's Modem Workshop - Lots of Comparisons",
+    "comment": "18",
+    "author": "by Brian Klug",
+    "date": "11/8/2013"
+  },
+  {
+    "title": "Microsoft Surface Pro 2 Firmware Update Improves Battery Life",
+    "comment": "63",
+    "author": "by Anand Lal Shimpi",
+    "date": "11/2/2013"
+  },
+  {
+    "title": "iPad Air Delivers 24 Hours of Battery Life as LTE Hotspot",
+    "comment": "56",
+    "author": "by Anand Lal Shimpi",
+    "date": "11/2/2013"
+  },
+  {
+    "title": "Intel Announces PCIe M.2 LTE Modules with XMM7160, Notes Galaxy Tab 3 (10.1) Socket Win",
+    "comment": "11",
+    "author": "by Brian Klug",
+    "date": "10/30/2013"
+  },
+  {
+    "title": "The iPad Air Review",
+    "comment": "444",
+    "author": "by Anand Lal Shimpi",
+    "date": "10/29/2013"
+  },
+  {
+    "title": "New Version of Google Glass coming, Free Swap for Current Glass Explorers",
+    "comment": "13",
+    "author": "by Brian Klug",
+    "date": "10/28/2013"
+  },
+  {
+    "title": "NVIDIA Updates Shield to Android 4.3, Adds Features, Brings GameStream out of Beta",
+    "comment": "19",
+    "author": "by Brian Klug",
+    "date": "10/28/2013"
+  },
+  {
+    "title": "iPad Air and iPad Mini with Retina Display include Qualcomm's MDM9615 baseband",
+    "comment": "10",
+    "author": "by Brian Klug",
+    "date": "10/24/2013"
+  },
+  {
+    "title": "iPad Air: Hands On [video]",
+    "comment": "44",
+    "author": "by Anand Lal Shimpi & Brian Klug",
+    "date": "10/22/2013"
+  },
+  {
+    "title": "iPad mini with Retina Display: Hands On [video]",
+    "comment": "24",
+    "author": "by Anand Lal Shimpi & Brian Klug",
+    "date": "10/22/2013"
+  },
+  {
+    "title": "Apple Event (October 2013) - Live Blog",
+    "comment": "101",
+    "author": "by Anand Lal Shimpi & Brian Klug",
+    "date": "10/22/2013"
+  },
+  {
+    "title": "Microsoft Surface Pro 2 Review",
+    "comment": "277",
+    "author": "by Anand Lal Shimpi",
+    "date": "10/21/2013"
+  },
+  {
+    "title": "Microsoft Surface 2 Review",
+    "comment": "139",
+    "author": "by Anand Lal Shimpi",
+    "date": "10/21/2013"
+  },
+  {
+    "title": "ASUS Transformer Book T100 Review: Redefining the Entry-Level Windows Notebook",
+    "comment": "158",
+    "author": "by Anand Lal Shimpi",
+    "date": "10/18/2013"
+  },
+  {
+    "title": "Acer Launches Iconia W4 Tablet with Windows 8.1",
+    "comment": "20",
+    "author": "by Jarred Walt",
+    "date": "10/17/2013"
+  },
+  {
+    "title": "Dell Updates Venue Line of Tablets",
+    "comment": "51",
+    "author": "by Jarred Walt",
+    "date": "10/3/2013"
+  },
+  {
+    "title": "Samsung Galaxy Note 10.1 (2014 Edition) Review",
+    "comment": "100",
+    "author": "by Brian Klug & Anand Lal Shimpi",
+    "date": "10/1/2013"
+  },
+  {
+    "title": "Microsoft Announces Surface Pro 2 & Surface 2, Shipping October 22",
+    "comment": "91",
+    "author": "by Anand Lal Shimpi & Brian Klug",
+    "date": "9/23/2013"
+  },
+  {
+    "title": "Microsoft Surface Event Live Blog",
+    "comment": "85",
+    "author": "by Brian Klug",
+    "date": "9/23/2013"
+  },
+  {
+    "title": "HP Announces Spectre 13 x2 Hybrid Ultrabook",
+    "comment": "48",
+    "author": "by Jarred Walt",
+    "date": "9/19/2013"
+  },
+  {
+    "title": "HP Announces Tegra 4 Powered Slate7 Extreme and Slate8 Pro",
+    "comment": "33",
+    "author": "by Jarred Walt",
+    "date": "9/19/2013"
+  },
+  {
+    "title": "NVIDIA Announces Tegra Note: NV Designed Android Tablet, Sold by NVIDIA Partners",
+    "comment": "63",
+    "author": "by Anand Lal Shimpi",
+    "date": "9/18/2013"
+  },
+  {
+    "title": "Hands on with the new ASUS Padfone Infinity",
+    "comment": "34",
+    "author": "by Brian Klug",
+    "date": "9/17/2013"
+  },
+  {
+    "title": "The AnandTech Mobile Show, Live from IDF 2013 [video] Updated: Now high-res",
+    "comment": "24",
+    "author": "by Anand Lal Shimpi & Brian Klug",
+    "date": "9/11/2013"
+  },
+  {
+    "title": "ASUS' Transformer Book T100: Atom Z3740 Inside, Available October 18th at $349",
+    "comment": "102",
+    "author": "by Anand Lal Shimpi",
+    "date": "9/11/2013"
+  },
+  {
+    "title": "Intel XMM7160 LTE Modem Demonstrated on Live Network",
+    "comment": "11",
+    "author": "by Brian Klug",
+    "date": "9/11/2013"
+  },
+  {
+    "title": "Dell Introduces 8-inch Bay Trail Venue tablet at IDF",
+    "comment": "20",
+    "author": "by Anand Lal Shimpi",
+    "date": "9/11/2013"
+  },
+  {
+    "title": "ASUS Introduces T100: Bay Trail based 2-in-1 Tablet",
+    "comment": "11",
+    "author": "by Anand Lal Shimpi",
+    "date": "9/11/2013"
+  },
+  {
+    "title": "Samsung Announces big.LITTLE MP Support in Exynos 5420",
+    "comment": "30",
+    "author": "by Brian Klug",
+    "date": "9/11/2013"
+  },
+  {
+    "title": "Audience Announces earSmart eS320 for Ultrabooks and All-In-Ones",
+    "comment": "8",
+    "author": "by Brian Klug",
+    "date": "9/9/2013"
+  },
+  {
+    "title": "Seagate's Ultra Mobile HDD: Putting HDDs in Android Tablets",
+    "comment": "42",
+    "author": "by Anand Lal Shimpi",
+    "date": "9/9/2013"
+  },
+  {
+    "title": "Amazon Launches New Kindle Paperwhite",
+    "comment": "22",
+    "author": "by Jarred Walt",
+    "date": "9/5/2013"
+  },
+  {
+    "title": "Samsung Introduces Galaxy Note 10.1 (2014 Edition) with 2560x1600 Display",
+    "comment": "31",
+    "author": "by Anand Lal Shimpi",
+    "date": "9/4/2013"
+  },
+  {
+    "title": "ASUS Announces Transformer Book T300 - Windows 8 Detachable Tablet",
+    "comment": "24",
+    "author": "by Jarred Walt",
+    "date": "9/4/2013"
+  },
+  {
+    "title": "ASUS Announces MeMO Pad 8 and MeMO Pad 10 Tablets",
+    "comment": "5",
+    "author": "by Jarred Walt",
+    "date": "9/4/2013"
+  },
+  {
+    "title": "ASUS Announces Fonepad Note 6E and Fonepad 7E",
+    "comment": "13",
+    "author": "by Jarred Walt",
+    "date": "9/4/2013"
+  },
+  {
+    "title": "Qualcomm Announces its Smartwatch Platform - Qualcomm Toq (Update: Now With Specs)",
+    "comment": "21",
+    "author": "by Brian Klug",
+    "date": "9/4/2013"
+  },
+  {
+    "title": "ASUS Announces Transformer Book Trio - Windows 8 and Android 4.2 Hybrid",
+    "comment": "19",
+    "author": "by Jarred Walt",
+    "date": "9/4/2013"
+  },
+  {
+    "title": "Intel Teases Baytrail Performance with Atom Z3770 Cinebench Score",
+    "comment": "33",
+    "author": "by Anand Lal Shimpi",
+    "date": "9/4/2013"
+  },
+  {
+    "title": "ASUS Officially Announces Transformer Pad TF701T with 2560x1600 Display",
+    "comment": "13",
+    "author": "by Jarred Walt",
+    "date": "9/4/2013"
+  },
+  {
+    "title": "The Nexus 7 (2013) Review",
+    "comment": "203",
+    "author": "by Anand Lal Shimpi",
+    "date": "8/22/2013"
+  },
+  {
+    "title": "Nexus 7 (2013) JSS15Q OTA Update Rolling Out - Fixes GPS/GNSS and Multitouch Issues",
+    "comment": "18",
+    "author": "by Brian Klug",
+    "date": "8/22/2013"
+  },
+  {
+    "title": "Intel Talks about Multimode LTE Modems - XMM7160 and Beyond",
+    "comment": "39",
+    "author": "by Brian Klug",
+    "date": "8/20/2013"
+  },
+  {
+    "title": "Ask the Experts: Intel's Aicha Evans Talks Wireless and Answers Your Questions",
+    "comment": "47",
+    "author": "by Anand Lal Shimpi",
+    "date": "8/15/2013"
+  },
+  {
+    "title": "Acer R7 Review: Something Different",
+    "comment": "114",
+    "author": "by Jarred Walt",
+    "date": "8/15/2013"
+  },
+  {
+    "title": "ASUS Reports Disappointing VivoTab RT Sales, Stops Making RT Tablets",
+    "comment": "85",
+    "author": "by Jarred Walt",
+    "date": "8/9/2013"
+  },
+  {
+    "title": "Understanding Panel Self Refresh",
+    "comment": "39",
+    "author": "by Anand Lal Shimpi",
+    "date": "8/7/2013"
+  },
+  {
+    "title": "Surface Pro $100 Price Drop - A Prelude of Things to Come?",
+    "comment": "100",
+    "author": "by Jarred Walt",
+    "date": "8/5/2013"
+  },
+  {
+    "title": "Android 4.3 update for Nexus 10 and 4 removes unofficial OpenCL drivers",
+    "comment": "13",
+    "author": "by Rahul Garg",
+    "date": "8/1/2013"
+  },
+  {
+    "title": "ASUS MeMO Pad HD7 Pre-Orders Available",
+    "comment": "19",
+    "author": "by Jarred Walt",
+    "date": "7/31/2013"
+  },
+  {
+    "title": "NVIDIA Shield Review: At the Crossroads of PC and Mobile Gaming",
+    "comment": "135",
+    "author": "by Brian Klug",
+    "date": "7/31/2013"
+  },
+  {
+    "title": "Google Chromecast Review - An Awesome $35 HDMI Dongle",
+    "comment": "105",
+    "author": "by Brian Klug",
+    "date": "7/29/2013"
+  },
+  {
+    "title": "Android 4.3 Update Brings TRIM to All Nexus Devices",
+    "comment": "46",
+    "author": "by Brian Klug",
+    "date": "7/29/2013"
+  },
+  {
+    "title": "ASUS MeMO Pad HD7 Review: $149 Nexus 7.1 Successor & Our First Look at MediaTek's MT8125",
+    "comment": "75",
+    "author": "by Anand Lal Shimpi",
+    "date": "7/29/2013"
+  },
+  {
+    "title": "Nexus 7 (2013) - Mini Review",
+    "comment": "253",
+    "author": "by Brian Klug",
+    "date": "7/27/2013"
+  },
+  {
+    "title": "What's New in Android 4.3",
+    "comment": "69",
+    "author": "by Brian Klug",
+    "date": "7/24/2013"
+  },
+  {
+    "title": "Google's Breakfast With Sundar Pichai Event - Live Blog",
+    "comment": "27",
+    "author": "by Brian Klug",
+    "date": "7/24/2013"
+  },
+  {
+    "title": "NVIDIA Demonstrates Logan SoC: < 1W Kepler, Shipping in 1H 2014, More Energy Efficient than A6X?",
+    "comment": "141",
+    "author": "by Anand Lal Shimpi",
+    "date": "7/24/2013"
+  },
+  {
+    "title": "NVIDIA Confirms Ship Date for Shield - July 31",
+    "comment": "14",
+    "author": "by Brian Klug",
+    "date": "7/21/2013"
+  },
+  {
+    "title": "Aptina Announces AR1331CP 13 MP CMOS with Clarity Plus - We Take a Look",
+    "comment": "14",
+    "author": "by Brian Klug",
+    "date": "7/17/2013"
+  },
+  {
+    "title": "NVIDIA Shield Delayed, Now Ships In July",
+    "comment": "18",
+    "author": "by Ryan Smith",
+    "date": "6/26/2013"
+  },
+  {
+    "title": "Ask AnandTech: Ideal Tablet Specs & Form Factor for Work?",
+    "comment": "80",
+    "author": "by Anand Lal Shimpi",
+    "date": "6/26/2013"
+  },
+  {
+    "title": "Qualcomm Announces Snapdragon 200 Additions - MSM8x10 and MSM8x12",
+    "comment": "11",
+    "author": "by Brian Klug",
+    "date": "6/24/2013"
+  },
+  {
+    "title": "Samsung ATIV Q Hands On: 3200 x 1800 13.3\" Tablet Running Windows 8 and Android",
+    "comment": "52",
+    "author": "by Anand Lal Shimpi",
+    "date": "6/20/2013"
+  },
+  {
+    "title": "Samsung Premiere 2013: Galaxy & ATIV London Launch, Live Blog",
+    "comment": "18",
+    "author": "by Anand Lal Shimpi",
+    "date": "6/20/2013"
+  },
+  {
+    "title": "NVIDIA Shield Gets a Launch Date and a Price Cut: June 27th for $299",
+    "comment": "8",
+    "author": "by Ryan Smith",
+    "date": "6/20/2013"
+  },
+  {
+    "title": "NVIDIA to License Kepler and Future GPU IP to 3rd Parties",
+    "comment": "59",
+    "author": "by Anand Lal Shimpi",
+    "date": "6/18/2013"
+  },
+  {
+    "title": "Snapdragon 800 (MSM8974) Performance Preview: Qualcomm Mobile Development Tablet Tested",
+    "comment": "115",
+    "author": "by Brian Klug",
+    "date": "6/18/2013"
+  },
+  {
+    "title": "Ask AnandTech: Tablets at Work, How Important is Backwards Compatibility?",
+    "comment": "38",
+    "author": "by Anand Lal Shimpi",
+    "date": "6/18/2013"
+  },
+  {
+    "title": "CPUID's CPU-Z Arrives on Android via Google Play",
+    "comment": "28",
+    "author": "by Brian Klug",
+    "date": "6/16/2013"
+  },
+  {
+    "title": "N-trig DuoSense Pen2: Who Needs a Stylus?",
+    "comment": "34",
+    "author": "by Jarred Walt",
+    "date": "6/12/2013"
+  },
+  {
+    "title": "Ask AnandTech: Tablets at Work, What are Your Experiences?",
+    "comment": "148",
+    "author": "by Anand Lal Shimpi",
+    "date": "6/12/2013"
+  },
+  {
+    "title": "Hands On with the Final NVIDIA Shield Hardware, Update: Now with Video",
+    "comment": "46",
+    "author": "by Brian Klug",
+    "date": "6/11/2013"
+  },
+  {
+    "title": "WWDC 2013 Keynote Live Blog",
+    "comment": "29",
+    "author": "by Anand Lal Shimpi & Brian Klug",
+    "date": "6/10/2013"
+  },
+  {
+    "title": "Patriot Drives Further into Mobile with FUEL+ External Batteries",
+    "comment": "3",
+    "author": "by Anand Lal Shimpi",
+    "date": "6/10/2013"
+  },
+  {
+    "title": "Intel Demonstrates Bay Trail-T Running Windows 8 and Android 4.2.2",
+    "comment": "25",
+    "author": "by Anand Lal Shimpi",
+    "date": "6/6/2013"
+  },
+  {
+    "title": "Outlook 2013 RT Coming Free to Windows RT 8.1 Tablets Later this Year",
+    "comment": "10",
+    "author": "by Anand Lal Shimpi",
+    "date": "6/5/2013"
+  },
+  {
+    "title": "Introducing the Dual-Core Haswell SKUs",
+    "comment": "50",
+    "author": "by Jarred Walt",
+    "date": "6/4/2013"
+  },
+  {
+    "title": "Acer Announces 8\" Iconia W3 Tablet, S3 and S7 Haswell Ultrabooks",
+    "comment": "17",
+    "author": "by Vivek Gowri",
+    "date": "6/3/2013"
+  },
+  {
+    "title": "The ASUS Transformer Book Trio: Atom + Haswell, Android + Windows 8",
+    "comment": "29",
+    "author": "by Anand Lal Shimpi",
+    "date": "6/3/2013"
+  },
+  {
+    "title": "ASUS' $149 MemoPad HD 7: Quad-Core Cortex A7, 1280x800 IPS Display",
+    "comment": "21",
+    "author": "by Anand Lal Shimpi",
+    "date": "6/3/2013"
+  },
+  {
+    "title": "ASUS Announces 6-inch FonePad Note",
+    "comment": "11",
+    "author": "by Anand Lal Shimpi",
+    "date": "6/3/2013"
+  },
+  {
+    "title": "ASUS' New Transformer Pad Infinity: Tegra 4 + 2560 x 1600 IPS Display",
+    "comment": "16",
+    "author": "by Anand Lal Shimpi",
+    "date": "6/3/2013"
+  },
+  {
+    "title": "ASUS MemoPad FHD10: Clover Trail+, 10-inch, 1920x1200, Android 4.2",
+    "comment": "6",
+    "author": "by Anand Lal Shimpi",
+    "date": "6/3/2013"
+  },
+  {
+    "title": "ARM Cortex A12: Between Cortex A9 and A15 in Power & Perf, Sampling in Late 2014",
+    "comment": "78",
+    "author": "by Anand Lal Shimpi",
+    "date": "6/2/2013"
+  },
+  {
+    "title": "ARM Mali-T622 & V500 Video Block Complement Cortex A12",
+    "comment": "2",
+    "author": "by Anand Lal Shimpi",
+    "date": "6/2/2013"
+  },
+  {
+    "title": "Toshiba Portege Z10t is a New Take on Convertibles",
+    "comment": "22",
+    "author": "by Dustin Sklavos",
+    "date": "5/29/2013"
+  },
+  {
+    "title": "AMD\u2019s 2013 Elite Mobility Platform, aka Temash",
+    "comment": "12",
+    "author": "by Jarred Walt",
+    "date": "5/23/2013"
+  },
+  {
+    "title": "AMD Kabini APUs Detailed",
+    "comment": "2",
+    "author": "by Jarred Walt",
+    "date": "5/23/2013"
+  },
+  {
+    "title": "The AMD Kabini Review: A4-5000 APU Tested",
+    "comment": "131",
+    "author": "by Jarred Walt",
+    "date": "5/23/2013"
+  },
+  {
+    "title": "Acer Iconia A1 7.9\u201d Tablet",
+    "comment": "17",
+    "author": "by Jarred Walt",
+    "date": "5/3/2013"
+  },
+  {
+    "title": "Acer Aspire P3 Ultrabook Launched",
+    "comment": "7",
+    "author": "by Jarred Walt",
+    "date": "5/3/2013"
+  },
+  {
+    "title": "Samsung Galaxy Note 8.0 Review",
+    "comment": "96",
+    "author": "by Anand Lal Shimpi",
+    "date": "4/17/2013"
+  },
+  {
+    "title": "The Great Equalizer 3: How Fast is Your Smartphone/Tablet in PC GPU Terms",
+    "comment": "128",
+    "author": "by Anand Lal Shimpi",
+    "date": "4/4/2013"
+  },
+  {
+    "title": "The Great Equalizer Part 2: Surface Pro vs. Android Devices in 3DMark",
+    "comment": "57",
+    "author": "by Anand Lal Shimpi",
+    "date": "4/2/2013"
+  },
+  {
+    "title": "3DMark for Android: Performance Preview",
+    "comment": "56",
+    "author": "by Anand Lal Shimpi & Brian Klug",
+    "date": "4/2/2013"
+  },
+  {
+    "title": "The Great Equalizer: Apple, Android & Windows Tablet GPUs Compared using GL/DXBenchmark 2.7",
+    "comment": "83",
+    "author": "by Anand Lal Shimpi",
+    "date": "3/31/2013"
+  },
+  {
+    "title": "The Razer Edge Review",
+    "comment": "89",
+    "author": "by Vivek Gowri",
+    "date": "3/28/2013"
+  },
+  {
+    "title": "More Details On NVIDIA\u2019s Kayla: A Dev Platform for CUDA on ARM",
+    "comment": "17",
+    "author": "by Ryan Smith",
+    "date": "3/19/2013"
+  },
+  {
+    "title": "NVIDIA Updates Tegra Roadmap Details at GTC - Logan and Parker Detailed",
+    "comment": "25",
+    "author": "by Brian Klug & Ryan Smith",
+    "date": "3/19/2013"
+  },
+  {
+    "title": "Samsung ATIV Smart PC: Revisiting Clover Trail Convertibles",
+    "comment": "60",
+    "author": "by Vivek Gowri",
+    "date": "3/18/2013"
+  },
+  {
+    "title": "Imagination Technologies Confirms PowerVR SGX 544 IP used in Exynos 5 Octa",
+    "comment": "25",
+    "author": "by Anand Lal Shimpi",
+    "date": "3/12/2013"
+  },
+  {
+    "title": "OpenCL drivers discovered on Nexus 4 and Nexus 10 devices",
+    "comment": "19",
+    "author": "by Rahul Garg",
+    "date": "2/27/2013"
+  },
+  {
+    "title": "A Look at Broadcom's BCM21892 LTE Baseband at MWC",
+    "comment": "8",
+    "author": "by Brian Klug",
+    "date": "2/27/2013"
+  },
+  {
+    "title": "Hands on with the ASUS Fonepad, and ASUS PadFone Infinity",
+    "comment": "70",
+    "author": "by Brian Klug",
+    "date": "2/25/2013"
+  },
+  {
+    "title": "NVIDIA Tegra 4 Architecture Deep Dive, Plus Tegra 4i, Icera i500 & Phoenix Hands On",
+    "comment": "75",
+    "author": "by Anand Lal Shimpi & Brian Klug",
+    "date": "2/24/2013"
+  },
+  {
+    "title": "Samsung's Galaxy Note 8.0: Introduction & Hands On",
+    "comment": "32",
+    "author": "by Anand Lal Shimpi",
+    "date": "2/23/2013"
+  },
+  {
+    "title": "Samsung's TV Discovery Service Enables TV to Smartphone/Tablet Streaming",
+    "comment": "7",
+    "author": "by Anand Lal Shimpi",
+    "date": "2/22/2013"
+  },
+  {
+    "title": "NVIDIA Announces Tegra 4i, Formerly Project Grey, With Integrated LTE and Phoenix Reference Design",
+    "comment": "21",
+    "author": "by Brian Klug & Anand Lal Shimpi",
+    "date": "2/19/2013"
+  },
+  {
+    "title": "Microsoft Surface Pro mSATA SSD Upgrade: Dangerous but Successful",
+    "comment": "35",
+    "author": "by Anand Lal Shimpi",
+    "date": "2/17/2013"
+  },
+  {
+    "title": "Tegra 4 Shipment Date: Still Q2 2013",
+    "comment": "6",
+    "author": "by Anand Lal Shimpi",
+    "date": "2/14/2013"
+  },
+  {
+    "title": "Microsoft Surface Pro Teardown: mSATA SSD Inside",
+    "comment": "12",
+    "author": "by Anand Lal Shimpi",
+    "date": "2/13/2013"
+  },
+  {
+    "title": "Broadcom Announces BCM21892 - Their First 4G LTE-Advanced Baseband",
+    "comment": "17",
+    "author": "by Brian Klug",
+    "date": "2/12/2013"
+  },
+  {
+    "title": "WikiPad Gaming Tablet Coming This Spring For $249",
+    "comment": "11",
+    "author": "by Jas Inofuentes",
+    "date": "2/7/2013"
+  },
+  {
+    "title": "Microsoft Surface Pro Review",
+    "comment": "229",
+    "author": "by Anand Lal Shimpi",
+    "date": "2/5/2013"
+  },
+  {
+    "title": "3DMark for Windows Launches; We Test It with Various Laptops",
+    "comment": "69",
+    "author": "by Jarred Walt",
+    "date": "2/5/2013"
+  },
+  {
+    "title": "Hands on with Microsoft's Surface Pro, Available in US & Canada on February 9th",
+    "comment": "56",
+    "author": "by Anand Lal Shimpi",
+    "date": "1/22/2013"
+  },
+  {
+    "title": "Microsoft Announces New Surface RT SKU: 64GB Without Touch Cover",
+    "comment": "18",
+    "author": "by Anand Lal Shimpi",
+    "date": "1/22/2013"
+  },
+  {
+    "title": "Rounding Out the Surface Announcements: New Markets and New Touch Covers",
+    "comment": "4",
+    "author": "by Anand Lal Shimpi",
+    "date": "1/22/2013"
+  },
+  {
+    "title": "Vizio's AMD Z60 Hondo-based Windows 8 Tablet PC at CES 2013",
+    "comment": "32",
+    "author": "by Vivek Gowri",
+    "date": "1/15/2013"
+  },
+  {
+    "title": "Razer Edge: Impressions and Thoughts",
+    "comment": "15",
+    "author": "by Vivek Gowri",
+    "date": "1/14/2013"
+  },
+  {
+    "title": "Intel Brings Core Down to 7W, Introduces a New Power Rating to Get There: Y-Series SKUs Demystified",
+    "comment": "56",
+    "author": "by Anand Lal Shimpi",
+    "date": "1/14/2013"
+  },
+  {
+    "title": "ASUS $149 7-inch MeMO Pad Headed to the US, Powered by VIA SoC & Android 4.1",
+    "comment": "7",
+    "author": "by Anand Lal Shimpi",
+    "date": "1/13/2013"
+  },
+  {
+    "title": "CES 2013 in Retrospect: Laptop Market Trends",
+    "comment": "27",
+    "author": "by Jarred Walt",
+    "date": "1/12/2013"
+  },
+  {
+    "title": "Samsung Announces Exynos 5 Octa SoC - 4 Cortex A7s, 4 Cortex A15s",
+    "comment": "19",
+    "author": "by Brian Klug",
+    "date": "1/9/2013"
+  },
+  {
+    "title": "Razer Announces 10.1\" Edge Gaming Tablet with Ivy Bridge, Kepler, Windows 8",
+    "comment": "27",
+    "author": "by Vivek Gowri",
+    "date": "1/8/2013"
+  },
+  {
+    "title": "Hands On with ASUS' Transformer All-in-One (P1801)",
+    "comment": "4",
+    "author": "by Anand Lal Shimpi",
+    "date": "1/7/2013"
+  },
+  {
+    "title": "AT&T 2013 Developer Summit Keynote: Live Blog",
+    "comment": "5",
+    "author": "by Brian Klug",
+    "date": "1/7/2013"
+  },
+  {
+    "title": "The State of Qualcomm's Modems - WTR1605 and MDM9x25",
+    "comment": "20",
+    "author": "by Brian Klug",
+    "date": "1/4/2013"
+  },
+  {
+    "title": "MSI Announces Slider S20 Ultrabook Convertible",
+    "comment": "9",
+    "author": "by Jarred Walt",
+    "date": "1/4/2013"
+  },
+  {
+    "title": "Thoughts on Windows 8 Laptops with Touchscreens",
+    "comment": "59",
+    "author": "by Jarred Walt",
+    "date": "1/4/2013"
+  },
+  {
+    "title": "The ARM vs x86 Wars Have Begun: In-Depth Power Analysis of Atom, Krait & Cortex A15",
+    "comment": "140",
+    "author": "by Anand Lal Shimpi",
+    "date": "1/4/2013"
+  },
+  {
+    "title": "Samsung ATIV Tab Review: Qualcomm's First Windows RT Tablet",
+    "comment": "42",
+    "author": "by Anand Lal Shimpi",
+    "date": "1/3/2013"
+  },
+  {
+    "title": "The x86 Power Myth Busted: In-Depth Clover Trail Power Analysis",
+    "comment": "163",
+    "author": "by Anand Lal Shimpi",
+    "date": "12/24/2012"
+  },
+  {
+    "title": "The Clover Trail (Atom Z2760) Review: Acer's W510 Tested",
+    "comment": "104",
+    "author": "by Anand Lal Shimpi",
+    "date": "12/20/2012"
+  },
+  {
+    "title": "ARCHOS GamePad Introduced: 7\" Gaming Tablet with Hardware Controls",
+    "comment": "24",
+    "author": "by Jas Inofuentes",
+    "date": "12/6/2012"
+  },
+  {
+    "title": "iPad 4 (Late 2012) Review",
+    "comment": "113",
+    "author": "by Anand Lal Shimpi",
+    "date": "12/6/2012"
+  },
+  {
+    "title": "Microsoft Announces Surface Pro Pricing and Availability: 17W IVB Starting at $899 in January 2013",
+    "comment": "93",
+    "author": "by Anand Lal Shimpi",
+    "date": "11/29/2012"
+  },
+  {
+    "title": "Patriot Gauntlet Node/320 Review: Wireless Storage for Tablets",
+    "comment": "35",
+    "author": "by Anand Lal Shimpi & Cara Hamm",
+    "date": "11/22/2012"
+  },
+  {
+    "title": "iPad mini Review",
+    "comment": "140",
+    "author": "by Anand Lal Shimpi & Vivek Gowri",
+    "date": "11/20/2012"
+  },
+  {
+    "title": "Qualcomm Begins Sampling MDM9x25 - Category 4 LTE, 3GPP Release 10",
+    "comment": "14",
+    "author": "by Brian Klug",
+    "date": "11/18/2012"
+  },
+  {
+    "title": "Android 4.2 Hits AOSP, Broadcom Replaces NXP with NCI Stack for NFC",
+    "comment": "13",
+    "author": "by Brian Klug",
+    "date": "11/14/2012"
+  },
+  {
+    "title": "The AnandTech Podcast: Episode 9",
+    "comment": "49",
+    "author": "by Anand Lal Shimpi",
+    "date": "11/7/2012"
+  },
+  {
+    "title": "iPad 4 GPU Performance Analyzed: PowerVR SGX 554MP4 Under the Hood",
+    "comment": "114",
+    "author": "by Anand Lal Shimpi",
+    "date": "11/2/2012"
+  },
+  {
+    "title": "Google Nexus 4 and Nexus 10 Performance Preview",
+    "comment": "244",
+    "author": "by Anand Lal Shimpi & Brian Klug",
+    "date": "11/2/2012"
+  },
+  {
+    "title": "Apple Releases iOS 6.0.1 - Fixes Keyboard Artifacts, Other Bugs (Update: iOS 6.1 Beta 1 Released As Well)",
+    "comment": "19",
+    "author": "by Brian Klug",
+    "date": "11/1/2012"
+  },
+  {
+    "title": "Nexus 4 and Nexus 10: A Closer Look",
+    "comment": "102",
+    "author": "by Jas Inofuentes",
+    "date": "10/29/2012"
+  },
+  {
+    "title": "LG and Google Announce the Nexus 4, Starts at $299",
+    "comment": "91",
+    "author": "by Jas Inofuentes",
+    "date": "10/29/2012"
+  },
+  {
+    "title": "The Windows RT Review",
+    "comment": "233",
+    "author": "by Vivek Gowri & Anand Lal Shimpi",
+    "date": "10/25/2012"
+  },
+  {
+    "title": "Microsoft Surface Review",
+    "comment": "235",
+    "author": "by Anand Lal Shimpi",
+    "date": "10/23/2012"
+  },
+  {
+    "title": "ASUS Windows 8 and RT Products Revealed",
+    "comment": "17",
+    "author": "by Jas Inofuentes",
+    "date": "10/23/2012"
+  },
+  {
+    "title": "iPad (4th gen) Hands On",
+    "comment": "25",
+    "author": "by Anand Lal Shimpi",
+    "date": "10/23/2012"
+  },
+  {
+    "title": "ASUS VivoTab RT Review",
+    "comment": "68",
+    "author": "by Vivek Gowri",
+    "date": "10/23/2012"
+  },
+  {
+    "title": "iPad mini Hands On - Updated with More Photos & Videos",
+    "comment": "64",
+    "author": "by Anand Lal Shimpi",
+    "date": "10/23/2012"
+  },
+  {
+    "title": "Apple's iPad mini Event Live Blog",
+    "comment": "89",
+    "author": "by Anand Lal Shimpi",
+    "date": "10/23/2012"
+  },
+  {
+    "title": "Acer Iconia A110 Guns For Nexus 7",
+    "comment": "19",
+    "author": "by Jas Inofuentes",
+    "date": "10/18/2012"
+  },
+  {
+    "title": "Inside Microsoft's Surface RT Tablet",
+    "comment": "73",
+    "author": "by Anand Lal Shimpi",
+    "date": "10/16/2012"
+  },
+  {
+    "title": "Microsoft Surface RT Starting at $499, Available 10/26, Preorder Today",
+    "comment": "68",
+    "author": "by Anand Lal Shimpi",
+    "date": "10/16/2012"
+  },
+  {
+    "title": "Razer's Project Fiona Gaming Tablet Confirmed for Production",
+    "comment": "36",
+    "author": "by Vivek Gowri",
+    "date": "10/4/2012"
+  },
+  {
+    "title": "HP's ElitePad 900 Windows 8 Tablet: No Short Skirt, But a Couple of Long Jackets",
+    "comment": "31",
+    "author": "by Dustin Sklavos",
+    "date": "10/1/2012"
+  },
+  {
+    "title": "Intel Details Atom Z2760: Clovertrail for Windows 8 Tablets",
+    "comment": "78",
+    "author": "by Anand Lal Shimpi",
+    "date": "9/27/2012"
+  },
+  {
+    "title": "Additional Details on Micron\u2019s DDR3L-RS, DDR4-RS, and Other Memory",
+    "comment": "24",
+    "author": "by Jarred Walt",
+    "date": "9/22/2012"
+  },
+  {
+    "title": "Dell's Enterprise Windows 8 Rollout Begins",
+    "comment": "21",
+    "author": "by Dustin Sklavos",
+    "date": "9/19/2012"
+  },
+  {
+    "title": "Acer Iconia W510 and W700 Hands On at IDF",
+    "comment": "16",
+    "author": "by Anand Lal Shimpi",
+    "date": "9/11/2012"
+  },
+  {
+    "title": "Google's Eric Schmidt: 1.3M Android Device Activations Per Day, 480M Android Devices in the Market",
+    "comment": "14",
+    "author": "by Anand Lal Shimpi",
+    "date": "9/5/2012"
+  },
+  {
+    "title": "Sony Xperia Tablet S: A Tablet and Universal Remote Rolled Into One",
+    "comment": "16",
+    "author": "by Jarred Walt",
+    "date": "8/31/2012"
+  },
+  {
+    "title": "Samsung Reveals Additional Details on Series 5 and 7 Slates and Ultrabooks",
+    "comment": "18",
+    "author": "by Jarred Walt",
+    "date": "8/31/2012"
+  },
+  {
+    "title": "Toshiba Excite 7.7 Tablet Review: AMOLED in a Fun Size",
+    "comment": "50",
+    "author": "by Dustin Sklavos",
+    "date": "8/29/2012"
+  },
+  {
+    "title": "Unreal Engine 3 Running on ASUS' Vivo Tab RT",
+    "comment": "20",
+    "author": "by Anand Lal Shimpi",
+    "date": "8/29/2012"
+  },
+  {
+    "title": "ASUS' Vivo Tab & Vivo Tab RT: Windows 8/RT Tablets Renamed",
+    "comment": "8",
+    "author": "by Anand Lal Shimpi",
+    "date": "8/29/2012"
+  },
+  {
+    "title": "The AnandTech Podcast: Episode 2",
+    "comment": "25",
+    "author": "by Anand Lal Shimpi",
+    "date": "8/28/2012"
+  },
+  {
+    "title": "Qualcomm's APQ8064 and GLBenchmark 2.5 - MDP/T Results",
+    "comment": "9",
+    "author": "by Brian Klug & Anand Lal Shimpi",
+    "date": "8/24/2012"
+  },
+  {
+    "title": "The Archos 101 XS Review: Prettier, Faster, So Much Better",
+    "comment": "44",
+    "author": "by Jas Inofuentes",
+    "date": "8/22/2012"
+  },
+  {
+    "title": "Synaptics Talks In-Cell Touch & The Value of a Good Touch Controller",
+    "comment": "10",
+    "author": "by Anand Lal Shimpi",
+    "date": "8/17/2012"
+  },
+  {
+    "title": "Live from Samsung's Galaxy Note 10.1 Launch",
+    "comment": "43",
+    "author": "by Anand Lal Shimpi",
+    "date": "8/15/2012"
+  },
+  {
+    "title": "Microsoft Reveals First Battery Life Specs for Windows RT Tablets",
+    "comment": "18",
+    "author": "by Anand Lal Shimpi",
+    "date": "8/14/2012"
+  },
+  {
+    "title": "Samsung Announces A15/Mali-T604 Based Exynos 5 Dual",
+    "comment": "36",
+    "author": "by Anand Lal Shimpi",
+    "date": "8/10/2012"
+  },
+  {
+    "title": "NVIDIA Q2 FY13 Earnings Report: $1.04B Revenue, Tegra Sales Recover",
+    "comment": "14",
+    "author": "by Anand Lal Shimpi",
+    "date": "8/10/2012"
+  },
+  {
+    "title": "Apple Releases iOS 6 Beta 4, Removes YouTube.app",
+    "comment": "19",
+    "author": "by Brian Klug",
+    "date": "8/6/2012"
+  },
+  {
+    "title": "ARM Announces 8-core 2nd Gen Mali-T600 GPUs",
+    "comment": "25",
+    "author": "by Anand Lal Shimpi",
+    "date": "8/6/2012"
+  },
+  {
+    "title": "Anand Chandrasekher Joins Qualcomm",
+    "comment": "10",
+    "author": "by Anand Lal Shimpi",
+    "date": "8/6/2012"
+  },
+  {
+    "title": "The 16GB Nexus 7: Storage Performance",
+    "comment": "16",
+    "author": "by Anand Lal Shimpi",
+    "date": "8/1/2012"
+  },
+  {
+    "title": "GLBenchmark 2.5 Performance on iOS and Android Devices",
+    "comment": "58",
+    "author": "by Anand Lal Shimpi & Brian Klug",
+    "date": "7/31/2012"
+  },
+  {
+    "title": "GLBenchmark 2.5 Performance on Modern Android Smartphones & Tablets",
+    "comment": "47",
+    "author": "by Anand Lal Shimpi & Brian Klug",
+    "date": "7/31/2012"
+  },
+  {
+    "title": "The Google Nexus 7 Review",
+    "comment": "118",
+    "author": "by Anand Lal Shimpi & Brian Klug",
+    "date": "7/26/2012"
+  },
+  {
+    "title": "Broadcom Announces 802.11ac Combo Chip, BCM4335",
+    "comment": "7",
+    "author": "by Brian Klug",
+    "date": "7/24/2012"
+  },
+  {
+    "title": "Qualcomm's Quad-Core Snapdragon S4 (APQ8064/Adreno 320) Performance Preview",
+    "comment": "35",
+    "author": "by Anand Lal Shimpi & Brian Klug",
+    "date": "7/24/2012"
+  },
+  {
+    "title": "ASUS Announces Plans to Bring Jelly Bean to Transformer Pad Series",
+    "comment": "17",
+    "author": "by Anand Lal Shimpi",
+    "date": "7/20/2012"
+  },
+  {
+    "title": "Android 4.1 hits AOSP, Verizon Galaxy Nexus regains AOSP Support",
+    "comment": "6",
+    "author": "by Brian Klug",
+    "date": "7/9/2012"
+  },
+  {
+    "title": "MHL and USB-OTG on the Nexus 7 - Mounting USB Storage Not Supported",
+    "comment": "47",
+    "author": "by Brian Klug",
+    "date": "6/29/2012"
+  },
+  {
+    "title": "Some Impressions and Benchmarks from Chrome on iOS",
+    "comment": "52",
+    "author": "by Brian Klug",
+    "date": "6/28/2012"
+  },
+  {
+    "title": "Google announces Chrome for iOS - iPhone and iPad",
+    "comment": "15",
+    "author": "by Brian Klug",
+    "date": "6/28/2012"
+  },
+  {
+    "title": "Google Nexus 7 and Android 4.1 - Mini Review",
+    "comment": "189",
+    "author": "by Brian Klug",
+    "date": "6/28/2012"
+  },
+  {
+    "title": "Google Announces Android 4.1 Jelly Bean and Project Butter",
+    "comment": "17",
+    "author": "by Brian Klug",
+    "date": "6/27/2012"
+  },
+  {
+    "title": "Google Makes ASUS Supplied Nexus 7 Tablet Official - Update: Play Store Page Live",
+    "comment": "31",
+    "author": "by Brian Klug",
+    "date": "6/27/2012"
+  },
+  {
+    "title": "Google I/O 2012 Keynote Day 1 - We're Here Live",
+    "comment": "7",
+    "author": "by Brian Klug",
+    "date": "6/27/2012"
+  },
+  {
+    "title": "ASUS Transformer Pad Infinity (TF700T) Review",
+    "comment": "112",
+    "author": "by Anand Lal Shimpi",
+    "date": "6/25/2012"
+  },
+  {
+    "title": "Microsoft Surface - We Go Hands On [UPDATE: Detailed Impressions]",
+    "comment": "161",
+    "author": "by Vivek Gowri",
+    "date": "6/18/2012"
+  },
+  {
+    "title": "Microsoft's Major Announcement in LA - We're There!",
+    "comment": "26",
+    "author": "by Vivek Gowri",
+    "date": "6/18/2012"
+  },
+  {
+    "title": "TI Demos Windows RT UI Performance on OMAP 4470",
+    "comment": "20",
+    "author": "by Brian Klug",
+    "date": "6/14/2012"
+  },
+  {
+    "title": "The Acer Iconia Tab A700 Brings 1920x1200 to $449",
+    "comment": "19",
+    "author": "by Dustin Sklavos",
+    "date": "6/13/2012"
+  },
+  {
+    "title": "Apple Introduces New Smart Covers",
+    "comment": "9",
+    "author": "by Saumitra Bhagwat",
+    "date": "6/11/2012"
+  },
+  {
+    "title": "Siri in iOS 6",
+    "comment": "6",
+    "author": "by Anand Lal Shimpi",
+    "date": "6/11/2012"
+  },
+  {
+    "title": "Acer's Iconia W700 Ivy Bridge Windows 8 Tablet: The Start of Something Big",
+    "comment": "141",
+    "author": "by Anand Lal Shimpi",
+    "date": "6/9/2012"
+  },
+  {
+    "title": "The Archos G9 Returns: Reclocked GPU Raises The Pace",
+    "comment": "5",
+    "author": "by Jas Inofuentes",
+    "date": "6/8/2012"
+  },
+  {
+    "title": "ASUS Tablet 810 & 600: Giving us Almost Exactly What We Want in a Windows 8 Tablet",
+    "comment": "13",
+    "author": "by Anand Lal Shimpi",
+    "date": "6/4/2012"
+  },
+  {
+    "title": "TI Shows off OMAP5430 GPU Performance before Computex",
+    "comment": "19",
+    "author": "by Brian Klug",
+    "date": "6/3/2012"
+  },
+  {
+    "title": "Nvidia Announces Icera 500 - The Baseband in Grey",
+    "comment": "16",
+    "author": "by Brian Klug",
+    "date": "5/24/2012"
+  },
+  {
+    "title": "The Archos G9 Tablet Reviews: Fast Enough",
+    "comment": "39",
+    "author": "by Jas Inofuentes",
+    "date": "5/23/2012"
+  },
+  {
+    "title": "Sonic 4: Episode II Now Available for Tegra 3",
+    "comment": "17",
+    "author": "by Anand Lal Shimpi",
+    "date": "5/16/2012"
+  },
+  {
+    "title": "The iPad 2,4 Review: 32nm Brings Better Battery Life",
+    "comment": "100",
+    "author": "by Anand Lal Shimpi",
+    "date": "5/4/2012"
+  },
+  {
+    "title": "ASUS Transformer Pad 300 (TF300T) Review",
+    "comment": "37",
+    "author": "by Anand Lal Shimpi",
+    "date": "4/22/2012"
+  },
+  {
+    "title": "NVIDIA Plots Mobile SoC GPU Performance, Surpassing Xbox 360 by 2014",
+    "comment": "51",
+    "author": "by Anand Lal Shimpi",
+    "date": "4/19/2012"
+  },
+  {
+    "title": "Apple's iPad 2,4 also uses 32nm A5 S5L8942 SoC",
+    "comment": "28",
+    "author": "by Brian Klug",
+    "date": "4/11/2012"
+  },
+  {
+    "title": "Apple TV A5 SoC is 32nm, Harvested dual-core A5",
+    "comment": "10",
+    "author": "by Anand Lal Shimpi",
+    "date": "4/11/2012"
+  },
+  {
+    "title": "Toshiba Teases New Notebooks, Tablets",
+    "comment": "21",
+    "author": "by Dustin Sklavos",
+    "date": "4/11/2012"
+  },
+  {
+    "title": "Lenovo shows off Android 4.0 ICS powered 9.7-inch IdeaTab S2109",
+    "comment": "19",
+    "author": "by Amman Sood",
+    "date": "4/9/2012"
+  },
+  {
+    "title": "The 2012 iPad Followup: Galaxy Tab 10.1 LTE Comparison",
+    "comment": "52",
+    "author": "by Anand Lal Shimpi",
+    "date": "4/2/2012"
+  },
+  {
+    "title": "Microsoft Talks Windows 8 Touch Experience on Windows 7 Tablets",
+    "comment": "18",
+    "author": "by Andrew Cunningham",
+    "date": "3/29/2012"
+  },
+  {
+    "title": "The Apple iPad Review (2012)",
+    "comment": "234",
+    "author": "by Vivek Gowri & Anand Lal Shimpi",
+    "date": "3/28/2012"
+  },
+  {
+    "title": "Acer Iconia Tab A510: Tegra 3 Hits $450",
+    "comment": "21",
+    "author": "by Jas Inofuentes",
+    "date": "3/22/2012"
+  },
+  {
+    "title": "Tested: Battery Life on the new iPad",
+    "comment": "50",
+    "author": "by Anand Lal Shimpi",
+    "date": "3/19/2012"
+  },
+  {
+    "title": "The new iPad: Retina Display Analysis",
+    "comment": "173",
+    "author": "by Anand Lal Shimpi",
+    "date": "3/19/2012"
+  },
+  {
+    "title": "Archos 80 and 101 G9 Turbo 1.5 GHz Available Now In US",
+    "comment": "6",
+    "author": "by Jas Inofuentes",
+    "date": "3/19/2012"
+  },
+  {
+    "title": "Apple's A5X Floorplan",
+    "comment": "18",
+    "author": "by Anand Lal Shimpi",
+    "date": "3/16/2012"
+  },
+  {
+    "title": "Apple A5X Die Size Measured: 162.94mm^2, Samsung 45nm LP Confirmed",
+    "comment": "46",
+    "author": "by Anand Lal Shimpi",
+    "date": "3/16/2012"
+  },
+  {
+    "title": "Archos Shipping 1.5GHz 80 G9 Turbo Across The Pond",
+    "comment": "8",
+    "author": "by Jas Inofuentes",
+    "date": "3/16/2012"
+  },
+  {
+    "title": "Apple's A5X Die (and Size?) Revealed",
+    "comment": "45",
+    "author": "by Anand Lal Shimpi",
+    "date": "3/15/2012"
+  },
+  {
+    "title": "The Frequency of Apple A5X in the New iPad Confirmed: Still Running at 1GHz",
+    "comment": "49",
+    "author": "by Kristian V\u00e4tt\u00f6",
+    "date": "3/13/2012"
+  },
+  {
+    "title": "Analysis of the new Apple iPad",
+    "comment": "161",
+    "author": "by Anand Lal Shimpi",
+    "date": "3/9/2012"
+  },
+  {
+    "title": "Archos Rolls Out ICS Update to Entire G9 Line",
+    "comment": "15",
+    "author": "by Jas Inofuentes",
+    "date": "3/8/2012"
+  },
+  {
+    "title": "The new iPad 4G contains Qualcomm's MDM9x00 Baseband",
+    "comment": "18",
+    "author": "by Brian Klug",
+    "date": "3/8/2012"
+  },
+  {
+    "title": "Physical Impressions of the New iPad, Retina Display Shots",
+    "comment": "19",
+    "author": "by Anand Lal Shimpi",
+    "date": "3/7/2012"
+  },
+  {
+    "title": "Apple TV Next and The New iPad Tech Specs Pages Post - Single Core A5 in Apple TV",
+    "comment": "11",
+    "author": "by Brian Klug",
+    "date": "3/7/2012"
+  },
+  {
+    "title": "Apple: iPad 2 is Now $399",
+    "comment": "7",
+    "author": "by Anand Lal Shimpi",
+    "date": "3/7/2012"
+  },
+  {
+    "title": "Epic Announces Infinity Blade Dungeons: Diablo-Style Gaming for iPad",
+    "comment": "7",
+    "author": "by Anand Lal Shimpi",
+    "date": "3/7/2012"
+  },
+  {
+    "title": "The New iPad vs. ASUS' Transformer Pad Infinity in Specs",
+    "comment": "63",
+    "author": "by Anand Lal Shimpi",
+    "date": "3/7/2012"
+  },
+  {
+    "title": "Apple: Introducing iPhoto for the iPad/iPhone",
+    "comment": "2",
+    "author": "by Anand Lal Shimpi",
+    "date": "3/7/2012"
+  },
+  {
+    "title": "The New iPad: Same Battery Life, Same Price, Slightly Thicker",
+    "comment": "10",
+    "author": "by Anand Lal Shimpi",
+    "date": "3/7/2012"
+  },
+  {
+    "title": "Apple's new iPad will support LTE on AT&T, Verizon, Rogers, Bell and Telus",
+    "comment": "1",
+    "author": "by Anand Lal Shimpi",
+    "date": "3/7/2012"
+  },
+  {
+    "title": "Apple: New iPad Supports LTE & Voice Dictation",
+    "comment": "1",
+    "author": "by Anand Lal Shimpi",
+    "date": "3/7/2012"
+  },
+  {
+    "title": "The New iPad's iSight camera with 1080p HD Video Recording",
+    "comment": "3",
+    "author": "by Anand Lal Shimpi",
+    "date": "3/7/2012"
+  },
+  {
+    "title": "Apple's A5X SoC: Quad-Core Graphics",
+    "comment": "15",
+    "author": "by Anand Lal Shimpi",
+    "date": "3/7/2012"
+  },
+  {
+    "title": "Apple Announces the New iPad with 2048 x 1536 \"Retina Display\"",
+    "comment": "14",
+    "author": "by Anand Lal Shimpi",
+    "date": "3/7/2012"
+  },
+  {
+    "title": "Apple: We Shipped More iPads Last Quarter than Any PC Maker Shipped PCs",
+    "comment": "7",
+    "author": "by Anand Lal Shimpi",
+    "date": "3/7/2012"
+  },
+  {
+    "title": "New 1080p Apple TV, Available March 16th for $99",
+    "comment": "14",
+    "author": "by Anand Lal Shimpi",
+    "date": "3/7/2012"
+  },
+  {
+    "title": "New Apple TV UI Demoed",
+    "comment": "2",
+    "author": "by Anand Lal Shimpi",
+    "date": "3/7/2012"
+  },
+  {
+    "title": "New Apple TV Now Supports 1080p",
+    "comment": "1",
+    "author": "by Anand Lal Shimpi",
+    "date": "3/7/2012"
+  },
+  {
+    "title": "Apple: iOS 5.1 Available Today, Japanese Siri Included",
+    "comment": "2",
+    "author": "by Anand Lal Shimpi",
+    "date": "3/7/2012"
+  },
+  {
+    "title": "Live at Apple's iPad Event",
+    "comment": "2",
+    "author": "by Anand Lal Shimpi",
+    "date": "3/7/2012"
+  },
+  {
+    "title": "Toshiba Announces Excite 10 LE, Shipping March 6th",
+    "comment": "12",
+    "author": "by Vivek Gowri",
+    "date": "3/1/2012"
+  },
+  {
+    "title": "TI Brings OMAP 5 to MWC",
+    "comment": "10",
+    "author": "by Anand Lal Shimpi",
+    "date": "2/29/2012"
+  },
+  {
+    "title": "Sonic 4: Episode II, Now Optimized for Tegra",
+    "comment": "9",
+    "author": "by Brian Klug",
+    "date": "2/28/2012"
+  },
+  {
+    "title": "Apple iPad 3 Event Scheduled For March 7th In San Francisco",
+    "comment": "52",
+    "author": "by Saumitra Bhagwat",
+    "date": "2/28/2012"
+  },
+  {
+    "title": "ST-E Will Have FD-SOI Based U8540: 35% Lower Power, Much Higher Frequencies",
+    "comment": "4",
+    "author": "by Anand Lal Shimpi",
+    "date": "2/28/2012"
+  },
+  {
+    "title": "ST-Ericsson's NovaThor L8540: 28nm Cortex A9 SoC with Integrated LTE",
+    "comment": "5",
+    "author": "by Anand Lal Shimpi",
+    "date": "2/28/2012"
+  },
+  {
+    "title": "Intel Continues Its Smartphone March: Lava & ZTE Partnerships Announced",
+    "comment": "2",
+    "author": "by Anand Lal Shimpi",
+    "date": "2/28/2012"
+  },
+  {
+    "title": "Intel Goes Higher & Lower End With Atom SoCs: Z2580 & Z2000 Announced at MWC",
+    "comment": "25",
+    "author": "by Anand Lal Shimpi",
+    "date": "2/27/2012"
+  },
+  {
+    "title": "Samsung Galaxy Note 10.1 Revealed at MWC",
+    "comment": "10",
+    "author": "by Jas Inofuentes",
+    "date": "2/27/2012"
+  },
+  {
+    "title": "Hands On With the ASUS Transformer Pad Infinity",
+    "comment": "12",
+    "author": "by Anand Lal Shimpi",
+    "date": "2/27/2012"
+  },
+  {
+    "title": "Qualcomm Announces Snapdragon S4 Pro: Krait with Adreno 320",
+    "comment": "14",
+    "author": "by Anand Lal Shimpi",
+    "date": "2/27/2012"
+  },
+  {
+    "title": "The ASUS Transformer Pad Infinity: 1920 x 1200 Display, Krait Optional",
+    "comment": "20",
+    "author": "by Anand Lal Shimpi",
+    "date": "2/27/2012"
+  },
+  {
+    "title": "ASUS Reveals Padfone Specifications",
+    "comment": "10",
+    "author": "by Anand Lal Shimpi",
+    "date": "2/27/2012"
+  },
+  {
+    "title": "The ASUS Transformer Pad 300 Series",
+    "comment": "9",
+    "author": "by Anand Lal Shimpi",
+    "date": "2/27/2012"
+  },
+  {
+    "title": "Samsung Fleshes Out Tab 2 Line and Unveils Galaxy Beam",
+    "comment": "12",
+    "author": "by Jas Inofuentes",
+    "date": "2/26/2012"
+  },
+  {
+    "title": "The Qualcomm Snapdragon S4 (Krait) Preview Part II",
+    "comment": "49",
+    "author": "by Anand Lal Shimpi",
+    "date": "2/22/2012"
+  },
+  {
+    "title": "NVIDIA's Rebrands Tegra 3's vSMP as 4-PLUS-1",
+    "comment": "5",
+    "author": "by Anand Lal Shimpi",
+    "date": "2/22/2012"
+  },
+  {
+    "title": "Acer Updates Iconia Tablets to Android 4.0",
+    "comment": "1",
+    "author": "by Jarred Walt",
+    "date": "2/17/2012"
+  },
+  {
+    "title": "Samsung Refreshes Galaxy Tab Again: Dual-Core, No Plus",
+    "comment": "8",
+    "author": "by Jas Inofuentes",
+    "date": "2/13/2012"
+  },
+  {
+    "title": "Lenovo ThinkPad Tablet Gets Ice Cream Sandwich in May",
+    "comment": "1",
+    "author": "by Andrew Cunningham",
+    "date": "2/6/2012"
+  },
+  {
+    "title": "AT&T to Launch New Data Plans For Smartphones, Tablets",
+    "comment": "32",
+    "author": "by Andrew Cunningham & Manveer Wass",
+    "date": "1/18/2012"
+  },
+  {
+    "title": "MIPS Technologies Targets Mobile Push",
+    "comment": "8",
+    "author": "by Ganesh T S",
+    "date": "1/18/2012"
+  },
+  {
+    "title": "CyanogenMod Team Shows Ice Cream Sandwich Running on HP TouchPad",
+    "comment": "12",
+    "author": "by Andrew Cunningham",
+    "date": "1/16/2012"
+  },
+  {
+    "title": "Toshiba Demos Excite 10.1\u201d and Concept Tablet Designs",
+    "comment": "6",
+    "author": "by Jarred Walt, Vivek Gowri & Manveer Wass",
+    "date": "1/13/2012"
+  },
+  {
+    "title": "Updated: ASUS Eee Pad MeMO ME370T Shipping in Q2 2012",
+    "comment": "7",
+    "author": "by Anand Lal Shimpi & Manveer Wass",
+    "date": "1/12/2012"
+  },
+  {
+    "title": "TI Shows Off OMAP 5 & ARM Cortex A15 at CES",
+    "comment": "13",
+    "author": "by Anand Lal Shimpi & Manveer Wass",
+    "date": "1/12/2012"
+  },
+  {
+    "title": "CES 2012 Nvidia Press Conference",
+    "comment": "4",
+    "author": "by Brian Klug",
+    "date": "1/9/2012"
+  },
+  {
+    "title": "Intel's Functional Nikiski Concept PC: Transparent Touchpad Doubles as a Screen Window",
+    "comment": "9",
+    "author": "by Anand Lal Shimpi",
+    "date": "1/9/2012"
+  },
+  {
+    "title": "ASUS' Transformer Prime TF700T: Improves Wireless, Adds 1920 x 1200 Panel, Available in Q2",
+    "comment": "22",
+    "author": "by Anand Lal Shimpi",
+    "date": "1/9/2012"
+  },
+  {
+    "title": "Lenovo At CES: Android TV and First Krait Tablet",
+    "comment": "3",
+    "author": "by Jas Inofuentes",
+    "date": "1/9/2012"
+  },
+  {
+    "title": "Acer Unveils the Thinnest Ultrabook, a 15\" Ultrabook, a 1080p Tablet and AcerCloud",
+    "comment": "8",
+    "author": "by Jas Inofuentes",
+    "date": "1/8/2012"
+  },
+  {
+    "title": "Nook Tablet Beats Expectations, B&N Considers Nook Spin-off",
+    "comment": "15",
+    "author": "by Andrew Cunningham",
+    "date": "1/5/2012"
+  },
+  {
+    "title": "Acer Iconia Tab A200 On Sale January 15 Priced At $329",
+    "comment": "6",
+    "author": "by Vivek Gowri",
+    "date": "1/5/2012"
+  },
+  {
+    "title": "5th Generation WiFi: 802.11ac, \"Gigabit\" WiFi Primer",
+    "comment": "39",
+    "author": "by Anand Lal Shimpi",
+    "date": "1/5/2012"
+  },
+  {
+    "title": "Broadcom Announces Family of 802.11ac Chipsets & 5G WiFi Brand",
+    "comment": "7",
+    "author": "by Anand Lal Shimpi",
+    "date": "1/5/2012"
+  },
+  {
+    "title": "Scaling to 802.11ac Speeds in Smartphones and Tablets",
+    "comment": "15",
+    "author": "by Anand Lal Shimpi",
+    "date": "1/5/2012"
+  },
+  {
+    "title": "Archos 70b IT Arrives with Honeycomb for $200",
+    "comment": "12",
+    "author": "by Vivek Gowri",
+    "date": "1/4/2012"
+  },
+  {
+    "title": "ASUS Eee Pad Transformer Prime Teardown",
+    "comment": "14",
+    "author": "by Anand Lal Shimpi",
+    "date": "1/4/2012"
+  },
+  {
+    "title": "ASUS Eee Pad Transformer Prime GPS Issue Explained",
+    "comment": "67",
+    "author": "by Anand Lal Shimpi",
+    "date": "1/4/2012"
+  },
+  {
+    "title": "All BlackBerry PlayBook Models On Sale for $299",
+    "comment": "12",
+    "author": "by Andrew Cunningham",
+    "date": "1/3/2012"
+  },
+  {
+    "title": "Apple Acquires Anobit: Bringing NAND Endurance Technology In-House",
+    "comment": "30",
+    "author": "by Anand Lal Shimpi",
+    "date": "12/21/2011"
+  },
+  {
+    "title": "ASUS Eee Pad Transformer Prime Review Part II: Battery Life & More",
+    "comment": "58",
+    "author": "by Anand Lal Shimpi",
+    "date": "12/15/2011"
+  },
+  {
+    "title": "ARM & GlobalFoundries Demo 2.5GHz+ 28nm Cortex A9 & 20nm Test Vehicle",
+    "comment": "12",
+    "author": "by Anand Lal Shimpi",
+    "date": "12/14/2011"
+  },
+  {
+    "title": "The New Intel Mobile Division",
+    "comment": "14",
+    "author": "by Anand Lal Shimpi",
+    "date": "12/14/2011"
+  },
+  {
+    "title": "Performance-Fixing Kindle Fire Update Due in Less Than Two Weeks",
+    "comment": "11",
+    "author": "by Andrew Cunningham",
+    "date": "12/12/2011"
+  },
+  {
+    "title": "Ice Cream Sandwich Previewed on the Archos G9",
+    "comment": "5",
+    "author": "by Vivek Gowri",
+    "date": "12/12/2011"
+  },
+  {
+    "title": "Toshiba Thrive: Honeycomb Hits $300",
+    "comment": "33",
+    "author": "by Vivek Gowri",
+    "date": "12/12/2011"
+  },
+  {
+    "title": "webOS Goes Open Source",
+    "comment": "19",
+    "author": "by Anand Lal Shimpi",
+    "date": "12/9/2011"
+  },
+  {
+    "title": "Dell Kills 7-inch Streak Tablet",
+    "comment": "18",
+    "author": "by Andrew Cunningham",
+    "date": "12/5/2011"
+  },
+  {
+    "title": "CyanogenMod 9 Should Support Most CM7-Compatible Devices",
+    "comment": "11",
+    "author": "by Andrew Cunningham",
+    "date": "12/2/2011"
+  },
+  {
+    "title": "Archos G9 Turbos On Sale Next Week, OMAP 4460-based G9 At CES (Updated)",
+    "comment": "9",
+    "author": "by Jas Inofuentes",
+    "date": "12/2/2011"
+  },
+  {
+    "title": "An Update on Transformer Prime Battery Life & WiFi Issues",
+    "comment": "53",
+    "author": "by Anand Lal Shimpi",
+    "date": "12/2/2011"
+  },
+  {
+    "title": "ASUS Eee Pad Transformer Prime Availability: Week of December 19th",
+    "comment": "12",
+    "author": "by Anand Lal Shimpi",
+    "date": "12/1/2011"
+  },
+  {
+    "title": "ASUS Eee Pad Transformer Prime & NVIDIA Tegra 3 Review",
+    "comment": "205",
+    "author": "by Anand Lal Shimpi",
+    "date": "12/1/2011"
+  },
+  {
+    "title": "Amazon Kindle Fire Review",
+    "comment": "70",
+    "author": "by Anand Lal Shimpi & Vivek Gowri",
+    "date": "11/29/2011"
+  },
+  {
+    "title": "NVIDIA Demos Ice Cream Sandwich Running on ASUS Transformer Prime",
+    "comment": "8",
+    "author": "by Anand Lal Shimpi",
+    "date": "11/22/2011"
+  },
+  {
+    "title": "Amazon's Silk Browser Acceleration Tested: Less Bandwidth Consumed, But Slower Performance",
+    "comment": "49",
+    "author": "by Anand Lal Shimpi",
+    "date": "11/21/2011"
+  },
+  {
+    "title": "Understanding Wireless Storage: Kingston Wi-Drive and Seagate GoFlex Satellite",
+    "comment": "32",
+    "author": "by Vivek Gowri",
+    "date": "11/21/2011"
+  },
+  {
+    "title": "Amazon Kindle Fire Teardown",
+    "comment": "7",
+    "author": "by Kristian V\u00e4tt\u00f6",
+    "date": "11/16/2011"
+  },
+  {
+    "title": "Netflix Updates User Interface For Android Tablet App, iPad coming",
+    "comment": "16",
+    "author": "by Amman Sood",
+    "date": "11/15/2011"
+  },
+  {
+    "title": "Android 4.0.1 (Ice Cream Sandwich) Coming to AOSP",
+    "comment": "9",
+    "author": "by Anand Lal Shimpi",
+    "date": "11/14/2011"
+  },
+  {
+    "title": "Samsung Licenses PowerVR SGX MP from Imagination Technologies",
+    "comment": "18",
+    "author": "by Anand Lal Shimpi",
+    "date": "11/10/2011"
+  },
+  {
+    "title": "Understanding Intel's Android 4.0 x86 Optimizations",
+    "comment": "12",
+    "author": "by Anand Lal Shimpi",
+    "date": "11/9/2011"
+  },
+  {
+    "title": "ARM's Mali-T658 GPU in 2013, Up to 10x Faster than Mali-400",
+    "comment": "21",
+    "author": "by Anand Lal Shimpi",
+    "date": "11/9/2011"
+  },
+  {
+    "title": "Adobe Kills Mobile Flash Plug-In",
+    "comment": "40",
+    "author": "by Andrew Cunningham",
+    "date": "11/9/2011"
+  },
+  {
+    "title": "NVIDIA's Tegra 3 Launched: Architecture Revealed",
+    "comment": "94",
+    "author": "by Anand Lal Shimpi",
+    "date": "11/9/2011"
+  },
+  {
+    "title": "ASUS' Transformer Prime Detailed: Quad-Core Tegra 3 Tablet",
+    "comment": "26",
+    "author": "by Anand Lal Shimpi",
+    "date": "11/9/2011"
+  },
+  {
+    "title": "T-Mobile Introduce HSPA+ Equipped Samsung Galaxy Tab 7.0 Plus",
+    "comment": "5",
+    "author": "by Jas Inofuentes",
+    "date": "11/8/2011"
+  },
+  {
+    "title": "Barnes & Noble Introduces Nook Tablet",
+    "comment": "8",
+    "author": "by Andrew Cunningham",
+    "date": "11/7/2011"
+  },
+  {
+    "title": "Confirmed: Samsung Galaxy Tab 7.0 Plus Uses Exynos SoC",
+    "comment": "23",
+    "author": "by Jas Inofuentes",
+    "date": "11/2/2011"
+  },
+  {
+    "title": "Dell Introduces Latitude ST Business Tablet",
+    "comment": "9",
+    "author": "by Andrew Cunningham",
+    "date": "10/27/2011"
+  },
+  {
+    "title": "Toshiba Releases 6.1\" Display with Resolution of 2560x1600",
+    "comment": "50",
+    "author": "by Kristian V\u00e4tt\u00f6",
+    "date": "10/22/2011"
+  },
+  {
+    "title": "Samsung Bringing Galaxy Tab 7.0 Plus To US: 1.2 GHz Dual-Core Tablet For $399",
+    "comment": "13",
+    "author": "by Jas Inofuentes",
+    "date": "10/21/2011"
+  },
+  {
+    "title": "Asus Teases The Transformer Prime; Kal-El Tablet Due Nov. 9th",
+    "comment": "21",
+    "author": "by Jas Inofuentes",
+    "date": "10/19/2011"
+  },
+  {
+    "title": "ARM's Cortex A7: Bringing Cheaper Dual-Core & More Power Efficient High-End Devices",
+    "comment": "77",
+    "author": "by Anand Lal Shimpi",
+    "date": "10/19/2011"
+  },
+  {
+    "title": "Time for Unification: RIM Announces BlackBerry BBX for Smartphones & Tablets",
+    "comment": "28",
+    "author": "by Anand Lal Shimpi",
+    "date": "10/18/2011"
+  },
+  {
+    "title": "HP TouchPad 3.0.4 Update Now Available, Adds non-webOS Phone Pairing",
+    "comment": "10",
+    "author": "by Anand Lal Shimpi",
+    "date": "10/18/2011"
+  },
+  {
+    "title": "ASUS Eee Pad Slider Review",
+    "comment": "35",
+    "author": "by Anand Lal Shimpi",
+    "date": "10/4/2011"
+  },
+  {
+    "title": "Adobe Announces New Tablet Apps",
+    "comment": "3",
+    "author": "by Andrew Cunningham",
+    "date": "10/4/2011"
+  },
+  {
+    "title": "Samsung Gives Portability Another Try with Galaxy Tab 7.0 Plus",
+    "comment": "11",
+    "author": "by Anand Lal Shimpi",
+    "date": "9/30/2011"
+  },
+  {
+    "title": "Amazon Kindle Fire: A $199 Kindle Tablet",
+    "comment": "81",
+    "author": "by Jas Inofuentes",
+    "date": "9/28/2011"
+  },
+  {
+    "title": "Toshiba Unveils Thrive 7\" Tablet",
+    "comment": "12",
+    "author": "by Vivek Gowri",
+    "date": "9/28/2011"
+  },
+  {
+    "title": "The Wait is Over: Samsung Announces the Galaxy Tab 8.9",
+    "comment": "18",
+    "author": "by Anand Lal Shimpi",
+    "date": "9/26/2011"
+  },
+  {
+    "title": "Asus Eee Pad Slider Available Now For $479",
+    "comment": "18",
+    "author": "by Jas Inofuentes",
+    "date": "9/20/2011"
+  },
+  {
+    "title": "Kal-El Has Five Cores, Not Four: NVIDIA Reveals the Companion Core",
+    "comment": "74",
+    "author": "by Anand Lal Shimpi",
+    "date": "9/20/2011"
+  },
+  {
+    "title": "HP Offers Refund to European Touchpad, Pre3 Buyers",
+    "comment": "8",
+    "author": "by Andrew Cunningham",
+    "date": "9/14/2011"
+  },
+  {
+    "title": "Updated: Intel's Honeycomb Reference Tablet: 8.9mm Thick, Medfield Inside",
+    "comment": "13",
+    "author": "by Anand Lal Shimpi",
+    "date": "9/13/2011"
+  },
+  {
+    "title": "Intel Oculus: Preparing Intel for Competition in Smartphones & Tablets",
+    "comment": "4",
+    "author": "by Anand Lal Shimpi",
+    "date": "9/13/2011"
+  },
+  {
+    "title": "The Updated Tegra Roadmap: Kal-El+ in 2012, Wayne in Late 2012/Early 2013",
+    "comment": "7",
+    "author": "by Anand Lal Shimpi",
+    "date": "9/12/2011"
+  },
+  {
+    "title": "TouchDroid Project Dies, But Work Continues on Touchpad Android Port",
+    "comment": "17",
+    "author": "by Andrew Cunningham",
+    "date": "9/9/2011"
+  },
+  {
+    "title": "Sony Enters Tablet Market - Announces Two Tablets",
+    "comment": "40",
+    "author": "by Kristian V\u00e4tt\u00f6",
+    "date": "8/31/2011"
+  },
+  {
+    "title": "More TouchPad News: QuickOffice HD and Forthcoming System Updates",
+    "comment": "12",
+    "author": "by Anand Lal Shimpi",
+    "date": "8/30/2011"
+  },
+  {
+    "title": "HP Offers Another Free 6-pack of TouchPad Apps",
+    "comment": "8",
+    "author": "by Anand Lal Shimpi",
+    "date": "8/29/2011"
+  },
+  {
+    "title": "New TouchPad Owners: HP Offers Six Pack of TouchPad Apps for Free",
+    "comment": "13",
+    "author": "by Anand Lal Shimpi",
+    "date": "8/25/2011"
+  },
+  {
+    "title": "TouchDroid Project Bringing Android to HP Touchpad",
+    "comment": "18",
+    "author": "by Andrew Cunningham",
+    "date": "8/22/2011"
+  },
+  {
+    "title": "Updated: HP TouchPad Reduced to $99 and $149 (16GB & 32GB)",
+    "comment": "35",
+    "author": "by Anand Lal Shimpi",
+    "date": "8/20/2011"
+  },
+  {
+    "title": "It's Not Qualcomm's Fault: Dispelling TouchPad Myths",
+    "comment": "79",
+    "author": "by Anand Lal Shimpi & Brian Klug",
+    "date": "8/19/2011"
+  },
+  {
+    "title": "webOS Hardware Division Will Shut Down by Q4 2011",
+    "comment": "6",
+    "author": "by Anand Lal Shimpi",
+    "date": "8/18/2011"
+  },
+  {
+    "title": "HP to Discontinue webOS Hardware, Discussing the Future of webOS",
+    "comment": "70",
+    "author": "by Anand Lal Shimpi",
+    "date": "8/18/2011"
+  },
+  {
+    "title": "The Summer of Honeycomb Grand Finale",
+    "comment": "3291",
+    "author": "by Anand Lal Shimpi",
+    "date": "8/18/2011"
+  },
+  {
+    "title": "Samsung Galaxy Tab 10.1 4G LTE Review",
+    "comment": "41",
+    "author": "by Anand Lal Shimpi",
+    "date": "8/15/2011"
+  },
+  {
+    "title": "HTC Invests $300M in Beats Electronics, Audio is a Priority for Future Smartphones",
+    "comment": "12",
+    "author": "by Anand Lal Shimpi",
+    "date": "8/10/2011"
+  },
+  {
+    "title": "Samsung TouchWiz UX Review: Honeycomb Gets Skinned",
+    "comment": "32",
+    "author": "by Jas Inofuentes",
+    "date": "8/5/2011"
+  },
+  {
+    "title": "Back To School Technology Buyer's Guide",
+    "comment": "95",
+    "author": "by Zach Throckmort",
+    "date": "8/4/2011"
+  },
+  {
+    "title": "Qualcomm's March into the Gaming Market",
+    "comment": "8",
+    "author": "by Anand Lal Shimpi",
+    "date": "8/3/2011"
+  },
+  {
+    "title": "Qualcomm's Updated Brand: Introducing Snapdragon S1, S2, S3 & S4 Processors",
+    "comment": "25",
+    "author": "by Anand Lal Shimpi",
+    "date": "8/3/2011"
+  },
+  {
+    "title": "Android 3.2 on the ASUS Eee Pad Transformer: Tested",
+    "comment": "30",
+    "author": "by Anand Lal Shimpi",
+    "date": "8/3/2011"
+  },
+  {
+    "title": "The Summer of Honeycomb, Part 3: Win a Samsung Galaxy Tab 10.1",
+    "comment": "2820",
+    "author": "by Anand Lal Shimpi",
+    "date": "7/29/2011"
+  },
+  {
+    "title": "Archos 80 and 101 G9 Tablets: The Fastest Tablets In The World?",
+    "comment": "43",
+    "author": "by Jas Inofuentes",
+    "date": "7/18/2011"
+  },
+  {
+    "title": "The HP TouchPad Review: webOS on the Big Screen",
+    "comment": "68",
+    "author": "by Anand Lal Shimpi",
+    "date": "7/17/2011"
+  },
+  {
+    "title": "The Summer of Honeycomb, Part 2: Win an ASUS Eee Pad Transformer",
+    "comment": "2046",
+    "author": "by Anand Lal Shimpi",
+    "date": "7/17/2011"
+  },
+  {
+    "title": "HP Touchpad 4G Coming to AT&T",
+    "comment": "30",
+    "author": "by Jas Inofuentes",
+    "date": "7/12/2011"
+  },
+  {
+    "title": "The Summer of Honeycomb, Part 1: Win an ASUS Eee Pad Transformer",
+    "comment": "4181",
+    "author": "by Anand Lal Shimpi",
+    "date": "7/8/2011"
+  },
+  {
+    "title": "MSI Announces WindPad 110W With New AMD Z-01",
+    "comment": "37",
+    "author": "by Dustin Sklavos",
+    "date": "7/7/2011"
+  },
+  {
+    "title": "Acer Iconia A500 - Honeycomb on a Budget",
+    "comment": "46",
+    "author": "by Vivek Gowri & Jarred Walt",
+    "date": "6/24/2011"
+  },
+  {
+    "title": "The HTC Flyer Review",
+    "comment": "26",
+    "author": "by Anand Lal Shimpi",
+    "date": "6/21/2011"
+  },
+  {
+    "title": "Samsung Galaxy Tab 10.1 Review: The Sleekest Honeycomb Tablet",
+    "comment": "108",
+    "author": "by Anand Lal Shimpi",
+    "date": "6/13/2011"
+  },
+  {
+    "title": "Toshiba Thrives in the Tablet Market",
+    "comment": "28",
+    "author": "by Dustin Sklavos",
+    "date": "6/7/2011"
+  },
+  {
+    "title": "Kingston Wi-Drive Offers Wireless iPad Storage Expansion",
+    "comment": "7",
+    "author": "by Anand Lal Shimpi",
+    "date": "6/1/2011"
+  },
+  {
+    "title": "Computex 2011: AMD Announces Bobcat-based Z Series APUs for Tablet Market",
+    "comment": "8",
+    "author": "by Ryan Smith",
+    "date": "6/1/2011"
+  },
+  {
+    "title": "Computex 2011: MSI's Brazos, Cedar Trail and Tegra 2 Tablets",
+    "comment": "6",
+    "author": "by Anand Lal Shimpi",
+    "date": "5/31/2011"
+  },
+  {
+    "title": "The ASUS Padfone: A Smartphone That Docks into a Tablet",
+    "comment": "26",
+    "author": "by Anand Lal Shimpi",
+    "date": "5/30/2011"
+  },
+  {
+    "title": "NVIDIA's Kal-El Glowball Shows off Dynamic Lighting & Quad-Core Physics on a Tablet",
+    "comment": "53",
+    "author": "by Anand Lal Shimpi",
+    "date": "5/29/2011"
+  },
+  {
+    "title": "Android 3.1 on the ASUS Eee Pad Transformer",
+    "comment": "43",
+    "author": "by Anand Lal Shimpi",
+    "date": "5/28/2011"
+  },
+  {
+    "title": "Battle of the Budget Tablets - Nook Color vs. Galaxy Tab",
+    "comment": "89",
+    "author": "by Vivek Gowri",
+    "date": "5/25/2011"
+  },
+  {
+    "title": "The Motorola Xoom Giveaway, Final Round",
+    "comment": "1865",
+    "author": "by Anand Lal Shimpi",
+    "date": "4/25/2011"
+  },
+  {
+    "title": "Lenovo X1 Leaked: Sandy Bridge Gets Thin",
+    "comment": "47",
+    "author": "by Jas Inofuentes",
+    "date": "4/25/2011"
+  },
+  {
+    "title": "The Motorola Xoom Giveaway, Round 3",
+    "comment": "2343",
+    "author": "by Anand Lal Shimpi",
+    "date": "4/21/2011"
+  },
+  {
+    "title": "ASUS Eee Pad Transformer Review",
+    "comment": "128",
+    "author": "by Anand Lal Shimpi",
+    "date": "4/21/2011"
+  },
+  {
+    "title": "The Motorola Xoom Giveaway, Round 2",
+    "comment": "2395",
+    "author": "by Anand Lal Shimpi",
+    "date": "4/19/2011"
+  },
+  {
+    "title": "The Motorola Xoom Giveaway, Round 1",
+    "comment": "3354",
+    "author": "by Anand Lal Shimpi",
+    "date": "4/15/2011"
+  },
+  {
+    "title": "The BlackBerry PlayBook Review",
+    "comment": "78",
+    "author": "by Anand Lal Shimpi",
+    "date": "4/13/2011"
+  },
+  {
+    "title": "Acer\u2019s Iconia Tab A500 Joins the Honeycomb Party",
+    "comment": "53",
+    "author": "by Jarred Walt",
+    "date": "4/8/2011"
+  },
+  {
+    "title": "Tablets: How Would You Solve the Input Problem?",
+    "comment": "247",
+    "author": "by Anand Lal Shimpi",
+    "date": "3/29/2011"
+  },
+  {
+    "title": "Samsung's Galaxy Tab 10.1 & 8.9, Smaller than iPad 2, Competitively Priced",
+    "comment": "73",
+    "author": "by Anand Lal Shimpi",
+    "date": "3/22/2011"
+  },
+  {
+    "title": "The Apple iPad 2 Review",
+    "comment": "201",
+    "author": "by Brian Klug, Anand Lal Shimpi & Vivek Gowri",
+    "date": "3/19/2011"
+  },
+  {
+    "title": "Apple iPad 2 GPU Performance Explored: PowerVR SGX543MP2 Benchmarked",
+    "comment": "219",
+    "author": "by Anand Lal Shimpi",
+    "date": "3/12/2011"
+  },
+  {
+    "title": "Apple iPad 2 Preview",
+    "comment": "86",
+    "author": "by Anand Lal Shimpi, Brian Klug & Vivek Gowri",
+    "date": "3/12/2011"
+  },
+  {
+    "title": "The iPad 2 and iOS 4.3 Announcement",
+    "comment": "104",
+    "author": "by Andrew Cunningham & Cara Hamm",
+    "date": "3/2/2011"
+  },
+  {
+    "title": "Motorola Xoom Review: The First Honeycomb Tablet Arrives",
+    "comment": "112",
+    "author": "by Anand Lal Shimpi",
+    "date": "2/23/2011"
+  },
+  {
+    "title": "HP's TouchPad at MWC 2011",
+    "comment": "7",
+    "author": "by Anand Lal Shimpi",
+    "date": "2/14/2011"
+  },
+  {
+    "title": "Intel Shows Off MeeGo Tablet User Experience",
+    "comment": "15",
+    "author": "by Anand Lal Shimpi",
+    "date": "2/14/2011"
+  },
+  {
+    "title": "Hands on with the Samsung Galaxy S II & Galaxy Tab 10.1",
+    "comment": "25",
+    "author": "by Anand Lal Shimpi",
+    "date": "2/13/2011"
+  },
+  {
+    "title": "Analysis of HP's event : It's Raining webOS",
+    "comment": "20",
+    "author": "by Mithun Chandrasekhar",
+    "date": "2/9/2011"
+  },
+  {
+    "title": "HP Announces TouchPad, Veer and Pre 3: All Powered by Qualcomm",
+    "comment": "27",
+    "author": "by Mithun Chandrasekhar",
+    "date": "2/9/2011"
+  },
+  {
+    "title": "Google's Android Event Analysis",
+    "comment": "23",
+    "author": "by Mithun Chandrasekhar",
+    "date": "2/2/2011"
+  },
+  {
+    "title": "[Updated with Gallery!] Google's Android Event, with Honeycomb and more!",
+    "comment": "18",
+    "author": "by Mithun Chandrasekhar",
+    "date": "2/2/2011"
+  },
+  {
+    "title": "Tablet Hands-On Roundup",
+    "comment": "49",
+    "author": "by Vivek Gowri",
+    "date": "1/27/2011"
+  },
+  {
+    "title": "CES 2011: Toshiba's Tablet and Glasses-Free 3D",
+    "comment": "15",
+    "author": "by Dustin Sklavos",
+    "date": "1/9/2011"
+  },
+  {
+    "title": "ASUS Announces Eee Pad and Eee Slate Tablets",
+    "comment": "37",
+    "author": "by Vivek Gowri",
+    "date": "1/4/2011"
+  },
+  {
+    "title": "Samsung Galaxy Tab - The AnandTech Review",
+    "comment": "97",
+    "author": "by Vivek Gowri",
+    "date": "12/23/2010"
+  },
+  {
+    "title": "Nvidia Tegra 2 - Graphics Performance Update",
+    "comment": "28",
+    "author": "by Vivek Gowri",
+    "date": "12/20/2010"
+  },
+  {
+    "title": "First Look: Viewsonic G Tablet and Tegra 2 Performance Preview",
+    "comment": "81",
+    "author": "by Vivek Gowri",
+    "date": "12/9/2010"
+  },
+  {
+    "title": "TI Reveals OMAP4440 Specs: Dual 1.5GHz Cortex A9, 25% Faster GPU, HDMI 1.4 3D, 1080p60",
+    "comment": "39",
+    "author": "by Anand Lal Shimpi",
+    "date": "12/8/2010"
+  }
+]

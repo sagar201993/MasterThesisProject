@@ -1,0 +1,3 @@
+"Android","Apple","Cooling","Cpu","Desktop Review","Gpus","Htc","Huawei","Mac Review","Memory","Microsoft","Motheboard","Nas","Notebook Review","Samsung","Smartphones","Ssd","Storage","Tablets","Ultrabook Review"
+
+Android,Apple,Cooling,Cpu,Desktop Review,Gpus,Htc,Huawei,Mac Review,Memory,Microsoft,Motheboard,Nas,Notebook Review,Samsung,Smartphones,Ssd,Storage,Tablets,Ultrabook Review
