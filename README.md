@@ -155,14 +155,16 @@ Meta Scraper offers the following features:
 ```bash
 # Clone the project
 git clone https://github.com/yourusername/meta-scraper.git
-cd meta-scraper
+cd backend
 
 # Install backend dependencies
 npm install
 
 # Start the backend server
-npm run server
+npm start
 
 # Open another terminal for frontend
+cd frontend
+npm install
 npm start
 ```
